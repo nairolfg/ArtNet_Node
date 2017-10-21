@@ -1,0 +1,48 @@
+(ExpressProject "ArtNet_Node"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB - PSpice")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\artnet_node.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (75176
+      (FullPartName "75176.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MISC3.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Select "Design Resources" ".\artnet_node.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 485"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1315 26 550")
+        (Scroll "-121 0")
+        (Zoom "103")
+        (Occurrence "/"))
+      (Path "C:\CADENCE\PROJECTS\ARTNET_NODE\ARTNET_NODE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\MGZ\Downloads\DMX_Funk\Layout__V1_0")
+  (Folder "PSpice Resources"
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User))
+    (Folder "Simulation Profiles"))
+  (MPSSessionName "MGZ"))
