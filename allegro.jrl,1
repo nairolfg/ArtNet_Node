@@ -1,0 +1,2272 @@
+\t (00:00:23) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:23)     Journal start - Mon Oct 23 16:17:03 2017
+\t (00:00:23)         Host=FLOPC User=MGZ Pid=11752 CPUs=4
+\t (00:00:23) 
+\t (00:00:23) Starting new design...
+\i (00:00:23) trapsize 11918
+\i (00:00:23) trapsize 11918
+\i (00:00:23) generaledit 
+\i (00:00:24) place manual 
+\i (00:00:26) setwindow form.plc_manual
+\i (00:00:26) FORM plc_manual advanced_settings  
+\i (00:00:27) FORM plc_manual library YES 
+\i (00:00:28) FORM plc_manual placement_list  
+\i (00:00:32) FORM plc_manual categories Package symbols 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) prmed 
+\i (00:00:40) setwindow form.prmedit
+\i (00:00:40) FORM prmedit display_grid YES 
+\i (00:00:42) FORM prmedit done  
+\i (00:00:42) setwindow pcb
+\i (00:00:42) generaledit 
+\i (00:00:43) place manual 
+\i (00:00:46) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 3503.79 17518.96
+\i (00:00:46) trapsize 5959
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 3503.80 17518.96
+\i (00:00:47) trapsize 2979
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 3503.80 17518.96
+\i (00:00:47) trapsize 5959
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 3503.80 17518.96
+\i (00:00:47) trapsize 2979
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 3503.80 17518.96
+\i (00:00:48) trapsize 1490
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 3503.80 17518.96
+\i (00:00:48) trapsize 2979
+\i (00:00:51) setwindow form.plc_manual
+\i (00:00:51) FORM plc_manual tree 'MULTISEL YES' CAP1000 'Package symbols' 
+\i (00:00:51) FORM plc_manual tree  CAP1000 'Package symbols' 
+\i (00:00:53) FORM plc_manual tree 'MULTISEL NO' CAP1000 'Package symbols' 
+\i (00:00:53) FORM plc_manual tree 'MULTISEL YES' CAP196 'Package symbols' 
+\i (00:00:53) FORM plc_manual tree  CAP196 'Package symbols' 
+\i (00:00:56) FORM plc_manual tree 'MULTISEL NO' CAP196 'Package symbols' 
+\i (00:00:57) FORM plc_manual tree 'MULTISEL YES' CAP300 'Package symbols' 
+\i (00:00:57) FORM plc_manual tree  CAP300 'Package symbols' 
+\i (00:01:46) setwindow pcb
+\i (00:01:46) pick grid 3408.47 16345.07
+\t (00:01:46) last pick:  3400.00  16300.00
+\i (00:01:47) zoom in 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom in 3378.67 16213.98
+\i (00:01:47) trapsize 1490
+\i (00:01:47) zoom in 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom in 3378.68 16213.98
+\i (00:01:47) trapsize 745
+\i (00:01:55) setwindow form.plc_manual
+\i (00:01:55) FORM plc_manual tree 'MULTISEL YES' CAP300 'Package symbols' 
+\i (00:01:57) FORM plc_manual tree 'MULTISEL NO' CAP300 'Package symbols' 
+\i (00:01:58) FORM plc_manual tree 'MULTISEL YES' CAP400 'Package symbols' 
+\i (00:01:58) FORM plc_manual tree  CAP400 'Package symbols' 
+\i (00:02:07) FORM plc_manual cancel  
+\i (00:02:07) setwindow pcb
+\i (00:02:07) generaledit 
+\i (00:02:11) prmed 
+\i (00:02:16) setwindow form.prmedit
+\i (00:02:16) FORM prmedit design  
+\i (00:02:18) FORM prmedit display  
+\i (00:02:19) FORM prmedit view_grids_button  
+\t (00:02:19) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:02:29) setwindow form.grid
+\i (00:02:29) FORM grid top subclass_x_grids 100.00 
+\i (00:02:31) FORM grid top subclass_y_grids 100.00 
+\i (00:02:34) FORM grid bottom subclass_x_grids 100.00 
+\i (00:02:36) FORM grid bottom subclass_y_grids 100.00 
+\i (00:02:36) FORM grid done  
+\i (00:02:55) setwindow form.prmedit
+\i (00:02:55) FORM prmedit cancel  
+\i (00:02:55) setwindow pcb
+\i (00:02:55) generaledit 
+\i (00:02:56) place manual 
+\i (00:02:58) setwindow form.plc_manual
+\i (00:02:58) FORM plc_manual tree 'MULTISEL YES' CAP196 'Package symbols' 
+\i (00:02:58) FORM plc_manual tree  CAP196 'Package symbols' 
+\i (00:03:00) FORM plc_manual tree 'MULTISEL NO' CAP196 'Package symbols' 
+\i (00:03:02) FORM plc_manual tree 'MULTISEL YES' CAP500 'Package symbols' 
+\w (00:03:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:02) FORM plc_manual tree  CAP500 'Package symbols' 
+\i (00:03:09) FORM plc_manual tree 'MULTISEL NO' CAP500 'Package symbols' 
+\i (00:03:09) FORM plc_manual tree 'MULTISEL YES' CAPCK05 'Package symbols' 
+\i (00:03:09) FORM plc_manual tree  CAPCK05 'Package symbols' 
+\i (00:03:11) FORM plc_manual tree 'MULTISEL NO' CAPCK05 'Package symbols' 
+\i (00:03:12) FORM plc_manual tree 'MULTISEL YES' CAPCK06 'Package symbols' 
+\i (00:03:12) FORM plc_manual tree  CAPCK06 'Package symbols' 
+\i (00:03:33) FORM plc_manual cancel  
+\i (00:03:33) setwindow pcb
+\i (00:03:33) generaledit 
+\i (00:04:30) place manual 
+\i (00:04:34) setwindow form.plc_manual
+\i (00:04:34) FORM plc_manual tree  CAPCK62 'Package symbols' 
+\i (00:04:35) FORM plc_manual tree 'MULTISEL YES' CAPCK62 'Package symbols' 
+\i (00:04:37) FORM plc_manual tree 'MULTISEL NO' CAPCK62 'Package symbols' 
+\i (00:04:39) FORM plc_manual tree  CAP1000 'Package symbols' 
+\i (00:04:39) FORM plc_manual tree 'MULTISEL YES' CAP1000 'Package symbols' 
+\i (00:04:41) FORM plc_manual tree 'MULTISEL NO' CAP1000 'Package symbols' 
+\i (00:04:42) FORM plc_manual tree 'MULTISEL YES' CAP1500 'Package symbols' 
+\i (00:04:42) FORM plc_manual tree  CAP1500 'Package symbols' 
+\i (00:04:44) FORM plc_manual tree 'MULTISEL NO' CAP1500 'Package symbols' 
+\i (00:04:44) FORM plc_manual tree 'MULTISEL YES' CAP196 'Package symbols' 
+\i (00:04:44) FORM plc_manual tree  CAP196 'Package symbols' 
+\i (00:04:46) FORM plc_manual tree 'MULTISEL NO' CAP196 'Package symbols' 
+\i (00:04:47) FORM plc_manual tree 'MULTISEL YES' CAP300 'Package symbols' 
+\i (00:04:47) FORM plc_manual tree  CAP300 'Package symbols' 
+\i (00:04:49) FORM plc_manual tree 'MULTISEL NO' CAP300 'Package symbols' 
+\i (00:04:50) FORM plc_manual tree 'MULTISEL YES' CAP400 'Package symbols' 
+\i (00:04:50) FORM plc_manual tree  CAP400 'Package symbols' 
+\i (00:04:52) FORM plc_manual tree 'MULTISEL NO' CAP400 'Package symbols' 
+\i (00:04:53) FORM plc_manual tree 'MULTISEL YES' CK12-10PF 'Package symbols' 
+\i (00:04:53) FORM plc_manual tree  CK12-10PF 'Package symbols' 
+\i (00:04:55) FORM plc_manual tree 'MULTISEL NO' CK12-10PF 'Package symbols' 
+\i (00:04:56) FORM plc_manual tree 'MULTISEL YES' CB417 'Package symbols' 
+\i (00:04:56) FORM plc_manual tree  CB417 'Package symbols' 
+\i (00:04:58) FORM plc_manual tree 'MULTISEL NO' CB417 'Package symbols' 
+\i (00:05:02) FORM plc_manual tree 'MULTISEL YES' CK17-10PF 'Package symbols' 
+\i (00:05:02) FORM plc_manual tree  CK17-10PF 'Package symbols' 
+\i (00:05:04) FORM plc_manual tree 'MULTISEL NO' CK17-10PF 'Package symbols' 
+\i (00:05:05) FORM plc_manual tree 'MULTISEL YES' CK16-10PF 'Package symbols' 
+\i (00:05:05) FORM plc_manual tree  CK16-10PF 'Package symbols' 
+\i (00:05:06) FORM plc_manual tree 'MULTISEL NO' CK16-10PF 'Package symbols' 
+\i (00:05:07) FORM plc_manual tree 'MULTISEL YES' CK15-10PF 'Package symbols' 
+\i (00:05:07) FORM plc_manual tree  CK15-10PF 'Package symbols' 
+\i (00:05:09) FORM plc_manual tree 'MULTISEL NO' CK15-10PF 'Package symbols' 
+\i (00:05:09) FORM plc_manual tree 'MULTISEL YES' CK14-10PF 'Package symbols' 
+\i (00:05:09) FORM plc_manual tree  CK14-10PF 'Package symbols' 
+\i (00:05:11) FORM plc_manual tree 'MULTISEL NO' CK14-10PF 'Package symbols' 
+\i (00:05:22) FORM plc_manual tree 'MULTISEL YES' FGCAP6377 'Package symbols' 
+\w (00:05:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:05:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:05:22) FORM plc_manual tree  FGCAP6377 'Package symbols' 
+\i (00:05:24) FORM plc_manual tree 'MULTISEL NO' FGCAP6377 'Package symbols' 
+\i (00:05:24) FORM plc_manual tree 'MULTISEL YES' FGCAPPANASONIC_B 'Package symbols' 
+\w (00:05:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:05:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:05:24) FORM plc_manual tree  FGCAPPANASONIC_B 'Package symbols' 
+\i (00:05:26) FORM plc_manual tree 'MULTISEL NO' FGCAPPANASONIC_B 'Package symbols' 
+\i (00:05:29) FORM plc_manual tree 'MULTISEL YES' FG0805C 'Package symbols' 
+\w (00:05:29) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:05:29) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:05:29) FORM plc_manual tree  FG0805C 'Package symbols' 
+\i (00:05:31) FORM plc_manual tree 'MULTISEL NO' FG0805C 'Package symbols' 
+\i (00:05:32) FORM plc_manual tree 'MULTISEL YES' FG0805C2 'Package symbols' 
+\w (00:05:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:05:32) FORM plc_manual tree  FG0805C2 'Package symbols' 
+\i (00:05:33) FORM plc_manual tree 'MULTISEL NO' FG0805C2 'Package symbols' 
+\i (00:05:36) FORM plc_manual tree 'MULTISEL YES' FG47UF 'Package symbols' 
+\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:05:36) FORM plc_manual tree  FG47UF 'Package symbols' 
+\i (00:05:38) FORM plc_manual tree 'MULTISEL NO' FG47UF 'Package symbols' 
+\i (00:05:48) FORM plc_manual tree 'MULTISEL YES' CAP1000 'Package symbols' 
+\i (00:05:48) FORM plc_manual tree  CAP1000 'Package symbols' 
+\i (00:05:50) FORM plc_manual tree 'MULTISEL NO' CAP1000 'Package symbols' 
+\i (00:05:50) FORM plc_manual tree 'MULTISEL YES' CAP1500 'Package symbols' 
+\i (00:05:50) FORM plc_manual tree  CAP1500 'Package symbols' 
+\i (00:05:52) FORM plc_manual tree 'MULTISEL NO' CAP1500 'Package symbols' 
+\i (00:05:53) FORM plc_manual tree 'MULTISEL YES' CAP196 'Package symbols' 
+\i (00:05:53) FORM plc_manual tree  CAP196 'Package symbols' 
+\i (00:05:56) setwindow pcb
+\i (00:05:56) pick grid 3949.24 16279.53
+\t (00:05:56) last pick:  3900.00  16300.00
+\i (00:05:58) Esc 
+\i (00:06:00) setwindow form.plc_manual
+\i (00:06:00) FORM plc_manual tree 'MULTISEL YES' CAP300 'Package symbols' 
+\i (00:06:00) FORM plc_manual tree  CAP300 'Package symbols' 
+\i (00:06:01) FORM plc_manual cancel  
+\i (00:06:02) setwindow pcb
+\i (00:06:02) generaledit 
+\i (00:06:06) pick grid 3976.06 16422.54
+\t (00:06:06) last pick:  4000.00  16400.00
+\e (00:06:07) Command not found: Del
+\i (00:06:08) delete 
+\i (00:06:08) generaledit 
+\i (00:06:09) pick grid 3983.50 16371.89
+\t (00:06:09) last pick:  4000.00  16400.00
+\i (00:06:09) pick grid 4049.05 16401.68
+\t (00:06:09) last pick:  4000.00  16400.00
+\i (00:06:10) pick grid 3976.06 16404.66
+\t (00:06:10) last pick:  4000.00  16400.00
+\i (00:06:11) pick grid 4075.87 16453.82
+\t (00:06:11) last pick:  4100.00  16500.00
+\i (00:06:12) delete 
+\i (00:06:13) pick grid 3925.41 16440.41
+\t (00:06:13) last pick:  3900.00  16400.00
+\t (00:06:13) Symbol "C*"
+\i (00:06:13) pick grid 4233.77 16486.59
+\t (00:06:13) last pick:  4200.00  16500.00
+\i (00:06:14) prepopup 3675.13 16665.36
+\i (00:06:15) done 
+\i (00:06:15) generaledit 
+\i (00:06:15) place manual 
+\i (00:06:18) setwindow form.plc_manual
+\i (00:06:18) FORM plc_manual tree 'MULTISEL YES' CAP196 'Package symbols' 
+\i (00:06:18) FORM plc_manual tree  CAP196 'Package symbols' 
+\i (00:06:20) FORM plc_manual tree 'MULTISEL NO' CAP196 'Package symbols' 
+\i (00:06:40) FORM plc_manual tree 'MULTISEL YES' BGA256 'Package symbols' 
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:06:40) FORM plc_manual tree  BGA256 'Package symbols' 
+\i (00:06:41) FORM plc_manual tree 'MULTISEL NO' BGA256 'Package symbols' 
+\i (00:06:42) FORM plc_manual tree 'MULTISEL YES' BGA256FULL 'Package symbols' 
+\w (00:06:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:06:42) FORM plc_manual tree  BGA256FULL 'Package symbols' 
+\i (00:06:44) FORM plc_manual tree 'MULTISEL NO' BGA256FULL 'Package symbols' 
+\i (00:06:51) FORM plc_manual tree 'MULTISEL YES' USRDEF_1 'Package symbols' 
+\w (00:06:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:06:51) FORM plc_manual tree  USRDEF_1 'Package symbols' 
+\i (00:06:53) FORM plc_manual tree 'MULTISEL NO' USRDEF_1 'Package symbols' 
+\i (00:07:00) FORM plc_manual tree 'MULTISEL YES' RES400 'Package symbols' 
+\i (00:07:00) FORM plc_manual tree  RES400 'Package symbols' 
+\i (00:07:03) FORM plc_manual tree 'MULTISEL NO' RES400 'Package symbols' 
+\i (00:07:09) FORM plc_manual tree 'MULTISEL YES' CLCC84 'Package symbols' 
+\i (00:07:09) FORM plc_manual tree  CLCC84 'Package symbols' 
+\i (00:07:11) FORM plc_manual tree 'MULTISEL NO' CLCC84 'Package symbols' 
+\i (00:07:13) FORM plc_manual tree 'MULTISEL YES' CONN10 'Package symbols' 
+\i (00:07:13) FORM plc_manual tree  CONN10 'Package symbols' 
+\i (00:07:15) FORM plc_manual tree 'MULTISEL NO' CONN10 'Package symbols' 
+\i (00:07:16) FORM plc_manual tree 'MULTISEL YES' CONN20 'Package symbols' 
+\i (00:07:16) FORM plc_manual tree  CONN20 'Package symbols' 
+\i (00:07:18) FORM plc_manual tree 'MULTISEL NO' CONN20 'Package symbols' 
+\i (00:07:18) FORM plc_manual tree 'MULTISEL YES' CONN26 'Package symbols' 
+\i (00:07:18) FORM plc_manual tree  CONN26 'Package symbols' 
+\i (00:07:19) FORM plc_manual tree 'MULTISEL NO' CONN26 'Package symbols' 
+\i (00:07:23) FORM plc_manual tree 'MULTISEL YES' DIP10_2 'Package symbols' 
+\i (00:07:23) FORM plc_manual tree  DIP10_2 'Package symbols' 
+\i (00:07:25) FORM plc_manual tree 'MULTISEL NO' DIP10_2 'Package symbols' 
+\i (00:07:32) FORM plc_manual tree 'MULTISEL YES' CAPP2_SPACE 'Package symbols' 
+\i (00:07:32) FORM plc_manual tree  CAPP2_SPACE 'Package symbols' 
+\i (00:07:35) FORM plc_manual tree 'MULTISEL NO' CAPP2_SPACE 'Package symbols' 
+\i (00:07:35) FORM plc_manual tree 'MULTISEL YES' CAPP2_PAD1 'Package symbols' 
+\i (00:07:35) FORM plc_manual tree  CAPP2_PAD1 'Package symbols' 
+\i (00:07:38) FORM plc_manual tree 'MULTISEL NO' CAPP2_PAD1 'Package symbols' 
+\i (00:07:39) FORM plc_manual tree 'MULTISEL YES' CAPCK62 'Package symbols' 
+\i (00:07:39) FORM plc_manual tree  CAPCK62 'Package symbols' 
+\i (00:07:42) FORM plc_manual tree 'MULTISEL NO' CAPCK62 'Package symbols' 
+\i (00:07:43) FORM plc_manual tree 'MULTISEL YES' CAPCK60 'Package symbols' 
+\i (00:07:43) FORM plc_manual tree  CAPCK60 'Package symbols' 
+\i (00:07:44) FORM plc_manual tree 'MULTISEL NO' CAPCK60 'Package symbols' 
+\i (00:07:44) FORM plc_manual tree 'MULTISEL YES' CAPCK06 'Package symbols' 
+\i (00:07:44) FORM plc_manual tree  CAPCK06 'Package symbols' 
+\i (00:07:47) FORM plc_manual tree 'MULTISEL NO' CAPCK06 'Package symbols' 
+\i (00:07:48) FORM plc_manual tree 'MULTISEL YES' CAPCK05 'Package symbols' 
+\i (00:07:48) FORM plc_manual tree  CAPCK05 'Package symbols' 
+\i (00:07:50) FORM plc_manual tree 'MULTISEL NO' CAPCK05 'Package symbols' 
+\i (00:07:51) FORM plc_manual tree 'MULTISEL YES' CAP500 'Package symbols' 
+\w (00:07:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:07:51) FORM plc_manual tree  CAP500 'Package symbols' 
+\i (00:07:57) FORM plc_manual tree 'MULTISEL NO' CAP500 'Package symbols' 
+\i (00:07:57) FORM plc_manual tree 'MULTISEL YES' CAP400 'Package symbols' 
+\i (00:07:57) FORM plc_manual tree  CAP400 'Package symbols' 
+\i (00:08:00) FORM plc_manual tree 'MULTISEL NO' CAP400 'Package symbols' 
+\i (00:08:00) FORM plc_manual tree 'MULTISEL YES' CAP600 'Package symbols' 
+\i (00:08:00) FORM plc_manual tree  CAP600 'Package symbols' 
+\i (00:08:02) FORM plc_manual tree 'MULTISEL NO' CAP600 'Package symbols' 
+\i (00:08:03) FORM plc_manual tree 'MULTISEL YES' CAP500 'Package symbols' 
+\i (00:08:03) FORM plc_manual tree  CAP500 'Package symbols' 
+\i (00:08:06) FORM plc_manual tree 'MULTISEL NO' CAP500 'Package symbols' 
+\i (00:08:32) FORM plc_manual tree 'MULTISEL YES' CAP1000 'Package symbols' 
+\i (00:08:32) FORM plc_manual tree  CAP1000 'Package symbols' 
+\i (00:08:34) FORM plc_manual tree 'MULTISEL NO' CAP1000 'Package symbols' 
+\i (00:08:35) FORM plc_manual tree 'MULTISEL YES' CK14-10PF 'Package symbols' 
+\i (00:08:35) FORM plc_manual tree  CK14-10PF 'Package symbols' 
+\i (00:08:37) FORM plc_manual tree 'MULTISEL NO' CK14-10PF 'Package symbols' 
+\i (00:08:38) FORM plc_manual tree 'MULTISEL YES' CK13-10PF 'Package symbols' 
+\i (00:08:38) FORM plc_manual tree  CK13-10PF 'Package symbols' 
+\i (00:08:40) FORM plc_manual tree 'MULTISEL NO' CK13-10PF 'Package symbols' 
+\i (00:08:40) FORM plc_manual tree 'MULTISEL YES' CK12-10PF 'Package symbols' 
+\i (00:08:40) FORM plc_manual tree  CK12-10PF 'Package symbols' 
+\i (00:08:42) FORM plc_manual tree 'MULTISEL NO' CK12-10PF 'Package symbols' 
+\i (00:08:43) FORM plc_manual tree 'MULTISEL YES' CK15-10PF 'Package symbols' 
+\i (00:08:43) FORM plc_manual tree  CK15-10PF 'Package symbols' 
+\i (00:08:45) FORM plc_manual tree 'MULTISEL NO' CK15-10PF 'Package symbols' 
+\i (00:08:45) FORM plc_manual tree 'MULTISEL YES' CK16-10PF 'Package symbols' 
+\i (00:08:45) FORM plc_manual tree  CK16-10PF 'Package symbols' 
+\i (00:08:47) FORM plc_manual tree 'MULTISEL NO' CK16-10PF 'Package symbols' 
+\i (00:08:48) FORM plc_manual tree 'MULTISEL YES' CLCC28 'Package symbols' 
+\i (00:08:48) FORM plc_manual tree  CLCC28 'Package symbols' 
+\i (00:08:50) FORM plc_manual tree 'MULTISEL NO' CLCC28 'Package symbols' 
+\i (00:08:51) FORM plc_manual tree 'MULTISEL YES' CB417 'Package symbols' 
+\i (00:08:51) FORM plc_manual tree  CB417 'Package symbols' 
+\i (00:08:54) FORM plc_manual tree 'MULTISEL NO' CB417 'Package symbols' 
+\i (00:08:55) FORM plc_manual tree 'MULTISEL YES' CB298 'Package symbols' 
+\i (00:08:55) FORM plc_manual tree  CB298 'Package symbols' 
+\i (00:08:56) FORM plc_manual tree 'MULTISEL NO' CB298 'Package symbols' 
+\i (00:09:00) FORM plc_manual tree 'MULTISEL YES' DIO400 'Package symbols' 
+\i (00:09:00) FORM plc_manual tree  DIO400 'Package symbols' 
+\i (00:09:02) FORM plc_manual tree 'MULTISEL NO' DIO400 'Package symbols' 
+\i (00:09:03) FORM plc_manual tree 'MULTISEL YES' DIO500 'Package symbols' 
+\i (00:09:03) FORM plc_manual tree  DIO500 'Package symbols' 
+\i (00:09:05) setwindow pcb
+\i (00:09:05) pick grid 3837.51 15896.67
+\t (00:09:05) last pick:  3800.00  15900.00
+\i (00:09:07) setwindow form.plc_manual
+\i (00:09:07) FORM plc_manual tree 'MULTISEL YES' DIO400 'Package symbols' 
+\i (00:09:07) FORM plc_manual tree  DIO400 'Package symbols' 
+\i (00:09:10) FORM plc_manual tree 'MULTISEL NO' DIO400 'Package symbols' 
+\i (00:10:59) FORM plc_manual tree  FGCON3_1 'Package symbols' 
+\i (00:11:00) FORM plc_manual tree 'MULTISEL YES' FGCON3_1 'Package symbols' 
+\w (00:11:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:03) FORM plc_manual cancel  
+\i (00:11:03) setwindow pcb
+\i (00:11:03) generaledit 
+\i (00:11:15) place manual 
+\i (00:11:20) setwindow form.plc_manual
+\i (00:11:20) FORM plc_manual tree 'MULTISEL YES' FGCON2_1 'Package symbols' 
+\w (00:11:20) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:20) FORM plc_manual tree  FGCON2_1 'Package symbols' 
+\i (00:11:21) FORM plc_manual tree 'MULTISEL NO' FGCON2_1 'Package symbols' 
+\i (00:11:33) setwindow pcb
+\i (00:11:33) xname_flush 
+\i (00:12:00) setwindow form.plc_manual
+\i (00:12:00) FORM plc_manual tree 'MULTISEL YES' FGCON10 'Package symbols' 
+\w (00:12:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:12:00) FORM plc_manual tree  FGCON10 'Package symbols' 
+\i (00:12:22) FORM plc_manual tree 'MULTISEL NO' FGCON10 'Package symbols' 
+\i (00:12:39) FORM plc_manual tree 'MULTISEL YES' JUMPER4 'Package symbols' 
+\i (00:12:39) FORM plc_manual tree  JUMPER4 'Package symbols' 
+\i (00:12:52) FORM plc_manual tree 'MULTISEL NO' JUMPER4 'Package symbols' 
+\i (00:13:06) FORM plc_manual tree 'MULTISEL YES' CAP196 'Package symbols' 
+\i (00:13:06) FORM plc_manual tree  CAP196 'Package symbols' 
+\i (00:13:08) FORM plc_manual tree 'MULTISEL NO' CAP196 'Package symbols' 
+\i (00:13:28) FORM plc_manual tree 'MULTISEL YES' RES400 'Package symbols' 
+\i (00:13:28) FORM plc_manual tree  RES400 'Package symbols' 
+\i (00:13:45) FORM plc_manual tree 'MULTISEL NO' RES400 'Package symbols' 
+\i (00:13:46) FORM plc_manual tree 'MULTISEL YES' RES500 'Package symbols' 
+\i (00:13:46) FORM plc_manual tree  RES500 'Package symbols' 
+\i (00:13:48) FORM plc_manual tree 'MULTISEL NO' RES500 'Package symbols' 
+\i (00:13:49) FORM plc_manual tree 'MULTISEL YES' RES600 'Package symbols' 
+\i (00:13:49) FORM plc_manual tree  RES600 'Package symbols' 
+\i (00:13:51) FORM plc_manual tree 'MULTISEL NO' RES600 'Package symbols' 
+\i (00:13:52) FORM plc_manual tree 'MULTISEL YES' RESADJ 'Package symbols' 
+\i (00:13:52) FORM plc_manual tree  RESADJ 'Package symbols' 
+\i (00:13:53) FORM plc_manual tree 'MULTISEL NO' RESADJ 'Package symbols' 
+\i (00:13:55) FORM plc_manual tree 'MULTISEL YES' RES1000 'Package symbols' 
+\i (00:13:55) FORM plc_manual tree  RES1000 'Package symbols' 
+\i (00:13:57) FORM plc_manual tree 'MULTISEL NO' RES1000 'Package symbols' 
+\i (00:13:57) FORM plc_manual tree 'MULTISEL YES' RES400 'Package symbols' 
+\i (00:13:57) FORM plc_manual tree  RES400 'Package symbols' 
+\i (00:14:04) FORM plc_manual tree 'MULTISEL NO' RES400 'Package symbols' 
+\i (00:14:31) FORM plc_manual tree 'MULTISEL YES' SO24 'Package symbols' 
+\w (00:14:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:14:31) FORM plc_manual tree  SO24 'Package symbols' 
+\i (00:14:33) FORM plc_manual tree 'MULTISEL NO' SO24 'Package symbols' 
+\i (00:14:41) FORM plc_manual tree 'MULTISEL YES' TO3 'Package symbols' 
+\i (00:14:41) FORM plc_manual tree  TO3 'Package symbols' 
+\i (00:14:43) FORM plc_manual tree 'MULTISEL NO' TO3 'Package symbols' 
+\i (00:15:36) FORM plc_manual tree 'MULTISEL YES' TO220AA 'Package symbols' 
+\i (00:15:36) FORM plc_manual tree  TO220AA 'Package symbols' 
+\i (00:15:38) FORM plc_manual tree 'MULTISEL NO' TO220AA 'Package symbols' 
+\i (00:15:39) FORM plc_manual tree 'MULTISEL YES' TO220AB 'Package symbols' 
+\i (00:15:39) FORM plc_manual tree  TO220AB 'Package symbols' 
+\i (00:15:43) FORM plc_manual tree 'MULTISEL NO' TO220AB 'Package symbols' 
+\i (00:15:44) FORM plc_manual tree 'MULTISEL YES' TO220ABH 'Package symbols' 
+\i (00:15:44) FORM plc_manual tree  TO220ABH 'Package symbols' 
+\i (00:15:46) FORM plc_manual tree 'MULTISEL NO' TO220ABH 'Package symbols' 
+\i (00:15:47) FORM plc_manual tree 'MULTISEL YES' TO220ABV 'Package symbols' 
+\i (00:15:47) FORM plc_manual tree  TO220ABV 'Package symbols' 
+\i (00:15:49) FORM plc_manual tree 'MULTISEL NO' TO220ABV 'Package symbols' 
+\i (00:15:50) FORM plc_manual tree 'MULTISEL YES' TO220AC 'Package symbols' 
+\i (00:15:50) FORM plc_manual tree  TO220AC 'Package symbols' 
+\i (00:15:52) FORM plc_manual tree 'MULTISEL NO' TO220AC 'Package symbols' 
+\i (00:15:53) FORM plc_manual tree 'MULTISEL YES' TO220H 'Package symbols' 
+\i (00:15:53) FORM plc_manual tree  TO220H 'Package symbols' 
+\i (00:15:55) FORM plc_manual tree 'MULTISEL NO' TO220H 'Package symbols' 
+\i (00:15:56) FORM plc_manual tree 'MULTISEL YES' TO220V 'Package symbols' 
+\i (00:15:56) FORM plc_manual tree  TO220V 'Package symbols' 
+\i (00:15:58) FORM plc_manual tree 'MULTISEL NO' TO220V 'Package symbols' 
+\i (00:15:59) FORM plc_manual tree 'MULTISEL YES' TO225AA 'Package symbols' 
+\i (00:15:59) FORM plc_manual tree  TO225AA 'Package symbols' 
+\i (00:16:04) FORM plc_manual tree 'MULTISEL NO' TO225AA 'Package symbols' 
+\i (00:16:07) FORM plc_manual tree 'MULTISEL YES' TO220AA 'Package symbols' 
+\i (00:16:08) FORM plc_manual tree  TO220AA 'Package symbols' 
+\i (00:16:10) FORM plc_manual tree 'MULTISEL NO' TO220AA 'Package symbols' 
+\i (00:16:10) FORM plc_manual tree 'MULTISEL YES' TO220AB 'Package symbols' 
+\i (00:16:10) FORM plc_manual tree  TO220AB 'Package symbols' 
+\i (00:16:14) FORM plc_manual tree 'MULTISEL NO' TO220AB 'Package symbols' 
+\i (00:16:39) FORM plc_manual tree 'MULTISEL YES' DIP10_2 'Package symbols' 
+\i (00:16:39) FORM plc_manual tree  DIP10_2 'Package symbols' 
+\i (00:16:41) FORM plc_manual tree 'MULTISEL NO' DIP10_2 'Package symbols' 
+\i (00:16:47) FORM plc_manual tree 'MULTISEL YES' DIP8_3 'Package symbols' 
+\i (00:16:47) FORM plc_manual tree  DIP8_3 'Package symbols' 
+\i (00:16:52) FORM plc_manual tree 'MULTISEL NO' DIP8_3 'Package symbols' 
+\i (00:17:03) FORM plc_manual tree 'MULTISEL YES' DIP8_3 'Package symbols' 
+\i (00:17:53) FORM plc_manual tree 'MULTISEL NO' DIP8_3 'Package symbols' 
+\i (00:18:14) FORM plc_manual tree 'MULTISEL YES' DIP28_3 'Package symbols' 
+\i (00:18:14) FORM plc_manual tree  DIP28_3 'Package symbols' 
+\i (00:18:15) setwindow pcb
+\i (00:18:15) zoom out 1 
+\i (00:18:15) setwindow pcb
+\i (00:18:15) zoom out 3861.35 16632.59
+\i (00:18:15) trapsize 1490
+\i (00:18:17) setwindow form.plc_manual
+\i (00:18:17) FORM plc_manual tree 'MULTISEL NO' DIP28_3 'Package symbols' 
+\i (00:18:18) FORM plc_manual tree 'MULTISEL YES' DIP28_6 'Package symbols' 
+\i (00:18:18) FORM plc_manual tree  DIP28_6 'Package symbols' 
+\i (00:18:21) FORM plc_manual tree 'MULTISEL NO' DIP28_6 'Package symbols' 
+\i (00:20:28) FORM plc_manual tree 'MULTISEL YES' DIP28_4 'Package symbols' 
+\w (00:20:29) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:20:29) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:20:29) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:20:29) FORM plc_manual tree  DIP28_4 'Package symbols' 
+\i (00:20:38) FORM plc_manual cancel  
+\i (00:20:38) setwindow pcb
+\i (00:20:38) generaledit 
+\i (00:21:15) place manual 
+\i (00:21:19) setwindow form.plc_manual
+\i (00:21:19) FORM plc_manual tree 'MULTISEL YES' DIP28_6 'Package symbols' 
+\i (00:21:19) FORM plc_manual tree  DIP28_6 'Package symbols' 
+\i (00:21:23) FORM plc_manual tree 'MULTISEL NO' DIP28_6 'Package symbols' 
+\i (00:21:54) FORM plc_manual tree 'MULTISEL YES' TDA2040 'Package symbols' 
+\w (00:21:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:21:54) FORM plc_manual tree  TDA2040 'Package symbols' 
+\i (00:21:56) FORM plc_manual tree 'MULTISEL NO' TDA2040 'Package symbols' 
+\i (00:21:57) FORM plc_manual tree 'MULTISEL YES' TESTPINSMD 'Package symbols' 
+\w (00:21:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:21:57) FORM plc_manual tree  TESTPINSMD 'Package symbols' 
+\i (00:21:59) FORM plc_manual tree 'MULTISEL NO' TESTPINSMD 'Package symbols' 
+\i (00:21:59) FORM plc_manual tree 'MULTISEL YES' TFC 'Package symbols' 
+\i (00:22:00) FORM plc_manual tree  TFC 'Package symbols' 
+\i (00:22:02) FORM plc_manual tree 'MULTISEL NO' TFC 'Package symbols' 
+\i (00:22:03) FORM plc_manual tree 'MULTISEL YES' TFR 'Package symbols' 
+\i (00:22:03) FORM plc_manual tree  TFR 'Package symbols' 
+\i (00:22:05) FORM plc_manual tree 'MULTISEL NO' TFR 'Package symbols' 
+\i (00:22:14) FORM plc_manual tree 'MULTISEL YES' X2Y_0603 'Package symbols' 
+\i (00:22:14) FORM plc_manual tree  X2Y_0603 'Package symbols' 
+\i (00:22:16) FORM plc_manual tree 'MULTISEL NO' X2Y_0603 'Package symbols' 
+\i (00:22:19) FORM plc_manual tree 'MULTISEL YES' VVRM 'Package symbols' 
+\i (00:22:19) FORM plc_manual tree  VVRM 'Package symbols' 
+\i (00:22:21) FORM plc_manual tree 'MULTISEL NO' VVRM 'Package symbols' 
+\i (00:22:22) FORM plc_manual tree 'MULTISEL YES' VPROBE 'Package symbols' 
+\i (00:22:22) FORM plc_manual tree  VPROBE 'Package symbols' 
+\i (00:22:25) FORM plc_manual tree 'MULTISEL NO' VPROBE 'Package symbols' 
+\i (00:25:29) FORM plc_manual tree 'MULTISEL YES' CAPCK06 'Package symbols' 
+\i (00:25:29) FORM plc_manual tree  CAPCK06 'Package symbols' 
+\i (00:25:34) FORM plc_manual tree 'MULTISEL NO' CAPCK06 'Package symbols' 
+\i (00:31:10) FORM plc_manual tree 'MULTISEL YES' CONN26 'Package symbols' 
+\i (00:31:10) FORM plc_manual tree  CONN26 'Package symbols' 
+\i (00:31:11) FORM plc_manual tree 'MULTISEL NO' CONN26 'Package symbols' 
+\i (00:31:13) FORM plc_manual tree 'MULTISEL YES' CONN10 'Package symbols' 
+\i (00:31:13) FORM plc_manual tree  CONN10 'Package symbols' 
+\i (00:31:15) FORM plc_manual tree 'MULTISEL NO' CONN10 'Package symbols' 
+\i (00:31:27) FORM plc_manual tree 'MULTISEL YES' CPGA100_X 'Package symbols' 
+\i (00:31:27) FORM plc_manual tree  CPGA100_X 'Package symbols' 
+\i (00:31:29) FORM plc_manual tree 'MULTISEL NO' CPGA100_X 'Package symbols' 
+\i (00:31:31) FORM plc_manual tree 'MULTISEL YES' CQFP64_IDT 'Package symbols' 
+\i (00:31:31) FORM plc_manual tree  CQFP64_IDT 'Package symbols' 
+\i (00:31:33) FORM plc_manual tree 'MULTISEL NO' CQFP64_IDT 'Package symbols' 
+\i (00:31:35) FORM plc_manual tree 'MULTISEL YES' CRYS11MHZ 'Package symbols' 
+\i (00:31:35) FORM plc_manual tree  CRYS11MHZ 'Package symbols' 
+\i (00:31:41) FORM plc_manual tree 'MULTISEL NO' CRYS11MHZ 'Package symbols' 
+\i (00:31:42) FORM plc_manual tree 'MULTISEL YES' CRYS14 'Package symbols' 
+\i (00:31:42) FORM plc_manual tree  CRYS14 'Package symbols' 
+\i (00:31:44) FORM plc_manual tree 'MULTISEL NO' CRYS14 'Package symbols' 
+\i (00:32:18) FORM plc_manual tree 'MULTISEL YES' DB9 'Package symbols' 
+\i (00:32:18) FORM plc_manual tree  DB9 'Package symbols' 
+\i (00:32:28) FORM plc_manual tree 'MULTISEL NO' DB9 'Package symbols' 
+\i (00:32:29) FORM plc_manual tree 'MULTISEL YES' DB25 'Package symbols' 
+\i (00:32:29) FORM plc_manual tree  DB25 'Package symbols' 
+\i (00:32:31) FORM plc_manual tree 'MULTISEL NO' DB25 'Package symbols' 
+\i (00:32:33) FORM plc_manual tree 'MULTISEL YES' DIO400 'Package symbols' 
+\i (00:32:33) FORM plc_manual tree  DIO400 'Package symbols' 
+\i (00:32:34) FORM plc_manual tree 'MULTISEL NO' DIO400 'Package symbols' 
+\i (00:32:39) FORM plc_manual tree 'MULTISEL YES' DO13 'Package symbols' 
+\i (00:32:39) FORM plc_manual tree  DO13 'Package symbols' 
+\i (00:32:41) FORM plc_manual tree 'MULTISEL NO' DO13 'Package symbols' 
+\i (00:32:42) FORM plc_manual tree 'MULTISEL YES' DIPSWITCH 'Package symbols' 
+\i (00:32:42) FORM plc_manual tree  DIPSWITCH 'Package symbols' 
+\i (00:32:45) FORM plc_manual tree 'MULTISEL NO' DIPSWITCH 'Package symbols' 
+\i (00:32:46) FORM plc_manual tree 'MULTISEL YES' DIPCAP 'Package symbols' 
+\i (00:32:46) FORM plc_manual tree  DIPCAP 'Package symbols' 
+\i (00:32:48) FORM plc_manual tree 'MULTISEL NO' DIPCAP 'Package symbols' 
+\i (00:32:48) FORM plc_manual tree 'MULTISEL YES' DIP8_3 'Package symbols' 
+\i (00:32:48) FORM plc_manual tree  DIP8_3 'Package symbols' 
+\i (00:32:50) FORM plc_manual tree 'MULTISEL NO' DIP8_3 'Package symbols' 
+\i (00:32:53) FORM plc_manual tree 'MULTISEL YES' EUROCON 'Package symbols' 
+\i (00:32:53) FORM plc_manual tree  EUROCON 'Package symbols' 
+\i (00:32:56) FORM plc_manual tree 'MULTISEL NO' EUROCON 'Package symbols' 
+\i (00:47:12) FORM plc_manual tree  R70 'Package symbols' 
+\i (00:47:13) FORM plc_manual tree 'MULTISEL YES' R70 'Package symbols' 
+\i (00:47:15) FORM plc_manual tree 'MULTISEL NO' R70 'Package symbols' 
+\i (00:47:22) FORM plc_manual tree 'MULTISEL YES' SMITER 'Package symbols' 
+\w (00:47:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:47:23) FORM plc_manual tree  SMITER 'Package symbols' 
+\i (00:47:25) FORM plc_manual tree 'MULTISEL NO' SMITER 'Package symbols' 
+\i (00:49:44) FORM plc_manual tree  USRDEF_4 'Package symbols' 
+\i (00:50:05) FORM plc_manual cancel  
+\i (00:50:05) setwindow pcb
+\i (00:50:05) generaledit 
+\i (00:50:06) new 
+\e (00:50:06) Do you want to save the changes you made to test.brd?
+\i (00:50:09) fillin no 
+\i (00:50:19) newdrawfillin "RJ45.dra" "Package Symbol (Wizard)"
+\t (00:50:19) Starting new design...
+\i (00:50:19) trapsize 11482
+\i (00:50:19) trapsize 11111
+\i (00:50:19) trapsize 11078
+\i (00:50:20) trapsize 11331
+\i (00:50:20) trapsize 11918
+\i (00:50:20) trapsize 11918
+\i (00:50:20) trapsize 11918
+\i (00:50:20) package symbol wizard 
+\i (00:50:20) generaledit 
+   (00:50:22) Loading cmds.cxt 
+   (00:50:22) Loading axlcore.cxt 
+\i (00:50:22) setwindow form.sym_wizard
+\i (00:50:22) FORM sym_wizard soic YES 
+\i (00:50:23) FORM sym_wizard plcc YES 
+\i (00:50:23) FORM sym_wizard bga YES 
+\i (00:50:24) FORM sym_wizard rca_th YES 
+\i (00:50:24) FORM sym_wizard rca_smd YES 
+\i (00:50:25) FORM sym_wizard sip YES 
+\i (00:50:26) FORM sym_wizard zip YES 
+\i (00:50:28) FORM sym_wizard wiz_next  
+\i (00:50:32) FORM sym_wizard wiz_next  
+\i (00:50:34) fillin confirm
+\i (00:50:35) FORM sym_wizard load_template  
+\t (00:50:35) Opening existing design...
+\t (00:50:35) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:50:35) setwindow pcb
+\i (00:50:35) trapsize 184
+\d (00:50:35) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:50:37) setwindow form.sym_wizard
+\i (00:50:37) FORM sym_wizard wiz_next  
+\i (00:50:43) FORM sym_wizard ref_des C* 
+\i (00:50:45) FORM sym_wizard ref_des J* 
+\i (00:50:46) FORM sym_wizard wiz_next  
+\i (00:51:00) FORM sym_wizard zip_pin_count 8 
+\i (00:52:08) FORM sym_wizard zip_e 40 
+\i (00:54:05) FORM sym_wizard zip_e1 70 
+\i (00:54:29) FORM sym_wizard zip_len 665 
+\i (00:54:37) FORM sym_wizard zip_width 530 
+\i (00:54:37) FORM sym_wizard wiz_next  
+\i (00:54:39) FORM sym_wizard default_pad_browse  
+\i (00:54:45) fillin "Pad60cir38d"
+\i (00:54:47) FORM sym_wizard wiz_next  
+\i (00:54:54) FORM sym_wizard wiz_next  
+\i (00:54:56) FORM sym_wizard wiz_finish  
+\w (00:54:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:54:56) setwindow pcb
+\i (00:54:56) trapsize 184
+\i (00:54:56) trapsize 5
+\i (00:54:56) trapsize 4
+\i (00:54:56) trapsize 4
+\t (00:54:56) Creating package symbol 'C:/Cadence/Projects/ArtNet_Node/rj45.psm'.
+\t (00:54:56) Starting Create symbol...
+\i (00:54:57) generaledit 
+\i (00:54:58) zoom out 1 
+\i (00:54:58) setwindow pcb
+\i (00:54:58) zoom out 190 -24
+\i (00:54:58) trapsize 8
+\i (00:54:58) zoom out 1 
+\i (00:54:58) setwindow pcb
+\i (00:54:58) zoom out 30 -25
+\i (00:54:58) trapsize 11
+\i (00:54:59) zoom in 1 
+\i (00:54:59) setwindow pcb
+\i (00:54:59) zoom in -45 46
+\i (00:54:59) trapsize 5
+\i (00:54:59) zoom in 1 
+\i (00:54:59) setwindow pcb
+\i (00:54:59) zoom in -44 46
+\i (00:54:59) trapsize 3
+\i (00:55:00) pick grid 346 133
+\t (00:55:00) last pick:  300  100
+\i (00:55:01) zoom out 1 
+\i (00:55:01) setwindow pcb
+\i (00:55:01) zoom out 208 87
+\i (00:55:01) trapsize 5
+\i (00:55:04) drag_start grid 81 329
+\i (00:55:04) move 
+\t (00:55:04) last pick:  100  300
+\t (00:55:04) Element has no origin, using pick.
+\t (00:55:04) Pick new location for the element(s).
+\i (00:55:05) drag_stop grid 247 322
+\i (00:55:05) generaledit 
+\i (00:55:06) drag_start grid -205 331
+\i (00:55:06) move 
+\t (00:55:06) last pick:  -200  300
+\t (00:55:06) Element has no origin, using pick.
+\t (00:55:06) Pick new location for the element(s).
+\i (00:55:07) drag_stop grid -49 312
+\i (00:55:07) generaledit 
+\i (00:55:09) drag_start grid -66 301
+\i (00:55:09) move 
+\t (00:55:09) last pick:  -100  300
+\t (00:55:09) Element has no origin, using pick.
+\t (00:55:09) Pick new location for the element(s).
+\i (00:55:10) drag_stop grid -164 302
+\i (00:55:10) generaledit 
+\i (00:55:12) drag_start grid -227 334
+\i (00:55:12) slide 
+\t (00:55:12) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:55:12) No valid items selected for the current operation, exiting.
+\i (00:55:12) generaledit 
+\i (00:55:13) drag_stop grid 377 292
+\i (00:55:14) drag_start grid -234 334
+\i (00:55:14) slide 
+\t (00:55:14) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:55:14) No valid items selected for the current operation, exiting.
+\i (00:55:14) generaledit 
+\i (00:55:15) drag_stop grid 210 310
+\i (00:55:16) pick grid -215 335
+\t (00:55:16) last pick:  -200  300
+\i (00:55:17) prepopup -230 332
+\i (00:55:19) pop dyn_option_select @:@Delete 
+\i (00:55:19) delete 
+\i (00:55:19) generaledit 
+\i (00:55:20) pick grid -287 202
+\t (00:55:20) last pick:  -300  200
+\i (00:55:21) pick grid -268 246
+\t (00:55:21) last pick:  -300  200
+\i (00:55:21) pick grid -463 117
+\t (00:55:21) last pick:  -500  100
+\i (00:55:24) delete 
+\i (00:55:25) pick grid -217 333
+\t (00:55:25) last pick:  -200  300
+\t (00:55:25) Line "Package Geometry/Silkscreen_Top"
+\i (00:55:25) pick grid -219 382
+\t (00:55:25) last pick:  -200  400
+\i (00:55:26) pick grid -262 295
+\t (00:55:26) last pick:  -300  300
+\t (00:55:26) Line "Package Geometry/Assembly_Top"
+\i (00:55:26) pick grid -316 360
+\t (00:55:26) last pick:  -300  400
+\i (00:55:28) pick grid -226 -332
+\t (00:55:28) last pick:  -200  -300
+\t (00:55:28) Line "Package Geometry/Assembly_Top"
+\i (00:55:28) pick grid -248 -261
+\t (00:55:28) last pick:  -200  -300
+\i (00:55:30) prepopup 551 -77
+\i (00:55:31) done 
+\i (00:55:31) generaledit 
+\i (00:55:36) drag_start grid -165 -308
+\i (00:55:36) move 
+\t (00:55:36) last pick:  -200  -300
+\t (00:55:36) Element has no origin, using pick.
+\t (00:55:36) Pick new location for the element(s).
+\i (00:55:38) drag_stop grid -175 -281
+\i (00:55:38) generaledit 
+\i (00:55:38) pick grid -312 -403
+\t (00:55:38) last pick:  -300  -400
+\i (00:56:23) chg origin 
+\t (00:56:23) Pick new location for drawing origin.
+\i (00:56:24) pick grid -166 -331
+\t (00:56:24) last pick:  -200  -300
+\i (00:56:24) trapsize 5
+\t (00:56:24) Pick point (-200 -300) changed to origin (0, 0)
+\i (00:56:24) generaledit 
+\i (00:56:30) prmed 
+\i (00:56:32) setwindow form.prmedit
+\i (00:56:32) FORM prmedit view_grids_button  
+\t (00:56:32) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:56:34) setwindow form.grid
+\i (00:56:34) FORM grid non_etch non_etch_x_grids 1 
+\i (00:56:36) FORM grid non_etch non_etch_y_grids 1 
+\i (00:56:36) FORM grid done  
+\t (00:56:36) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:56:38) setwindow form.prmedit
+\i (00:56:38) FORM prmedit done  
+\i (00:56:38) setwindow pcb
+\i (00:56:38) generaledit 
+\i (00:56:41) chg origin 
+\t (00:56:41) Pick new location for drawing origin.
+\i (00:56:44) pick grid 34 -30
+\t (00:56:44) last pick:  34  -30
+\i (00:56:44) trapsize 5
+\t (00:56:44) Pick point (34 -30) changed to origin (0, 0)
+\i (00:56:44) generaledit 
+\i (00:56:46) zoom in 1 
+\i (00:56:46) setwindow pcb
+\i (00:56:46) zoom in 6 -16
+\t (00:56:46) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:56:46) trapsize 3
+\i (00:56:46) zoom in 1 
+\i (00:56:46) setwindow pcb
+\i (00:56:46) zoom in 6 -16
+\i (00:56:46) trapsize 1
+\i (00:56:46) zoom in 1 
+\i (00:56:46) setwindow pcb
+\i (00:56:46) zoom in 6 -16
+\i (00:56:46) trapsize 1
+\i (00:56:47) zoom in 1 
+\i (00:56:47) setwindow pcb
+\i (00:56:47) zoom in 2 -10
+\i (00:56:47) trapsize 1
+\i (00:56:47) zoom in 1 
+\i (00:56:47) setwindow pcb
+\i (00:56:47) zoom in 2 -10
+\i (00:56:47) trapsize 1
+\i (00:56:47) zoom in 1 
+\i (00:56:47) setwindow pcb
+\i (00:56:47) zoom in -1 -2
+\i (00:56:47) trapsize 1
+\i (00:56:47) zoom in 1 
+\i (00:56:47) setwindow pcb
+\i (00:56:47) zoom in -2 -2
+\i (00:56:47) trapsize 1
+\i (00:56:51) chg origin 
+\t (00:56:51) Pick new location for drawing origin.
+\i (00:56:52) pick grid 1 -2
+\t (00:56:52) last pick:  1  -2
+\i (00:56:52) trapsize 1
+\t (00:56:52) Pick point (1 -2) changed to origin (0, 0)
+\i (00:56:52) generaledit 
+\i (00:56:54) zoom in 1 
+\i (00:56:54) setwindow pcb
+\i (00:56:54) zoom in 2 -2
+\i (00:56:54) trapsize 1
+\i (00:56:54) zoom in 1 
+\i (00:56:54) setwindow pcb
+\i (00:56:54) zoom in 3 -3
+\i (00:56:54) trapsize 1
+\i (00:56:54) zoom in 1 
+\i (00:56:54) setwindow pcb
+\i (00:56:54) zoom in 1 1
+\i (00:56:54) trapsize 1
+\i (00:56:54) zoom in 1 
+\i (00:56:54) setwindow pcb
+\i (00:56:54) zoom in 0 2
+\i (00:56:54) trapsize 1
+\i (00:56:54) zoom in 1 
+\i (00:56:54) setwindow pcb
+\i (00:56:54) zoom in -1 3
+\i (00:56:55) trapsize 1
+\i (00:56:55) zoom in 1 
+\i (00:56:55) setwindow pcb
+\i (00:56:55) zoom in -2 4
+\i (00:56:55) trapsize 1
+\i (00:56:55) zoom in 1 
+\i (00:56:55) setwindow pcb
+\i (00:56:55) zoom in -3 5
+\i (00:56:55) trapsize 1
+\i (00:56:55) zoom out 1 
+\i (00:56:55) setwindow pcb
+\i (00:56:55) zoom out -2 2
+\i (00:56:55) trapsize 1
+\i (00:56:55) zoom out 1 
+\i (00:56:55) setwindow pcb
+\i (00:56:55) zoom out -2 2
+\i (00:56:55) trapsize 1
+\i (00:56:55) zoom out 1 
+\i (00:56:55) setwindow pcb
+\i (00:56:55) zoom out -1 3
+\i (00:56:55) trapsize 1
+\i (00:56:55) zoom out 1 
+\i (00:56:55) setwindow pcb
+\i (00:56:55) zoom out -2 2
+\i (00:56:55) trapsize 2
+\i (00:56:56) zoom in 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom in 8 -9
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom in 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom in 8 -9
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom in 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom in 8 -8
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom in 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom in 9 -8
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom in 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom in 8 -8
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom in 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom in 8 -9
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom in 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom in 1 -4
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom in 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom in -2 -2
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom in 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom in -5 0
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom out 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom out -8 1
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom out 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom out -7 2
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom out 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom out -6 1
+\i (00:56:56) trapsize 1
+\i (00:56:56) zoom out 1 
+\i (00:56:56) setwindow pcb
+\i (00:56:56) zoom out -7 1
+\i (00:56:56) trapsize 2
+\i (00:56:57) zoom out 1 
+\i (00:56:57) setwindow pcb
+\i (00:56:57) zoom out -7 2
+\i (00:56:57) trapsize 3
+\i (00:56:57) zoom out 1 
+\i (00:56:57) setwindow pcb
+\i (00:56:57) zoom out -5 1
+\t (00:56:57) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:56:57) trapsize 7
+\i (00:56:57) zoom out 1 
+\i (00:56:57) setwindow pcb
+\i (00:56:57) zoom out -47 123
+\i (00:56:57) trapsize 11
+\i (00:56:57) zoom out 1 
+\i (00:56:57) setwindow pcb
+\i (00:56:57) zoom out 189 624
+\i (00:56:57) trapsize 11
+\i (00:56:57) zoom out 1 
+\i (00:56:57) setwindow pcb
+\i (00:56:57) zoom out 189 624
+\i (00:56:57) trapsize 11
+\i (00:56:57) zoom in 1 
+\i (00:56:57) setwindow pcb
+\i (00:56:57) zoom in 30 374
+\i (00:56:57) trapsize 5
+\i (00:56:58) zoom in 1 
+\i (00:56:58) setwindow pcb
+\i (00:56:58) zoom in 30 374
+\t (00:56:58) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:56:58) trapsize 3
+\i (00:56:58) zoom out 1 
+\i (00:56:58) setwindow pcb
+\i (00:56:58) zoom out 33 367
+\t (00:56:58) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:56:58) trapsize 5
+\i (00:57:10) pick grid 678 32
+\t (00:57:10) last pick:  678  32
+\i (00:58:54) zoom in 1 
+\i (00:58:54) setwindow pcb
+\i (00:58:54) zoom in -70 172
+\t (00:58:54) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:58:54) trapsize 3
+\i (00:58:55) zoom out 1 
+\i (00:58:55) setwindow pcb
+\i (00:58:55) zoom out 19 210
+\t (00:58:55) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:58:55) trapsize 5
+\i (00:58:55) zoom in 1 
+\i (00:58:55) setwindow pcb
+\i (00:58:55) zoom in 19 210
+\t (00:58:55) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:58:55) trapsize 3
+\i (00:58:55) zoom out 1 
+\i (00:58:55) setwindow pcb
+\i (00:58:55) zoom out 19 210
+\t (00:58:55) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:58:55) trapsize 5
+\i (00:58:55) zoom out 1 
+\i (00:58:55) setwindow pcb
+\i (00:58:55) zoom out 19 210
+\i (00:58:55) trapsize 11
+\i (00:58:56) zoom in 1 
+\i (00:58:56) setwindow pcb
+\i (00:58:56) zoom in -167 549
+\i (00:58:56) trapsize 5
+\i (00:58:58) drag_start grid 8 663
+\i (00:58:58) move 
+\t (00:58:58) last pick:  8  663
+\t (00:58:58) Element has no origin, using pick.
+\t (00:58:58) Pick new location for the element(s).
+\i (00:58:59) drag_stop grid 576 739
+\i (00:58:59) generaledit 
+\i (00:59:00) drag_start grid 139 656
+\i (00:59:00) move 
+\t (00:59:00) last pick:  139  656
+\t (00:59:00) Element has no origin, using pick.
+\t (00:59:00) Pick new location for the element(s).
+\i (00:59:01) drag_stop grid 708 735
+\i (00:59:01) generaledit 
+\i (00:59:03) pick grid 101 133
+\t (00:59:03) last pick:  101  133
+\i (00:59:15) pick grid 167 98
+\t (00:59:15) last pick:  167  98
+\i (00:59:15) zoom in 1 
+\i (00:59:15) setwindow pcb
+\i (00:59:15) zoom in 167 98
+\t (00:59:15) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:59:15) trapsize 3
+\i (00:59:17) zoom in 1 
+\i (00:59:17) setwindow pcb
+\i (00:59:17) zoom in 167 99
+\i (00:59:17) trapsize 1
+\i (00:59:17) zoom in 1 
+\i (00:59:17) setwindow pcb
+\i (00:59:17) zoom in 144 208
+\i (00:59:17) trapsize 1
+\i (00:59:18) zoom in 1 
+\i (00:59:18) setwindow pcb
+\i (00:59:18) zoom in 141 215
+\i (00:59:18) trapsize 1
+\i (00:59:20) zoom out 1 
+\i (00:59:20) setwindow pcb
+\i (00:59:20) zoom out 141 216
+\i (00:59:20) trapsize 1
+\i (00:59:20) zoom out 1 
+\i (00:59:20) setwindow pcb
+\i (00:59:20) zoom out 141 215
+\i (00:59:20) trapsize 1
+\i (00:59:21) zoom out 1 
+\i (00:59:21) setwindow pcb
+\i (00:59:21) zoom out 141 216
+\i (00:59:21) trapsize 3
+\i (00:59:21) zoom out 1 
+\i (00:59:21) setwindow pcb
+\i (00:59:21) zoom out 141 216
+\t (00:59:21) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:59:21) trapsize 5
+\i (00:59:22) zoom in 1 
+\i (00:59:22) setwindow pcb
+\i (00:59:22) zoom in 127 519
+\t (00:59:22) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:59:22) trapsize 3
+\i (00:59:22) zoom in 1 
+\i (00:59:22) setwindow pcb
+\i (00:59:22) zoom in 127 516
+\i (00:59:22) trapsize 1
+\i (00:59:23) zoom in 1 
+\i (00:59:23) setwindow pcb
+\i (00:59:23) zoom in 128 516
+\i (00:59:23) trapsize 1
+\i (00:59:23) zoom in 1 
+\i (00:59:23) setwindow pcb
+\i (00:59:23) zoom in 130 504
+\i (00:59:23) trapsize 1
+\i (00:59:23) zoom in 1 
+\i (00:59:23) setwindow pcb
+\i (00:59:23) zoom in 131 458
+\i (00:59:23) trapsize 1
+\i (00:59:23) zoom in 1 
+\i (00:59:23) setwindow pcb
+\i (00:59:23) zoom in 131 458
+\i (00:59:23) trapsize 1
+\i (00:59:25) zoom out 1 
+\i (00:59:25) setwindow pcb
+\i (00:59:25) zoom out 130 466
+\i (00:59:25) trapsize 1
+\i (00:59:25) zoom out 1 
+\i (00:59:25) setwindow pcb
+\i (00:59:25) zoom out 130 467
+\i (00:59:25) trapsize 1
+\i (00:59:25) zoom out 1 
+\i (00:59:25) setwindow pcb
+\i (00:59:25) zoom out 131 467
+\i (00:59:25) trapsize 1
+\i (00:59:25) zoom out 1 
+\i (00:59:25) setwindow pcb
+\i (00:59:25) zoom out 130 467
+\i (00:59:25) trapsize 2
+\i (00:59:25) zoom out 1 
+\i (00:59:25) setwindow pcb
+\i (00:59:25) zoom out 131 466
+\i (00:59:25) trapsize 3
+\i (00:59:26) zoom out 1 
+\i (00:59:26) setwindow pcb
+\i (00:59:26) zoom out 111 281
+\t (00:59:26) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:59:26) trapsize 7
+\i (00:59:26) zoom out 1 
+\i (00:59:26) setwindow pcb
+\i (00:59:26) zoom out -53 281
+\i (00:59:26) trapsize 11
+\i (00:59:30) zoom in 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom in 109 -336
+\i (00:59:30) trapsize 5
+\i (00:59:30) zoom in 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom in 109 -336
+\t (00:59:30) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:59:30) trapsize 3
+\i (00:59:30) zoom out 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom out 110 -336
+\t (00:59:30) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:59:30) trapsize 5
+\i (00:59:30) zoom in 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom in 109 -336
+\t (00:59:30) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:59:30) trapsize 3
+\i (00:59:30) zoom out 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom out 109 -336
+\t (00:59:30) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:59:30) trapsize 5
+\i (00:59:30) zoom in 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom in 108 -336
+\t (00:59:30) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:59:30) trapsize 3
+\i (00:59:30) zoom out 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom out 108 -336
+\t (00:59:30) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:59:30) trapsize 5
+\i (00:59:30) zoom in 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom in 107 -336
+\t (00:59:30) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:59:30) trapsize 3
+\i (00:59:30) zoom out 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom out 107 -336
+\t (00:59:30) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:59:30) trapsize 5
+\i (00:59:30) zoom in 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom in 106 -336
+\t (00:59:30) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:59:30) trapsize 3
+\i (00:59:30) zoom out 1 
+\i (00:59:30) setwindow pcb
+\i (00:59:30) zoom out 106 -336
+\t (00:59:30) Grids are drawn 16, 16 apart for enhanced viewability.
+\i (00:59:30) trapsize 5
+\i (00:59:32) zoom out 1 
+\i (00:59:32) setwindow pcb
+\i (00:59:32) zoom out 139 -6
+\i (00:59:32) trapsize 11
+\i (00:59:32) zoom in 1 
+\i (00:59:32) setwindow pcb
+\i (00:59:32) zoom in 135 260
+\i (00:59:32) trapsize 5
+\i (00:59:32) zoom in 1 
+\i (00:59:32) setwindow pcb
+\i (00:59:32) zoom in 135 260
+\t (00:59:32) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:59:32) trapsize 3
+\i (00:59:42) add connect 
+\w (00:59:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:59:42) Pick first element.
+\i (00:59:43) add connect 
+\t (00:59:43) Pick first element.
+\i (00:59:47) pick grid -25 501
+\t (00:59:47) last pick:  -25  500
+\t (00:59:47) last pick:  -25  500
+\i (00:59:48) mouse_pos 88 422
+\i (00:59:48) mouse_pos 87 436
+\i (00:59:48) mouse_pos 86 439
+\i (00:59:49) Esc 
+\i (00:59:50) Esc 
+\i (00:59:50) Esc 
+\i (00:59:50) prepopup -4 477
+\i (00:59:51) done 
+\i (00:59:51) generaledit 
+\i (01:00:11) pick grid 11 401
+\t (01:00:11) last pick:  0  400
+\i (01:00:25) zoom out 1 
+\i (01:00:25) setwindow pcb
+\i (01:00:25) zoom out 27 466
+\i (01:00:25) trapsize 5
+\i (01:00:25) zoom in 1 
+\i (01:00:25) setwindow pcb
+\i (01:00:25) zoom in -39 466
+\i (01:00:25) trapsize 3
+\i (01:00:25) zoom out 1 
+\i (01:00:25) setwindow pcb
+\i (01:00:25) zoom out -39 466
+\i (01:00:25) trapsize 5
+\i (01:00:25) zoom out 1 
+\i (01:00:25) setwindow pcb
+\i (01:00:25) zoom out -40 466
+\i (01:00:25) trapsize 11
+\i (01:00:26) zoom in 1 
+\i (01:00:26) setwindow pcb
+\i (01:00:26) zoom in -221 154
+\i (01:00:26) trapsize 5
+\i (01:00:42) zoom out 1 
+\i (01:00:42) setwindow pcb
+\i (01:00:42) zoom out 155 624
+\i (01:00:42) trapsize 11
+\i (01:00:43) drag_start grid -16 555
+\i (01:00:43) drag_stop 325 135
+\i (01:00:44) prepopup 215 283
+\i (01:00:46) pop dyn_option_select @:@Move 
+\i (01:00:46) move 
+\t (01:00:46) last pick:  225  275
+\t (01:00:46) Pick new location for the element(s).
+\i (01:00:47) prepopup 138 430
+\i (01:00:49) rotate 
+\t (01:00:49) Spin the element(s).
+\i (01:00:50) iangle 180.000
+\t (01:00:50) last angle:  +180.000 Degrees
+\i (01:00:51) prepopup 161 316
+\i (01:00:58) rotate 
+\t (01:00:58) Spin the element(s).
+\i (01:01:00) iangle 0.000
+\t (01:01:00) last angle:  +0.000 Degrees
+\i (01:01:00) pick grid 60 296
+\t (01:01:00) last pick:  50  300
+\i (01:01:00) generaledit 
+\i (01:01:01) pick grid 196 370
+\t (01:01:01) last pick:  200  375
+\i (01:01:02) zoom in 1 
+\i (01:01:02) setwindow pcb
+\i (01:01:02) zoom in -80 150
+\i (01:01:02) trapsize 5
+\i (01:01:02) zoom in 1 
+\i (01:01:02) setwindow pcb
+\i (01:01:02) zoom in -80 121
+\i (01:01:02) trapsize 3
+\i (01:01:04) zoom out 1 
+\i (01:01:04) setwindow pcb
+\i (01:01:04) zoom out 71 115
+\i (01:01:04) trapsize 5
+\i (01:01:05) zoom in 1 
+\i (01:01:05) setwindow pcb
+\i (01:01:05) zoom in 71 115
+\i (01:01:05) trapsize 3
+\i (01:01:05) zoom out 1 
+\i (01:01:05) setwindow pcb
+\i (01:01:05) zoom out 71 115
+\i (01:01:05) trapsize 5
+\i (01:01:05) zoom in 1 
+\i (01:01:05) setwindow pcb
+\i (01:01:05) zoom in 71 115
+\i (01:01:05) trapsize 3
+\i (01:01:05) zoom out 1 
+\i (01:01:05) setwindow pcb
+\i (01:01:05) zoom out 71 115
+\i (01:01:05) trapsize 5
+\i (01:01:05) zoom out 1 
+\i (01:01:05) setwindow pcb
+\i (01:01:05) zoom out 77 138
+\i (01:01:05) trapsize 11
+\i (01:01:13) zoom in 1 
+\i (01:01:13) setwindow pcb
+\i (01:01:13) zoom in -184 242
+\i (01:01:13) trapsize 5
+\i (01:01:14) drag_start grid -135 610
+\i (01:01:14) drag_stop 85 183
+\i (01:01:15) pick grid 141 221
+\t (01:01:15) last pick:  150  225
+\i (01:12:17) pick grid 216 131
+\t (01:12:17) last pick:  225  125
+\i (01:12:21) prepopup -256 634
+\i (01:12:22) pick grid -356 565
+\t (01:12:22) last pick:  -350  575
+\i (01:12:44) spin 
+\t (01:12:44) Select element(s) to spin.
+\i (01:12:44) drag_start grid -157 593
+\i (01:12:45) drag_stop 246 193
+\t (01:12:45) Pick reference point for controlling the spin angle.
+\i (01:12:49) mirror 
+\t (01:12:49) Select element(s) to mirror.
+\i (01:12:50) pick grid -194 223
+\t (01:12:50) last pick:  -200  225
+\i (01:12:51) pick grid 46 480
+\t (01:12:51) last pick:  50  475
+\i (01:12:51) drag_start grid 147 447
+\i (01:12:51) drag_stop 225 154
+\i (01:12:52) drag_start grid -239 555
+\i (01:12:52) drag_stop 168 35
+\i (01:12:53) pick grid 184 141
+\t (01:12:53) last pick:  175  150
+\t (01:12:53) Pick new location for the element(s).
+\i (01:12:56) prepopup 123 142
+\i (01:12:57) oops 
+\t (01:12:57) last pick:  50  475
+\t (01:12:57) Reselect origin.
+\i (01:12:58) drag_start grid -208 583
+\i (01:12:59) drag_stop 224 95
+\i (01:12:59) pick grid 279 153
+\t (01:12:59) last pick:  275  150
+\t (01:12:59) Pick new location for the element(s).
+\i (01:12:59) pick grid dbl 279 153
+\t (01:12:59) last pick:  275  150
+\i (01:12:59) pick grid 279 153
+\t (01:12:59) last pick:  275  150
+\i (01:13:01) undo 
+\i (01:13:01) trapsize 5
+\i (01:13:01) generaledit 
+\i (01:13:02) undo 
+\i (01:13:02) trapsize 5
+\i (01:13:02) generaledit 
+\i (01:13:02) undo 
+\i (01:13:02) trapsize 5
+\i (01:13:02) generaledit 
+\i (01:13:02) undo 
+\i (01:13:02) trapsize 5
+\i (01:13:02) generaledit 
+\i (01:13:02) undo 
+\i (01:13:02) trapsize 11
+\i (01:13:03) generaledit 
+\i (01:13:04) pick grid 315 -122
+\t (01:13:04) last pick:  325  -125
+\i (01:13:04) zoom in 1 
+\i (01:13:04) setwindow pcb
+\i (01:13:04) zoom in 127 208
+\i (01:13:04) trapsize 5
+\i (01:13:05) prepopup 275 306
+\i (01:13:06) pick grid 351 400
+\t (01:13:06) last pick:  350  400
+\i (01:13:09) pick grid 196 182
+\t (01:13:09) last pick:  200  175
+\i (01:13:09) pick grid dbl 196 182
+\t (01:13:09) last pick:  200  175
+\i (01:13:11) pick grid 293 191
+\t (01:13:11) last pick:  300  200
+\i (01:13:12) prepopup 210 200
+\i (01:13:15) pop dyn_option_select '@:@Add connect' 
+\i (01:13:15) add connect 
+\t (01:13:15) Pick first element.
+\t (01:13:15) last pick:  200  192
+\i (01:13:15) mouse_pos 192 244
+\i (01:13:16) mouse_pos 253 207
+\i (01:13:16) prepopup 274 182
+\i (01:13:18) oops 
+\t (01:13:18) Pick first element.
+\i (01:13:18) generaledit 
+\i (01:13:18) prepopup 273 189
+\i (01:13:19) pick grid 197 211
+\t (01:13:19) last pick:  200  200
+\i (01:13:20) prepopup 197 211
+\i (01:13:24) pop dyn_option_select @:@Move 
+\i (01:13:24) move 
+\t (01:13:25) last pick:  200  200
+\t (01:13:25) last pick:  200  192
+\t (01:13:25) Pick new location for the element(s).
+\i (01:13:29) pick grid 125 589
+\t (01:13:29) last pick:  125  600
+\i (01:13:29) generaledit 
+\i (01:13:31) zoom in 1 
+\i (01:13:31) setwindow pcb
+\i (01:13:31) zoom in 203 385
+\i (01:13:31) trapsize 3
+\i (01:13:32) zoom in 1 
+\i (01:13:32) setwindow pcb
+\i (01:13:32) zoom in 154 417
+\i (01:13:32) trapsize 1
+\i (01:13:32) zoom in 1 
+\i (01:13:32) setwindow pcb
+\i (01:13:32) zoom in 155 417
+\i (01:13:32) trapsize 1
+\i (01:13:33) zoom out 1 
+\i (01:13:33) setwindow pcb
+\i (01:13:33) zoom out 163 415
+\i (01:13:33) trapsize 1
+\i (01:13:33) roam start
+\i (01:13:33) roam y 16
+\i (01:13:34) roam y 32
+\i (01:13:34) roam y -80
+\i (01:13:34) roam y -64
+\i (01:13:34) roam y -32
+\i (01:13:34) roam x 16
+\i (01:13:34) roam y -16
+\i (01:13:34) roam y -16
+\i (01:13:34) roam y -32
+\i (01:13:34) roam x 16
+\i (01:13:34) roam y -32
+\i (01:13:34) roam y -48
+\i (01:13:34) roam x 16
+\i (01:13:34) roam y -48
+\i (01:13:35) roam y -48
+\i (01:13:35) roam x 32
+\i (01:13:35) roam y -128
+\i (01:13:35) roam x 32
+\i (01:13:35) roam y -80
+\i (01:13:35) roam y -48
+\i (01:13:35) roam x 16
+\i (01:13:35) roam y -32
+\i (01:13:35) roam y 32
+\i (01:13:35) roam y 16
+\i (01:13:35) roam y 32
+\i (01:13:35) roam y 16
+\i (01:13:35) roam x -16
+\i (01:13:35) roam y 48
+\i (01:13:35) roam x -16
+\i (01:13:35) roam y 64
+\i (01:13:35) roam y 32
+\i (01:13:35) roam x -16
+\i (01:13:35) roam y 16
+\i (01:13:36) roam end
+\i (01:13:37) undo 
+\i (01:13:37) trapsize 5
+\i (01:13:37) generaledit 
+\i (01:13:38) pick grid 152 62
+\t (01:13:38) last pick:  150  50
+\i (01:13:39) pick grid 203 191
+\t (01:13:39) last pick:  200  200
+\i (01:13:39) prepopup 203 191
+\i (01:13:42) pop dyn_option_select '@:@Show element' 
+\i (01:13:42) show element 
+\i (01:13:42) generaledit 
+\i (01:14:02) setwindow text
+\i (01:14:02) close 
+\i (01:14:04) setwindow pcb
+\i (01:14:04) prepopup 208 186
+\i (01:14:26) pick grid -38 556
+\t (01:14:26) last pick:  -50  550
+\i (01:14:35) pick grid 260 -38
+\t (01:14:35) last pick:  250  -50
+\i (01:14:36) pick grid 144 470
+\t (01:14:36) last pick:  150  475
+\i (01:14:56) pick grid 133 478
+\t (01:14:56) last pick:  125  475
+\i (01:14:57) prepopup 140 480
+\i (01:14:59) pop dyn_option_select @:@Move 
+\i (01:14:59) move 
+\t (01:14:59) last pick:  150  475
+\t (01:14:59) last pick:  130  472
+\t (01:14:59) Pick new location for the element(s).
+\i (01:15:04) pick grid 28 267
+\t (01:15:04) last pick:  25  275
+\i (01:15:04) generaledit 
+\i (01:15:06) pick grid 199 443
+\t (01:15:06) last pick:  200  450
+\i (01:15:07) prepopup 201 431
+\i (01:15:08) pop dyn_option_select @:@Move 
+\i (01:15:08) move 
+\t (01:15:08) last pick:  200  425
+\t (01:15:08) last pick:  200  432
+\t (01:15:08) Pick new location for the element(s).
+\i (01:15:09) pick grid 339 609
+\t (01:15:09) last pick:  350  600
+\i (01:15:09) generaledit 
+\i (01:15:10) pick grid 141 408
+\t (01:15:10) last pick:  150  400
+\i (01:15:10) prepopup 141 408
+\i (01:15:11) pop dyn_option_select @:@Move 
+\i (01:15:11) move 
+\t (01:15:11) last pick:  150  400
+\t (01:15:11) last pick:  130  392
+\t (01:15:11) Pick new location for the element(s).
+\i (01:15:12) pick grid 451 589
+\t (01:15:12) last pick:  450  600
+\i (01:15:12) generaledit 
+\i (01:15:13) pick grid 207 365
+\t (01:15:13) last pick:  200  375
+\i (01:15:13) prepopup 207 365
+\i (01:15:14) pop dyn_option_select @:@Move 
+\i (01:15:14) move 
+\t (01:15:14) last pick:  200  375
+\t (01:15:14) last pick:  200  352
+\t (01:15:14) Pick new location for the element(s).
+\i (01:15:15) pick grid 441 533
+\t (01:15:15) last pick:  450  525
+\i (01:15:15) generaledit 
+\i (01:15:16) pick grid 132 324
+\t (01:15:16) last pick:  125  325
+\i (01:15:16) prepopup 132 324
+\i (01:15:17) pop dyn_option_select @:@Move 
+\i (01:15:17) move 
+\t (01:15:17) last pick:  125  325
+\t (01:15:17) last pick:  130  312
+\t (01:15:17) Pick new location for the element(s).
+\i (01:15:17) pick grid 221 639
+\t (01:15:17) last pick:  225  650
+\i (01:15:17) generaledit 
+\i (01:15:18) pick grid 208 274
+\t (01:15:18) last pick:  200  275
+\i (01:15:18) prepopup 208 274
+\i (01:15:19) pop dyn_option_select @:@Move 
+\i (01:15:19) move 
+\t (01:15:19) last pick:  200  275
+\t (01:15:19) last pick:  200  272
+\t (01:15:19) Pick new location for the element(s).
+\i (01:15:19) pick grid 99 590
+\t (01:15:19) last pick:  100  600
+\i (01:15:19) generaledit 
+\i (01:15:20) pick grid 131 247
+\t (01:15:20) last pick:  125  250
+\i (01:15:20) prepopup 131 247
+\i (01:15:21) pop dyn_option_select @:@Move 
+\i (01:15:21) move 
+\t (01:15:21) last pick:  125  250
+\t (01:15:21) last pick:  130  232
+\t (01:15:21) Pick new location for the element(s).
+\i (01:15:22) pick grid -14 609
+\t (01:15:22) last pick:  -25  600
+\i (01:15:22) generaledit 
+\i (01:15:23) pick grid 209 178
+\t (01:15:23) last pick:  200  175
+\i (01:15:23) prepopup 209 178
+\i (01:15:23) pop dyn_option_select @:@Move 
+\i (01:15:23) move 
+\t (01:15:23) last pick:  200  175
+\t (01:15:23) last pick:  200  192
+\t (01:15:23) Pick new location for the element(s).
+\i (01:15:24) pick grid 194 563
+\t (01:15:24) last pick:  200  575
+\i (01:15:24) generaledit 
+\i (01:15:25) pick grid 243 151
+\t (01:15:25) last pick:  250  150
+\i (01:15:30) pick grid 178 33
+\t (01:15:30) last pick:  175  25
+\i (01:15:32) pick grid 28 288
+\t (01:15:32) last pick:  25  300
+\i (01:15:34) prepopup 28 288
+\i (01:15:38) pop dyn_option_select @:@Move 
+\i (01:15:38) move 
+\t (01:15:38) last pick:  25  300
+\t (01:15:38) last pick:  25  275
+\t (01:15:38) Pick new location for the element(s).
+\e (01:15:44) Command not found: x100
+\i (01:17:24) pick grid 12 98
+\t (01:17:24) last pick:  0  100
+\i (01:17:24) generaledit 
+\i (01:19:21) pick grid 2 105
+\t (01:19:21) last pick:  0  100
+\i (01:19:23) drag_start grid 14 102
+\i (01:19:23) drag_stop -152 319
+\i (01:19:24) prepopup 4 105
+\i (01:19:25) pop dyn_option_select @:@Move 
+\i (01:19:25) move 
+\t (01:19:25) last pick:  0  100
+\t (01:19:25) last pick:  0  100
+\t (01:19:25) Pick new location for the element(s).
+\i (01:19:26) pick grid -170 415
+\t (01:19:26) last pick:  -175  425
+\i (01:19:26) generaledit 
+\i (01:19:31) drag_start grid -24 613
+\i (01:19:31) drag_stop 59 265
+\i (01:19:32) prepopup -18 596
+\i (01:19:33) pop dyn_option_select @:@Move 
+\i (01:19:33) move 
+\t (01:19:33) last pick:  -25  600
+\t (01:19:33) last pick:  -25  600
+\t (01:19:33) Pick new location for the element(s).
+\i (01:19:35) pick grid 47 112
+\t (01:19:35) last pick:  50  100
+\i (01:19:35) generaledit 
+\i (01:19:53) prepopup 52 99
+\i (01:19:54) pop dyn_option_select @:@Move 
+\i (01:19:54) move 
+\t (01:19:54) last pick:  50  100
+\t (01:19:54) last pick:  50  100
+\t (01:19:54) Pick new location for the element(s).
+\i (01:20:08) pick grid 138 98
+\t (01:20:08) last pick:  150  100
+\i (01:20:08) generaledit 
+\i (01:20:09) pick grid 331 33
+\t (01:20:09) last pick:  325  25
+\i (01:20:15) pick grid 230 649
+\t (01:20:15) last pick:  225  650
+\i (01:20:15) prepopup 230 649
+\i (01:20:16) pop dyn_option_select @:@Move 
+\i (01:20:16) move 
+\t (01:20:16) last pick:  225  650
+\t (01:20:16) last pick:  225  650
+\t (01:20:16) Pick new location for the element(s).
+\i (01:20:26) prepopup 259 98
+\i (01:20:28) done 
+\i (01:20:28) generaledit 
+\i (01:20:31) prmed 
+\i (01:20:33) setwindow form.prmedit
+\i (01:20:33) FORM prmedit view_grids_button  
+\t (01:20:33) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:20:39) setwindow form.grid
+\i (01:20:39) FORM grid non_etch non_etch_x_grids 40 
+\i (01:20:39) FORM grid done  
+\i (01:20:42) setwindow pcb
+\i (01:20:42) pick grid 228 1
+\t (01:20:42) last pick:  225  0
+\i (01:20:42) zoom in 1 
+\i (01:20:42) setwindow pcb
+\i (01:20:42) zoom in 167 34
+\i (01:20:42) trapsize 3
+\i (01:20:42) zoom in 1 
+\i (01:20:42) setwindow pcb
+\i (01:20:42) zoom in 167 34
+\i (01:20:42) trapsize 1
+\i (01:20:42) zoom out 1 
+\i (01:20:42) setwindow pcb
+\i (01:20:42) zoom out 167 35
+\i (01:20:42) trapsize 3
+\i (01:20:43) zoom out 1 
+\i (01:20:43) setwindow pcb
+\i (01:20:43) zoom out 167 34
+\i (01:20:43) trapsize 5
+\i (01:20:44) setwindow form.prmedit
+\i (01:20:44) FORM prmedit view_grids_button  
+\t (01:20:44) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:20:48) setwindow form.grid
+\i (01:20:48) FORM grid non_etch non_etch_y_grids 40 
+\i (01:20:48) FORM grid done  
+\i (01:20:50) setwindow form.prmedit
+\i (01:20:50) FORM prmedit done  
+\i (01:20:50) setwindow pcb
+\i (01:20:50) generaledit 
+\i (01:20:51) pick grid 337 -16
+\t (01:20:51) last pick:  325  -25
+\i (01:20:52) pick grid 223 664
+\t (01:20:52) last pick:  225  675
+\i (01:20:52) prepopup 223 664
+\i (01:20:55) pop dyn_option_select @:@Move 
+\i (01:20:55) move 
+\t (01:20:55) last pick:  225  675
+\t (01:20:55) last pick:  225  650
+\t (01:20:55) Pick new location for the element(s).
+\i (01:21:01) zoom in 1 
+\i (01:21:01) setwindow pcb
+\i (01:21:01) zoom in 234 96
+\i (01:21:01) trapsize 3
+\i (01:21:01) zoom in 1 
+\i (01:21:01) setwindow pcb
+\i (01:21:01) zoom in 234 96
+\i (01:21:01) trapsize 1
+\i (01:21:03) zoom in 1 
+\i (01:21:03) setwindow pcb
+\i (01:21:03) zoom in 248 99
+\i (01:21:03) trapsize 1
+\i (01:21:06) zoom out 1 
+\i (01:21:06) setwindow pcb
+\i (01:21:06) zoom out 233 97
+\i (01:21:06) trapsize 1
+\i (01:21:06) zoom out 1 
+\i (01:21:06) setwindow pcb
+\i (01:21:06) zoom out 233 98
+\i (01:21:06) trapsize 3
+\i (01:21:08) prepopup 245 99
+\i (01:21:09) done 
+\i (01:21:09) generaledit 
+\i (01:21:10) zoom out 1 
+\i (01:21:10) setwindow pcb
+\i (01:21:10) zoom out 255 149
+\i (01:21:10) trapsize 5
+\i (01:21:11) zoom out 1 
+\i (01:21:11) setwindow pcb
+\i (01:21:11) zoom out 254 149
+\i (01:21:11) trapsize 11
+\i (01:21:13) prmed 
+\i (01:21:14) setwindow form.prmedit
+\i (01:21:14) FORM prmedit view_grids_button  
+\t (01:21:14) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:21:18) setwindow form.grid
+\i (01:21:18) FORM grid top subclass_x_grids 20 
+\i (01:21:19) FORM grid top subclass_y_grids 20 
+\i (01:21:20) FORM grid bottom subclass_x_grids 20 
+\i (01:21:21) FORM grid bottom subclass_y_grids 20 
+\i (01:21:21) FORM grid done  
+\i (01:21:23) setwindow form.prmedit
+\i (01:21:23) FORM prmedit done  
+\i (01:21:23) setwindow pcb
+\i (01:21:23) generaledit 
+\i (01:21:24) zoom in 1 
+\i (01:21:24) setwindow pcb
+\i (01:21:24) zoom in 168 5
+\i (01:21:24) trapsize 5
+\i (01:21:24) zoom in 1 
+\i (01:21:24) setwindow pcb
+\i (01:21:24) zoom in 168 6
+\i (01:21:24) trapsize 3
+\i (01:21:25) zoom out 1 
+\i (01:21:25) setwindow pcb
+\i (01:21:25) zoom out 124 129
+\i (01:21:25) trapsize 5
+\i (01:21:25) zoom out 1 
+\i (01:21:25) setwindow pcb
+\i (01:21:25) zoom out 146 94
+\i (01:21:25) trapsize 11
+\i (01:21:27) prepopup 243 642
+\i (01:21:28) pop dyn_option_select @:@Move 
+\i (01:21:28) move 
+\t (01:21:28) last pick:  240  640
+\t (01:21:28) last pick:  225  650
+\t (01:21:28) Pick new location for the element(s).
+\i (01:21:28) zoom in 1 
+\i (01:21:28) setwindow pcb
+\i (01:21:28) zoom in 233 100
+\i (01:21:28) trapsize 5
+\i (01:21:30) zoom in 1 
+\i (01:21:30) setwindow pcb
+\i (01:21:30) zoom in 218 106
+\i (01:21:30) trapsize 3
+\i (01:21:33) zoom in 1 
+\i (01:21:33) setwindow pcb
+\i (01:21:33) zoom in 159 100
+\i (01:21:33) trapsize 1
+\i (01:21:36) pick grid 251 102
+\t (01:21:36) last pick:  260  100
+\i (01:21:36) generaledit 
+\i (01:21:37) zoom out 1 
+\i (01:21:37) setwindow pcb
+\i (01:21:37) zoom out 258 102
+\i (01:21:37) trapsize 3
+\i (01:21:37) zoom out 1 
+\i (01:21:37) setwindow pcb
+\i (01:21:37) zoom out 257 103
+\i (01:21:37) trapsize 5
+\i (01:21:40) prmed 
+\i (01:21:42) setwindow form.prmedit
+\i (01:21:42) FORM prmedit view_grids_button  
+\t (01:21:42) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:21:45) setwindow form.grid
+\i (01:21:45) FORM grid top subclass_x_grids 10 
+\i (01:21:47) FORM grid top subclass_y_grids 10 
+\i (01:21:48) FORM grid bottom subclass_x_grids 10 
+\i (01:21:50) FORM grid bottom subclass_y_grids 10 
+\i (01:21:51) FORM grid done  
+\i (01:21:52) setwindow form.prmedit
+\i (01:21:52) FORM prmedit done  
+\i (01:21:52) setwindow pcb
+\i (01:21:52) generaledit 
+\i (01:21:53) zoom in 1 
+\i (01:21:53) setwindow pcb
+\i (01:21:53) zoom in 153 -44
+\i (01:21:53) trapsize 3
+\i (01:21:54) pick grid 216 1
+\t (01:21:54) last pick:  220  0
+\i (01:21:55) pick grid 252 103
+\t (01:21:55) last pick:  250  100
+\i (01:21:55) prepopup 252 103
+\i (01:21:56) pop dyn_option_select @:@Move 
+\i (01:21:56) move 
+\t (01:21:56) last pick:  250  100
+\t (01:21:56) last pick:  260  100
+\t (01:21:56) Pick new location for the element(s).
+\i (01:22:25) pick grid 275 99
+\t (01:22:25) last pick:  280  100
+\i (01:22:25) generaledit 
+\i (01:22:26) pick grid 208 68
+\t (01:22:26) last pick:  210  70
+\i (01:22:26) zoom in 1 
+\i (01:22:26) setwindow pcb
+\i (01:22:26) zoom in 210 7
+\i (01:22:26) trapsize 1
+\i (01:22:26) zoom out 1 
+\i (01:22:26) setwindow pcb
+\i (01:22:26) zoom out 210 7
+\i (01:22:26) trapsize 3
+\i (01:22:27) zoom out 1 
+\i (01:22:27) setwindow pcb
+\i (01:22:27) zoom out 210 7
+\i (01:22:27) trapsize 5
+\i (01:22:28) zoom in 1 
+\i (01:22:28) setwindow pcb
+\i (01:22:28) zoom in 464 127
+\i (01:22:28) trapsize 3
+\i (01:22:28) zoom out 1 
+\i (01:22:28) setwindow pcb
+\i (01:22:28) zoom out 464 127
+\i (01:22:28) trapsize 5
+\i (01:22:28) zoom in 1 
+\i (01:22:28) setwindow pcb
+\i (01:22:28) zoom in 464 127
+\i (01:22:28) trapsize 3
+\i (01:22:32) zoom out 1 
+\i (01:22:32) setwindow pcb
+\i (01:22:32) zoom out 201 277
+\i (01:22:32) trapsize 5
+\i (01:22:33) zoom in 1 
+\i (01:22:33) setwindow pcb
+\i (01:22:33) zoom in 349 170
+\i (01:22:33) trapsize 3
+\i (01:22:33) zoom out 1 
+\i (01:22:33) setwindow pcb
+\i (01:22:33) zoom out 352 176
+\i (01:22:33) trapsize 5
+\i (01:22:33) zoom out 1 
+\i (01:22:33) setwindow pcb
+\i (01:22:33) zoom out 349 168
+\i (01:22:33) trapsize 11
+\i (01:22:34) zoom in 1 
+\i (01:22:34) setwindow pcb
+\i (01:22:34) zoom in 433 456
+\i (01:22:34) trapsize 5
+\i (01:22:35) pick grid 439 592
+\t (01:22:35) last pick:  440  590
+\i (01:22:35) prepopup 439 592
+\i (01:22:38) pop dyn_option_select @:@Move 
+\i (01:22:38) move 
+\t (01:22:38) last pick:  440  590
+\t (01:22:38) last pick:  450  600
+\t (01:22:38) Pick new location for the element(s).
+\i (01:23:16) pick grid 387 104
+\t (01:23:16) last pick:  390  100
+\i (01:23:16) generaledit 
+\i (01:23:17) pick grid 282 104
+\t (01:23:17) last pick:  280  100
+\i (01:23:17) prepopup 282 104
+\i (01:23:18) pop dyn_option_select @:@Move 
+\i (01:23:18) move 
+\t (01:23:18) last pick:  280  100
+\t (01:23:18) last pick:  280  100
+\t (01:23:18) Pick new location for the element(s).
+\i (01:23:29) pick grid 233 96
+\t (01:23:29) last pick:  230  100
+\i (01:23:29) generaledit 
+\i (01:23:30) zoom in 1 
+\i (01:23:30) setwindow pcb
+\i (01:23:30) zoom in 217 74
+\i (01:23:30) trapsize 3
+\i (01:23:35) dimension edit 
+\i (01:23:36) pick grid 146 103
+\t (01:23:36) last pick:  160  120
+\w (01:23:36) WARNING(SPMHDI-55): No dimension found.
+\i (01:23:38) pick grid 231 99
+\t (01:23:38) last pick:  240  80
+\w (01:23:38) WARNING(SPMHDI-55): No dimension found.
+\i (01:23:38) prepopup 117 174
+\i (01:23:39) pick grid 69 223
+\t (01:23:39) last pick:  80  240
+\w (01:23:39) WARNING(SPMHDI-55): No dimension found.
+\i (01:23:40) delete 
+\i (01:23:40) generaledit 
+\i (01:23:41) prepopup 111 245
+\i (01:23:42) pick grid 75 282
+\t (01:23:42) last pick:  80  280
+\i (01:23:42) zoom out 1 
+\i (01:23:42) setwindow pcb
+\i (01:23:42) zoom out 75 282
+\i (01:23:42) trapsize 5
+\i (01:23:42) zoom out 1 
+\i (01:23:42) setwindow pcb
+\i (01:23:42) zoom out -69 283
+\i (01:23:42) trapsize 11
+\i (01:23:42) zoom out 1 
+\i (01:23:42) setwindow pcb
+\i (01:23:42) zoom out -357 525
+\i (01:23:42) trapsize 11
+\i (01:23:42) zoom out 1 
+\i (01:23:42) setwindow pcb
+\i (01:23:42) zoom out -357 525
+\i (01:23:42) trapsize 11
+\i (01:23:43) zoom in 1 
+\i (01:23:43) setwindow pcb
+\i (01:23:43) zoom in -294 555
+\i (01:23:43) trapsize 5
+\i (01:23:46) undo 
+\i (01:23:46) trapsize 3
+\i (01:23:47) generaledit 
+\i (01:23:47) undo 
+\i (01:23:47) trapsize 3
+\i (01:23:47) generaledit 
+\i (01:23:49) pick grid 243 260
+\t (01:23:49) last pick:  240  260
+\i (01:23:58) pick grid 87 88
+\t (01:23:58) last pick:  90  90
+\i (01:24:08) pick grid 387 102
+\t (01:24:08) last pick:  390  100
+\i (01:24:08) prepopup 387 102
+\i (01:24:10) pop dyn_option_select @:@Move 
+\i (01:24:10) move 
+\t (01:24:10) last pick:  390  100
+\t (01:24:10) last pick:  390  100
+\t (01:24:10) Pick new location for the element(s).
+\i (01:24:12) pick grid 302 95
+\t (01:24:12) last pick:  300  100
+\i (01:24:12) generaledit 
+\i (01:24:14) prepopup 300 98
+\i (01:24:15) pop dyn_option_select @:@Move 
+\i (01:24:15) move 
+\t (01:24:15) last pick:  300  100
+\t (01:24:15) last pick:  300  100
+\t (01:24:15) Pick new location for the element(s).
+\i (01:24:16) pick grid 305 99
+\t (01:24:16) last pick:  310  100
+\i (01:24:16) generaledit 
+\i (01:24:16) pick grid 428 48
+\t (01:24:16) last pick:  430  50
+\i (01:24:17) zoom out 1 
+\i (01:24:17) setwindow pcb
+\i (01:24:17) zoom out 339 97
+\i (01:24:17) trapsize 5
+\i (01:24:20) pick grid -184 425
+\t (01:24:20) last pick:  -180  430
+\i (01:24:20) prepopup -184 425
+\i (01:24:23) pop dyn_option_select @:@Move 
+\i (01:24:23) move 
+\t (01:24:23) last pick:  -180  430
+\t (01:24:23) last pick:  -175  425
+\t (01:24:23) Pick new location for the element(s).
+\i (01:24:24) pick grid 385 104
+\t (01:24:24) last pick:  390  100
+\i (01:24:24) generaledit 
+\i (01:24:25) pick grid 398 2
+\t (01:24:25) last pick:  400  0
+\i (01:24:27) zoom in 1 
+\i (01:24:27) setwindow pcb
+\i (01:24:27) zoom in 257 50
+\i (01:24:27) trapsize 3
+\i (01:24:28) pick grid 253 15
+\t (01:24:28) last pick:  250  20
+\i (01:25:29) zoom out 1 
+\i (01:25:29) setwindow pcb
+\i (01:25:29) zoom out 83 376
+\i (01:25:29) trapsize 5
+\i (01:25:29) zoom out 1 
+\i (01:25:29) setwindow pcb
+\i (01:25:29) zoom out 29 365
+\i (01:25:29) trapsize 11
+\i (01:25:30) zoom in 1 
+\i (01:25:30) setwindow pcb
+\i (01:25:30) zoom in 49 631
+\i (01:25:30) trapsize 5
+\i (01:25:31) pick grid 202 573
+\t (01:25:31) last pick:  200  570
+\i (01:25:31) prepopup 202 573
+\i (01:25:32) pop dyn_option_select @:@Move 
+\i (01:25:32) move 
+\t (01:25:32) last pick:  200  570
+\t (01:25:32) last pick:  200  575
+\t (01:25:32) Pick new location for the element(s).
+\i (01:25:33) zoom in 1 
+\i (01:25:33) setwindow pcb
+\i (01:25:33) zoom in 215 28
+\i (01:25:33) trapsize 3
+\i (01:25:33) zoom in 1 
+\i (01:25:33) setwindow pcb
+\i (01:25:33) zoom in 182 35
+\i (01:25:33) trapsize 1
+\i (01:25:43) pick grid 111 175
+\t (01:25:43) last pick:  110  180
+\i (01:25:43) generaledit 
+\i (01:25:44) zoom out 1 
+\i (01:25:44) setwindow pcb
+\i (01:25:44) zoom out 148 160
+\i (01:25:44) trapsize 3
+\i (01:25:44) zoom out 1 
+\i (01:25:44) setwindow pcb
+\i (01:25:44) zoom out 148 159
+\i (01:25:44) trapsize 5
+\i (01:25:45) zoom in 1 
+\i (01:25:45) setwindow pcb
+\i (01:25:45) zoom in 154 209
+\i (01:25:45) trapsize 3
+\i (01:25:57) pick grid 107 177
+\t (01:25:57) last pick:  110  180
+\i (01:25:57) prepopup 107 177
+\i (01:25:58) pop dyn_option_select @:@Move 
+\i (01:25:58) move 
+\t (01:25:58) last pick:  110  180
+\t (01:25:58) last pick:  110  180
+\t (01:25:58) Pick new location for the element(s).
+\i (01:26:12) pick grid 105 173
+\t (01:26:12) last pick:  110  170
+\i (01:26:12) generaledit 
+\i (01:26:13) pick grid 232 190
+\t (01:26:13) last pick:  230  190
+\i (01:26:14) zoom out 1 
+\i (01:26:14) setwindow pcb
+\i (01:26:14) zoom out 232 190
+\i (01:26:14) trapsize 5
+\i (01:26:14) zoom in 1 
+\i (01:26:14) setwindow pcb
+\i (01:26:14) zoom in 232 191
+\i (01:26:14) trapsize 3
+\i (01:26:15) zoom out 1 
+\i (01:26:15) setwindow pcb
+\i (01:26:15) zoom out 232 191
+\i (01:26:15) trapsize 5
+\i (01:26:15) zoom in 1 
+\i (01:26:15) setwindow pcb
+\i (01:26:15) zoom in 222 419
+\i (01:26:15) trapsize 3
+\i (01:26:16) zoom out 1 
+\i (01:26:16) setwindow pcb
+\i (01:26:16) zoom out 222 419
+\i (01:26:16) trapsize 5
+\i (01:26:16) roam start
+\i (01:26:17) roam y -48
+\i (01:26:17) roam y -16
+\i (01:26:17) roam y -32
+\i (01:26:17) roam y -32
+\i (01:26:17) roam end
+\i (01:26:18) pick grid 107 595
+\t (01:26:18) last pick:  110  600
+\i (01:26:18) prepopup 107 595
+\i (01:26:19) pop dyn_option_select @:@Move 
+\i (01:26:19) move 
+\t (01:26:19) last pick:  110  600
+\t (01:26:19) last pick:  100  600
+\t (01:26:19) Pick new location for the element(s).
+\i (01:26:21) pick grid 188 174
+\t (01:26:21) last pick:  190  170
+\i (01:26:21) generaledit 
+\i (01:26:23) pick grid 451 526
+\t (01:26:23) last pick:  450  530
+\i (01:26:23) prepopup 451 526
+\i (01:26:24) pop dyn_option_select @:@Move 
+\i (01:26:24) move 
+\t (01:26:24) last pick:  450  530
+\t (01:26:24) last pick:  450  525
+\t (01:26:24) Pick new location for the element(s).
+\i (01:26:25) pick grid 267 172
+\t (01:26:25) last pick:  270  170
+\i (01:26:25) generaledit 
+\i (01:26:26) pick grid 357 597
+\t (01:26:26) last pick:  360  600
+\i (01:26:27) prepopup 357 597
+\i (01:26:27) pop dyn_option_select @:@Move 
+\i (01:26:27) move 
+\t (01:26:27) last pick:  360  600
+\t (01:26:27) last pick:  350  600
+\t (01:26:27) Pick new location for the element(s).
+\i (01:26:29) pick grid 347 166
+\t (01:26:29) last pick:  350  170
+\i (01:26:29) generaledit 
+\i (01:26:29) pick grid 374 283
+\t (01:26:29) last pick:  370  280
+\i (01:26:49) add rarc 
+\t (01:26:49) Pick arc center point.
+\i (01:26:50) pick grid -49 412
+\t (01:26:50) last pick:  -50  410
+\t (01:26:50) Pick arc start point.
+\i (01:26:52) pick grid 3 443
+\t (01:26:52) last pick:  0  440
+\t (01:26:52) Radius = 58
+\t (01:26:52) Pick arc end point.
+\i (01:26:54) angle 0.000
+\t (01:26:54) last angle:  +0.000 Degrees
+\t (01:26:54) Pick the next arc center point.
+\i (01:26:55) zoom in 1 
+\i (01:26:55) setwindow pcb
+\i (01:26:55) zoom in -93 460
+\i (01:26:55) trapsize 3
+\i (01:26:56) zoom in 1 
+\i (01:26:56) setwindow pcb
+\i (01:26:56) zoom in -37 452
+\i (01:26:56) trapsize 1
+\i (01:26:56) pick grid -4 447
+\t (01:26:56) last pick:  0  450
+\t (01:26:56) Pick arc start point.
+\i (01:26:56) pick grid dbl -4 447
+\t (01:26:56) last pick:  0  450
+\e (01:26:56) ERROR(SPMHGE-46): Pick equals previous pick, pick again.
+\i (01:26:57) prepopup -44 460
+\i (01:26:59) done 
+\i (01:26:59) generaledit 
+\i (01:26:59) pick grid -33 466
+\t (01:26:59) last pick:  -30  470
+\i (01:27:01) delete 
+\i (01:27:01) generaledit 
+\i (01:27:02) zoom out 1 
+\i (01:27:02) setwindow pcb
+\i (01:27:02) zoom out -49 427
+\i (01:27:02) trapsize 3
+\i (01:27:02) zoom out 1 
+\i (01:27:02) setwindow pcb
+\i (01:27:02) zoom out -30 356
+\i (01:27:02) trapsize 5
+\i (01:27:03) zoom in 1 
+\i (01:27:03) setwindow pcb
+\i (01:27:03) zoom in 48 -21
+\i (01:27:03) trapsize 3
+\i (01:27:07) add circle 
+\t (01:27:07) Pick center point of the circle.
+\t (01:27:07) Pick center point of the circle.
+\i (01:27:08) pick grid -41 174
+\t (01:27:08) last pick:  -40  170
+\t (01:27:08) Pick a perimeter point on the circle.
+\i (01:27:10) pick grid -31 192
+\t (01:27:10) last pick:  -30  190
+\t (01:27:10) Pick center point of the circle.
+\i (01:27:18) pick grid 88 251
+\t (01:27:18) last pick:  90  250
+\t (01:27:18) Pick a perimeter point on the circle.
+\i (01:27:19) prepopup 111 251
+\i (01:27:20) oops 
+\t (01:27:20) last pick:  -30  190
+\t (01:27:20) Pick center point of the circle.
+\i (01:27:21) pick grid 97 210
+\t (01:27:21) last pick:  100  210
+\t (01:27:21) Pick a perimeter point on the circle.
+\i (01:27:22) pick grid 97 210
+\t (01:27:22) last pick:  100  210
+\w (01:27:22) WARNING(SPMHA2-51): Pick equals previous pick ... pick again.
+\i (01:27:23) prepopup 72 270
+\i (01:27:24) oops 
+\t (01:27:24) last pick:  100  210
+\t (01:27:24) Pick center point of the circle.
+\i (01:27:24) prepopup 61 298
+\i (01:27:25) done 
+\i (01:27:25) generaledit 
+\i (01:27:25) pick grid 200 269
+\t (01:27:25) last pick:  200  270
+\i (01:27:26) pick grid 124 209
+\t (01:27:26) last pick:  120  210
+\i (01:27:32) pick grid 376 346
+\t (01:27:32) last pick:  380  350
+\i (01:27:36) pick grid -39 192
+\t (01:27:36) last pick:  -40  190
+\e (01:27:37) Command not found: Del
+\i (01:27:39) pick grid -69 207
+\t (01:27:39) last pick:  -70  210
+\i (01:27:40) prepopup -38 192
+\i (01:27:41) pick grid -42 222
+\t (01:27:41) last pick:  -40  220
+\i (01:27:42) delete 
+\i (01:27:43) pick grid -27 186
+\t (01:27:43) last pick:  -30  190
+\t (01:27:43) Line "Etch/Top"
+\i (01:27:43) pick grid -14 223
+\t (01:27:43) last pick:  -10  220
+\i (01:27:44) prepopup -12 243
+\i (01:27:44) done 
+\i (01:27:44) generaledit 
+\i (01:27:45) add pin 
+\i (01:27:46) pick grid -10 254
+\t (01:27:46) last pick:  -10  250
+\e (01:27:46) ERROR(SPMHAP-2): No padstack specified.
+\i (01:27:49) add pin 
+\t (01:27:49) Exiting from Add Pin.
+\i (01:27:57) add pin 
+\t (01:27:57) Exiting from Add Pin.
+\i (01:27:58) add pin 
+\t (01:27:58) Exiting from Add Pin.
+\i (01:27:58) add pin 
+\t (01:27:58) Exiting from Add Pin.
+\i (01:27:58) add pin 
+\t (01:27:58) Exiting from Add Pin.
+\i (01:28:07) label refdes 
+\t (01:28:07) Exiting from Add Pin.
+\t (01:28:07) Pick text location.
+\i (01:28:08) label refdes 
+\t (01:28:08) Pick text location.
+\i (01:28:10) pick grid -64 273
+\t (01:28:10) last pick:  -80  280
+\t (01:28:10) Refdes of this subclass is already defined, change subclass.
+\i (01:28:10) zoom out 1 
+\i (01:28:10) setwindow pcb
+\i (01:28:10) zoom out -54 299
+\i (01:28:10) trapsize 5
+\i (01:28:10) zoom out 1 
+\i (01:28:10) setwindow pcb
+\i (01:28:10) zoom out -54 300
+\i (01:28:10) trapsize 11
+\i (01:28:11) zoom in 1 
+\i (01:28:11) setwindow pcb
+\i (01:28:11) zoom in 109 145
+\i (01:28:11) trapsize 5
+\i (01:28:11) prepopup -2 257
+\i (01:28:12) done 
+\i (01:28:12) generaledit 
+\i (01:28:13) zoom in 1 
+\i (01:28:13) setwindow pcb
+\i (01:28:13) zoom in 14 300
+\i (01:28:13) trapsize 3
+\i (01:28:13) pick grid 14 301
+\t (01:28:13) last pick:  0  320
+\i (01:28:14) prepopup -29 330
+\i (01:28:15) pick grid -4 396
+\t (01:28:15) last pick:  0  400
+\i (01:28:16) delete 
+\i (01:28:16) pick grid -13 357
+\t (01:28:16) last pick:  0  360
+\i (01:28:17) prepopup -55 380
+\i (01:28:18) done 
+\i (01:28:18) generaledit 
+\i (01:28:18) zoom out 1 
+\i (01:28:18) setwindow pcb
+\i (01:28:18) zoom out 17 423
+\i (01:28:18) trapsize 5
+\i (01:28:18) zoom out 1 
+\i (01:28:18) setwindow pcb
+\i (01:28:18) zoom out 16 423
+\i (01:28:18) trapsize 11
+\i (01:28:19) zoom in 1 
+\i (01:28:19) setwindow pcb
+\i (01:28:19) zoom in 202 -62
+\i (01:28:19) trapsize 5
+\i (01:28:19) zoom in 1 
+\i (01:28:19) setwindow pcb
+\i (01:28:19) zoom in 206 63
+\i (01:28:19) trapsize 3
+\i (01:28:19) zoom in 1 
+\i (01:28:19) setwindow pcb
+\i (01:28:19) zoom in 207 63
+\i (01:28:19) trapsize 1
+\i (01:28:19) zoom in 1 
+\i (01:28:19) setwindow pcb
+\i (01:28:19) zoom in 207 64
+\i (01:28:19) trapsize 1
+\i (01:28:20) zoom out 1 
+\i (01:28:20) setwindow pcb
+\i (01:28:20) zoom out 207 64
+\i (01:28:20) trapsize 1
+\i (01:28:21) zoom in 1 
+\i (01:28:21) setwindow pcb
+\i (01:28:21) zoom in 138 99
+\i (01:28:21) trapsize 1
+\i (01:28:21) zoom in 1 
+\i (01:28:21) setwindow pcb
+\i (01:28:21) zoom in 138 99
+\i (01:28:21) trapsize 1
+\i (01:28:22) zoom out 1 
+\i (01:28:22) setwindow pcb
+\i (01:28:22) zoom out 138 99
+\i (01:28:22) trapsize 1
+\i (01:28:22) zoom out 1 
+\i (01:28:22) setwindow pcb
+\i (01:28:22) zoom out 138 99
+\i (01:28:22) trapsize 1
+\i (01:28:22) zoom out 1 
+\i (01:28:22) setwindow pcb
+\i (01:28:22) zoom out 137 100
+\i (01:28:22) trapsize 3
+\i (01:28:22) zoom out 1 
+\i (01:28:22) setwindow pcb
+\i (01:28:22) zoom out 137 100
+\i (01:28:22) trapsize 5
+\i (01:28:23) zoom out 1 
+\i (01:28:23) setwindow pcb
+\i (01:28:23) zoom out -63 101
+\i (01:28:23) trapsize 11
+\i (01:28:23) zoom in 1 
+\i (01:28:23) setwindow pcb
+\i (01:28:23) zoom in 148 76
+\i (01:28:24) trapsize 5
+\i (01:28:26) prmed 
+\i (01:28:27) setwindow form.prmedit
+\i (01:28:27) FORM prmedit view_grids_button  
+\t (01:28:27) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:28:30) setwindow form.grid
+\i (01:28:30) FORM grid done  
+\i (01:28:33) setwindow form.prmedit
+\i (01:28:33) FORM prmedit display_grid NO 
+\i (01:28:33) FORM prmedit display_grid YES 
+\i (01:28:35) FORM prmedit done  
+\i (01:28:35) setwindow pcb
+\i (01:28:35) generaledit 
+\i (01:28:36) zoom in 1 
+\i (01:28:36) setwindow pcb
+\i (01:28:36) zoom in 74 101
+\i (01:28:36) trapsize 3
+\i (01:28:38) add pin 
+\i (01:28:39) add pin 
+\t (01:28:39) Exiting from Add Pin.
+\i (01:28:39) add pin 
+\t (01:28:39) Exiting from Add Pin.
+\i (01:28:43) zoom out 1 
+\i (01:28:43) setwindow pcb
+\i (01:28:43) zoom out 56 63
+\i (01:28:43) trapsize 5
+\i (01:28:44) zoom out 1 
+\i (01:28:44) setwindow pcb
+\i (01:28:44) zoom out 55 63
+\i (01:28:44) trapsize 11
+\i (01:28:44) zoom out 1 
+\i (01:28:44) setwindow pcb
+\i (01:28:44) zoom out -74 -29
+\i (01:28:44) trapsize 11
+\i (01:28:44) zoom out 1 
+\i (01:28:44) setwindow pcb
+\i (01:28:44) zoom out -74 -29
+\i (01:28:44) trapsize 11
+\i (01:28:44) zoom out 1 
+\i (01:28:44) setwindow pcb
+\i (01:28:44) zoom out -74 -29
+\i (01:28:44) trapsize 11
+\i (01:28:45) pick grid 686 750
+\t (01:28:45) last pick:  680  760
+\e (01:28:45) ERROR(SPMHAP-2): No padstack specified.
+\i (01:28:46) pick grid 563 711
+\t (01:28:46) last pick:  560  720
+\e (01:28:46) ERROR(SPMHAP-2): No padstack specified.
+\i (01:28:47) prepopup -219 879
+\i (01:28:48) cancel 
+\t (01:28:48) Exiting from Add Pin.
+\i (01:28:48) generaledit 
+\i (01:28:49) prepopup -294 415
+\i (01:28:50) pick grid -193 616
+\t (01:28:50) last pick:  -200  600
+\i (01:28:51) zoom in 1 
+\i (01:28:51) setwindow pcb
+\i (01:28:51) zoom in -42 -53
+\i (01:28:51) trapsize 5
+\i (01:28:51) zoom in 1 
+\i (01:28:51) setwindow pcb
+\i (01:28:51) zoom in -41 -53
+\i (01:28:51) trapsize 3
+\i (01:28:51) zoom out 1 
+\i (01:28:51) setwindow pcb
+\i (01:28:51) zoom out -41 -52
+\i (01:28:51) trapsize 5
+\i (01:28:51) zoom in 1 
+\i (01:28:51) setwindow pcb
+\i (01:28:51) zoom in -42 -52
+\i (01:28:51) trapsize 3
+\i (01:28:52) pick grid 162 103
+\t (01:28:52) last pick:  160  120
+\i (01:28:56) prmed 
+\i (01:28:57) setwindow form.prmedit
+\i (01:28:57) FORM prmedit view_grids_button  
+\t (01:28:57) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:29:00) setwindow form.grid
+\i (01:29:00) FORM grid top subclass_x_grids 20 
+\i (01:29:02) FORM grid top subclass_y_grids 20 
+\i (01:29:03) FORM grid bottom subclass_x_grids 20 
+\i (01:29:04) FORM grid bottom subclass_y_grids 20 
+\i (01:29:04) FORM grid done  
+\i (01:29:06) setwindow form.prmedit
+\i (01:29:06) FORM prmedit view_grids_button  
+\t (01:29:06) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:29:10) setwindow form.grid
+\i (01:29:10) FORM grid non_etch non_etch_x_grids 10 
+\i (01:29:13) FORM grid non_etch non_etch_y_grids 10 
+\i (01:29:15) FORM grid top subclass_x_grids 10 
+\i (01:29:16) FORM grid top subclass_y_grids 10 
+\i (01:29:18) FORM grid bottom subclass_x_grids 10 
+\i (01:29:20) FORM grid bottom subclass_y_grids 10 
+\i (01:29:20) FORM grid done  
+\i (01:29:21) setwindow form.prmedit
+\i (01:29:21) FORM prmedit done  
+\i (01:29:21) setwindow pcb
+\i (01:29:21) generaledit 
+\i (01:29:30) add pin 
+\i (01:29:31) add pin 
+\t (01:29:31) Exiting from Add Pin.
+\i (01:29:35) add pin 
+\t (01:29:35) Exiting from Add Pin.
+\i (01:29:36) add pin 
+\t (01:29:36) Exiting from Add Pin.
+\i (01:29:36) add pin 
+\t (01:29:36) Exiting from Add Pin.
+\i (01:29:40) add flash 
+\t (01:29:40) Exiting from Add Pin.
+\i (01:29:42) fillin confirm
+\i (01:29:42) generaledit 
+\i (01:29:47) prmed 
+\i (01:29:48) setwindow form.prmedit
+\i (01:29:48) FORM prmedit design  
+\i (01:29:51) FORM prmedit text  
+\i (01:29:52) FORM prmedit shapes  
+\i (01:29:52) FORM prmedit flow_planning  
+\i (01:29:55) FORM prmedit route  
+\i (01:30:07) FORM prmedit done  
+\i (01:30:07) setwindow pcb
+\i (01:30:07) generaledit 
+\i (01:30:09) add pin 
+\i (01:30:11) show element 
+\t (01:30:11) Exiting from Add Pin.
+\i (01:30:11) generaledit 
+\i (01:30:16) setwindow text
+\i (01:30:16) close 
+\i (01:30:16) setwindow pcb
+\i (01:30:16) pick grid -53 70
+\t (01:30:16) last pick:  -50  70
+\i (01:30:22) pick grid -98 94
+\t (01:30:22) last pick:  -100  90
+\i (01:30:23) save 
+\i (01:30:26) fillin yes 
+\t (01:30:27) Symbol 'rj45.psm' created.
+\i (01:30:27) generaledit 
+\i (01:30:29) open 
+\i (01:30:32) fillin "RJ45.dra"
+\t (01:30:32) Opening existing design...
+\i (01:30:32) trapsize 3
+\d (01:30:32) Database opened: C:/Cadence/Projects/ArtNet_Node/RJ45.dra
+\i (01:30:32) generaledit 
+\i (01:30:34) exit 
+\t (01:30:35)     Journal end - Mon Oct 23 17:47:15 2017

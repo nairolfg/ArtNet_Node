@@ -1,0 +1,37 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Mon Oct 23 17:47:45 2017
+\t (00:00:02)         Host=FLOPC User=MGZ Pid=7656 CPUs=4
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Database opened: C:/Cadence/Projects/ArtNet_Node/RJ45.dra
+\i (00:00:04) trapsize 3
+\i (00:00:04) trapsize 3
+\i (00:00:05) generaledit 
+\i (00:00:13) save_as 
+\i (00:00:30) fillin "C:\Cadence\SPB_16.6\share\pcb\pcb_lib\symbols\RJ45.dra"
+\i (00:00:30) cd "C:\Cadence\SPB_16.6\share\pcb\pcb_lib\symbols"
+\t (00:00:31) Symbol 'rj45.psm' created.
+\i (00:00:31) generaledit 
+\i (00:00:37) add pin 
+\i (00:00:42) add pin 
+\t (00:00:42) Exiting from Add Pin.
+\i (00:00:44) pick grid -119 72
+\t (00:00:44) last pick:  -120  70
+\e (00:00:44) ERROR(SPMHAP-2): No padstack specified.
+\i (00:00:47) add pin 
+\t (00:00:47) Exiting from Add Pin.
+\i (00:00:49) pick grid 3 89
+\t (00:00:49) last pick:  0  90
+\e (00:00:49) ERROR(SPMHAP-2): No padstack specified.
+\i (00:00:52) add pin 
+\t (00:00:52) Exiting from Add Pin.
+\i (00:00:52) prepopup -25 142
+\i (00:00:55) pick grid 74 20
+\t (00:00:55) last pick:  70  20
+\e (00:00:55) ERROR(SPMHAP-2): No padstack specified.
+\i (00:01:03) exit 
+\t (00:01:03) Exiting from Add Pin.
+\e (00:01:04) Do you want to save the changes you made to C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/RJ45.dra?
+\i (00:01:07) fillin yes 
+\t (00:01:07) Symbol 'rj45.psm' created.
+\t (00:01:07)     Journal end - Mon Oct 23 17:48:51 2017

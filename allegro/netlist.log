@@ -1,0 +1,13 @@
+{ Using PSTWRITER 16.6.0 d001Oct-23-2017 at 19:10:20 }
+
+#1 WARNING(ORCAP-36006): Part Name "ENC28J60-DIL_DIP28_4_ENC28J60-DIL" is renamed to "ENC28J60-DIL_DIP28_4_ENC28J60-D".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\CADENCE\PROJECTS\ARTNET_NODE\allegro/pstchip.dat
+
+Loading... C:\CADENCE\PROJECTS\ARTNET_NODE\allegro/pstchip.dat
+
+Loading... C:\CADENCE\PROJECTS\ARTNET_NODE\allegro/pstxprt.dat
+
+Loading... C:\CADENCE\PROJECTS\ARTNET_NODE\allegro/pstxnet.dat
+packaging the design view...

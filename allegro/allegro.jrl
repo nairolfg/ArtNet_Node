@@ -1,0 +1,21 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Mon Oct 23 19:10:24 2017
+\t (00:00:02)         Host=FLOPC User=MGZ Pid=8652 CPUs=4
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Database opened: C:/CADENCE/PROJECTS/ARTNET_NODE/allegro/ARTNET_NODE_2.brd
+\i (00:00:04) trapsize 13189
+\i (00:00:04) trapsize 12889
+\i (00:00:04) trapsize 13240
+\i (00:00:04) trapsize 11111
+\i (00:00:04) trapsize 11918
+\i (00:00:05) generaledit 
+\i (00:00:06) place manual 
+\i (00:00:10) setwindow form.plc_manual
+\i (00:00:10) FORM plc_manual done  
+\i (00:00:10) setwindow pcb
+\i (00:00:10) generaledit 
+\i (00:00:14) exit 
+\e (00:00:14) Do you want to save the changes you made to ARTNET_NODE_2.brd?
+\i (00:00:16) fillin yes 
+\t (00:00:16)     Journal end - Mon Oct 23 19:10:39 2017
