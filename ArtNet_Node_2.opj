@@ -28,7 +28,9 @@
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
-    (Netlist_TAB "0"))
+    (Netlist_TAB "0")
+    ("Allegro Netlist Input Board File"
+       "C:\Cadence\Projects\ArtNet_Node\allegro\ARTNET_NODE_2.brd"))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -41,6 +43,10 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (CON16
+      (FullPartName "CON16.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
     (CON8
       (FullPartName "CON8.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
@@ -122,7 +128,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1345 52 580")
-        (Scroll "810 75")
+        (Scroll "1086 0")
         (Zoom "154")
         (Occurrence "/"))
       (Path "C:\CADENCE\PROJECTS\ARTNET_NODE\ARTNET_NODE_2.DSN")

@@ -1,0 +1,38 @@
+\t (00:00:05) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:05)     Journal start - Tue Oct 24 10:02:28 2017
+\t (00:00:05)         Host=FLOPC User=MGZ Pid=8388 CPUs=4
+\t (00:00:05) 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Database opened: C:/CADENCE/PROJECTS/ARTNET_NODE/allegro/ARTNET_NODE_2.brd
+\i (00:00:08) trapsize 1768
+\i (00:00:08) trapsize 1728
+\i (00:00:08) trapsize 1775
+\i (00:00:08) trapsize 1490
+\i (00:00:08) trapsize 1490
+\i (00:00:09) generaledit 
+\i (00:00:10) place manual 
+\i (00:00:11) setwindow form.plc_manual
+\i (00:00:11) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\t (00:00:11) Placing J1 / CON8_RJ45_2_CON1 / RJ45_2 on Top.
+\i (00:00:11) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) pick grid -2581.35 -244.74
+\t (00:00:21) last pick:  -2600.00  -250.00
+\e (00:00:21) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+\t (00:00:21) Placing J1 / CON8_RJ45_2_CON1 / RJ45_2 on Top.
+\i (00:00:24) setwindow form.plc_manual
+\i (00:00:24) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\t (00:00:24) Placing J1 / CON8_RJ45_2_CON1 / RJ45_2 on Top.
+\i (00:00:25) setwindow pcb
+\i (00:00:25) pick grid -2319.17 -65.98
+\t (00:00:25) last pick:  -2300.00  -50.00
+\e (00:00:25) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+\t (00:00:25) Placing J1 / CON8_RJ45_2_CON1 / RJ45_2 on Top.
+\i (00:00:32) setwindow form.plc_manual
+\i (00:00:32) FORM plc_manual done  
+\i (00:00:32) setwindow pcb
+\i (00:00:32) generaledit 
+\i (00:00:49) exit 
+\e (00:00:49) Do you want to save the changes you made to ARTNET_NODE_2.brd?
+\i (00:00:50) fillin yes 
+\t (00:00:50)     Journal end - Tue Oct 24 10:03:13 2017

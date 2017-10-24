@@ -2,367 +2,66 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  ARTNET_NODE_2.brd                                                           |
-|                                                    Mon Oct 23 19:10:22 2017  |
+|  C:/Cadence/Projects/ArtNet_Node/allegro/ARTNET_NODE_2.brd                   |
+|                                                    Tue Oct 24 10:05:20 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |                net     pins                  |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  DIR_IO       pins ADDED TO this new net
-                                 U1.4           U4.2           U4.3           
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 J1.13                          
+                                 J1.14                          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  ETH_CS       pins ADDED TO this new net
-                                 U1.14          U5.9           
+  N25465       pins ADDED TO this existing net (pins not previously on any net)
+                                 J1.2                           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  ETH_INT      pins ADDED TO this new net
-                                 U1.5           U5.4           
+  N25483       pins ADDED TO this existing net (pins not previously on any net)
+                                 J1.1                           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GND          pins ADDED TO this new net
-                                 C1.1           C2.1           C3.2           
-                                 C4.1           C5.2           C6.2           
-                                 C7.1           C11.2          C14.1          
-                                 C15.1          C16.1          C17.2          
-                                 C18.2          C19.1          C20.1          
-                                 C22.1          C23.1          C24.1          
-                                 C25.1          C26.1          C27.1          
-                                 J2.3           J3.2           J4.10          
-                                 JP1.1          LED2.1         LED3.1         
-                                 R8.2           U1.8           U1.22          
-                                 U2.3           U3.3           U4.5           
-                                 U5.2           U5.11          U5.18          
-                                 U5.21          U5.22          
+  N25506       pins MOVED FROM this net (to net name listed on right)
+                                 J1.6                           
+                                                                         N25519
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  MISO         pins ADDED TO this new net
-                                 J4.9           U1.18          U5.6           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  MOSI         pins ADDED TO this new net
-                                 J4.1           U1.17          U5.7           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N23309       pins ADDED TO this new net
-                                 C1.2           U1.9           Y1.2           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N23328       pins ADDED TO this new net
-                                 C2.2           U1.10          Y1.1           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N23388       pins ADDED TO this new net
-                                 R1.2           U1.1           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N23750       pins ADDED TO this new net
-                                 R8.1           U5.14          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N23827       pins ADDED TO this new net
-                                 C24.2          R5.2           U5.10          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25519       pins MOVED FROM this net (to net name listed on right)
+                                 J1.3                           
+                                                                         N25506
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  ARTNET_NODE_2.brd                                                           |
-|                                                    Mon Oct 23 19:10:22 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |                net     pins                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  N23987       pins ADDED TO this new net
-                                 C6.1           U5.1           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N24247       pins ADDED TO this new net
-                                 R12.2          TR.1           U5.16          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N24251       pins ADDED TO this new net
-                                 R11.2          TR.3           U5.17          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N24551       pins ADDED TO this new net
-                                 C17.1          U5.23          Y2.2           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N24563       pins ADDED TO this new net
-                                 C18.1          U5.24          Y2.1           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N24954       pins ADDED TO this new net
-                                 R6.1           U5.27          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N24961       pins ADDED TO this new net
-                                 R7.1           U5.26          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25009       pins ADDED TO this new net
-                                 LED2.2         R6.2           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25013       pins ADDED TO this new net
-                                 LED3.2         R7.2           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25465       pins ADDED TO this new net
-                                 J1.7           TR.16          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25483       pins ADDED TO this new net
-                                 J1.8           TR.14          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25506       pins ADDED TO this new net
-                                 J1.6           TR.9           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25519       pins ADDED TO this new net
-                                 J1.3           TR.11          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25671       pins ADDED TO this new net
-                                 C19.2          TR.15          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25685       pins ADDED TO this new net
-                                 C20.2          TR.10          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  ARTNET_NODE_2.brd                                                           |
-|                                                    Mon Oct 23 19:10:22 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |                net     pins                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  N26007       pins ADDED TO this new net
-                                 C22.2          R9.2           R10.2          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N26198       pins ADDED TO this new net
-                                 C23.2          L1.2           R11.1          
-                                 R12.1          TR.2           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N27240       pins ADDED TO this new net
-                                 C11.1          C16.2          D1.1           
-                                 U2.1           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N28731       pins ADDED TO this new net
-                                 D1.2           J3.1           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N29274       pins ADDED TO this new net
-                                 J2.2           U4.6           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N29288       pins ADDED TO this new net
-                                 J2.1           U4.7           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30528       pins ADDED TO this new net
-                                 JP1.3          U1.28          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N30541       pins ADDED TO this new net
-                                 JP1.2          U1.27          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RESET        pins ADDED TO this new net
-                                 J4.5           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RXD          pins ADDED TO this new net
-                                 U1.2           U4.1           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  SCK          pins ADDED TO this new net
-                                 J4.7           U1.19          U5.8           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  TPIN+        pins ADDED TO this new net
-                                 R9.1           TR.8           U5.13          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  TPIN-        pins ADDED TO this new net
-                                 R10.1          TR.6           U5.12          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  TXD          pins ADDED TO this new net
-                                 U1.3           U4.4           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC_3V       pins ADDED TO this new net
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  ARTNET_NODE_2.brd                                                           |
-|                                                    Mon Oct 23 19:10:22 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |                net     pins                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 C5.1           C14.2          C27.2          
-                                 L1.1           R5.1           U3.2           
-                                 U5.15          U5.19          U5.20          
-                                 U5.25          U5.28          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC_5V       pins ADDED TO this new net
-                                 C3.1           C4.2           C7.2           
-                                 C15.2          C25.2          C26.2          
-                                 JP1.4          R1.1           U1.7           
-                                 U1.20          U2.2           U3.1           
-                                 U4.8           
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   5  |
-|------------------------------------------------------------------------------|
-|  ARTNET_NODE_2.brd                                                           |
-|                                                    Mon Oct 23 19:10:22 2017  |
+|  C:/Cadence/Projects/ArtNet_Node/allegro/ARTNET_NODE_2.brd                   |
+|                                                    Tue Oct 24 10:05:20 2017  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to board drawing                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- 75176_0_DIP8_3_75176
- ATMEGA88_0_DIP28_6_ATMEGA328
- CAP NP_CAPCK06_100N
- CAP NP_CAPCK06_10N
- CAP NP_CAPCK06_1N
- CAP NP_CAPCK06_22P
- CAP_CAP500_10U
- CAP_CAP500_220U
- CON10_FGCON10_CON10
- CON12_2_DIP16_3_CON12
- CON2_FGCON2_1_CON3
- CON3_FGCON3_1_CON2
- CON4_JUMPER4_CON4
- CON8_RJ45_CON1
- CRYSTAL_CRYS11MHZ_20MHZ
- CRYSTAL_CRYS11MHZ_25MHZ
- DIODE_DIO400_1N4004
- ENC28J60-DIL_DIP28_4_ENC28J60-D
- INDUCTOR_CAPCK06_INDUCTOR
- LED_CAP196_LED
- LM7805/TO_0_TO220AB_LM7805/TO
- LM7805/TO_0_TO220AB_LM7833/TO
- RESISTOR_RES400_47
- RESISTOR_RES400_180
- RESISTOR_RES400_10K
- RESISTOR_RES400_2K7
+ CON16_RJ45_2_CON1
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   6  |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  ARTNET_NODE_2.brd                                                           |
-|                                                    Mon Oct 23 19:10:22 2017  |
+|  C:/Cadence/Projects/ArtNet_Node/allegro/ARTNET_NODE_2.brd                   |
+|                                                    Tue Oct 24 10:05:20 2017  |
 |------------------------------------------------------------------------------|
-| COMPONENTS ADDED to board drawing                                            |
+| COMPONENTS CHANGED from one device type to another in board drawing          |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C1                  CAP NP_CAPCK06_22P    
- C2                  CAP NP_CAPCK06_22P    
- C3                  CAP_CAP500_10U        
- C4                  CAP NP_CAPCK06_100N   
- C5                  CAP_CAP500_10U        
- C6                  CAP_CAP500_10U        
- C7                  CAP NP_CAPCK06_100N   
- C11                 CAP_CAP500_220U       
- C14                 CAP NP_CAPCK06_100N   
- C15                 CAP NP_CAPCK06_100N   
- C16                 CAP NP_CAPCK06_100N   
- C17                 CAP NP_CAPCK06_22P    
- C18                 CAP NP_CAPCK06_22P    
- C19                 CAP NP_CAPCK06_1N     
- C20                 CAP NP_CAPCK06_1N     
- C22                 CAP NP_CAPCK06_10N    
- C23                 CAP NP_CAPCK06_10N    
- C24                 CAP NP_CAPCK06_100N   
- C25                 CAP NP_CAPCK06_100N   
- C26                 CAP NP_CAPCK06_100N   
- C27                 CAP NP_CAPCK06_100N   
- D1                  DIODE_DIO400_1N4004   
- J1                  CON8_RJ45_CON1        
- J2                  CON3_FGCON3_1_CON2    
- J3                  CON2_FGCON2_1_CON3    
- J4                  CON10_FGCON10_CON10   
- JP1                 CON4_JUMPER4_CON4     
- L1                  INDUCTOR_CAPCK06_INDUCTOR 
- LED2                LED_CAP196_LED        
- LED3                LED_CAP196_LED        
- R1                  RESISTOR_RES400_10K   
- R5                  RESISTOR_RES400_10K   
- R6                  RESISTOR_RES400_180   
- R7                  RESISTOR_RES400_180   
- R8                  RESISTOR_RES400_2K7   
- R9                  RESISTOR_RES400_47    
- R10                 RESISTOR_RES400_47    
- R11                 RESISTOR_RES400_47    
- R12                 RESISTOR_RES400_47    
- TR                  CON12_2_DIP16_3_CON12 
- U1                  ATMEGA88_0_DIP28_6_ATMEGA328 
- U2                  LM7805/TO_0_TO220AB_LM7805/TO 
- U3                  LM7805/TO_0_TO220AB_LM7833/TO 
- U4                  75176_0_DIP8_3_75176  
- U5                  ENC28J60-DIL_DIP28_4_ENC28J60-D 
+ J1                  CON16_RJ45_2_CON1                     CON8_RJ45_2_CON1
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   7  |
+|                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|  ARTNET_NODE_2.brd                                                           |
-|                                                    Mon Oct 23 19:10:22 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENTS ADDED to board drawing                                            |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- Y1                  CRYSTAL_CRYS11MHZ_20MHZ 
- Y2                  CRYSTAL_CRYS11MHZ_25MHZ 
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   8  |
-|------------------------------------------------------------------------------|
-|  ARTNET_NODE_2.brd                                                           |
-|                                                    Mon Oct 23 19:10:22 2017  |
+|  C:/Cadence/Projects/ArtNet_Node/allegro/ARTNET_NODE_2.brd                   |
+|                                                    Tue Oct 24 10:05:20 2017  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to board drawing                                       |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C1.2                           PRIM_FILE      .\pstchip.dat
- C2.2                           PRIM_FILE      .\pstchip.dat
- C3.2                           PRIM_FILE      .\pstchip.dat
- C4.2                           PRIM_FILE      .\pstchip.dat
- C5.2                           PRIM_FILE      .\pstchip.dat
- C6.2                           PRIM_FILE      .\pstchip.dat
- C7.2                           PRIM_FILE      .\pstchip.dat
- C11.2                          PRIM_FILE      .\pstchip.dat
- C14.2                          PRIM_FILE      .\pstchip.dat
- C15.2                          PRIM_FILE      .\pstchip.dat
- C16.2                          PRIM_FILE      .\pstchip.dat
- C17.2                          PRIM_FILE      .\pstchip.dat
- C18.2                          PRIM_FILE      .\pstchip.dat
- C19.2                          PRIM_FILE      .\pstchip.dat
- C20.2                          PRIM_FILE      .\pstchip.dat
- C22.2                          PRIM_FILE      .\pstchip.dat
- C23.2                          PRIM_FILE      .\pstchip.dat
- C24.2                          PRIM_FILE      .\pstchip.dat
- C25.2                          PRIM_FILE      .\pstchip.dat
- C26.2                          PRIM_FILE      .\pstchip.dat
- C27.2                          PRIM_FILE      .\pstchip.dat
- D1.1                           PRIM_FILE      .\pstchip.dat
- J1.8                           PRIM_FILE      .\pstchip.dat
- J2.3                           PRIM_FILE      .\pstchip.dat
- J3.2                           PRIM_FILE      .\pstchip.dat
- J4.9                           PRIM_FILE      .\pstchip.dat
- JP1.4                          PRIM_FILE      .\pstchip.dat
- L1.2                           PRIM_FILE      .\pstchip.dat
- LED2.1                         PRIM_FILE      .\pstchip.dat
- LED3.1                         PRIM_FILE      .\pstchip.dat
- R1.2                           PRIM_FILE      .\pstchip.dat
- R5.2                           PRIM_FILE      .\pstchip.dat
- R6.2                           PRIM_FILE      .\pstchip.dat
- R7.2                           PRIM_FILE      .\pstchip.dat
- R8.2                           PRIM_FILE      .\pstchip.dat
- R9.2                           PRIM_FILE      .\pstchip.dat
- R10.2                          PRIM_FILE      .\pstchip.dat
- R11.2                          PRIM_FILE      .\pstchip.dat
- R12.2                          PRIM_FILE      .\pstchip.dat
- TR.9                           PRIM_FILE      .\pstchip.dat
- U1.7                           PRIM_FILE      .\pstchip.dat
- U2.2                           PRIM_FILE      .\pstchip.dat
- U3.2                           PRIM_FILE      .\pstchip.dat
- U4.8                           PRIM_FILE      .\pstchip.dat
- U5.18                          PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   9  |
+ J1.9                           PRIM_FILE      .\pstchip.dat
 |------------------------------------------------------------------------------|
-|  ARTNET_NODE_2.brd                                                           |
-|                                                    Mon Oct 23 19:10:22 2017  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to board drawing                                       |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- Y1.2                           PRIM_FILE      .\pstchip.dat
- Y2.2                           PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|   total ECO changes reported  278                                            |
+|   total ECO changes reported  9                                              |
 |------------------------------------------------------------------------------|

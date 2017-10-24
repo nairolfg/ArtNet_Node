@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Oct-23-2017 at 19:10:21}
+{ Using PSTWRITER 16.6.0 d001Oct-24-2017 at 10:05:20}
 primitive 'CAP NP_CAPCK06_22P';
   pin
     '1':
@@ -75,7 +75,7 @@ primitive 'CAP NP_CAPCK06_10N';
     VALUE='10n';
   end_body;
 end_primitive;
-primitive 'CAP_CAP500_10U';
+primitive 'CAP_CAP196_10U';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -86,7 +86,7 @@ primitive 'CAP_CAP500_10U';
   end_pin;
   body
     PART_NAME='CAP';
-    JEDEC_TYPE='CAP500';
+    JEDEC_TYPE='CAP196';
     VALUE='10u';
   end_body;
 end_primitive;
@@ -105,7 +105,7 @@ primitive 'DIODE_DIO400_1N4004';
     VALUE='1N4004';
   end_body;
 end_primitive;
-primitive 'CON8_RJ45_CON1';
+primitive 'CON16_RJ45_2_CON1';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -131,10 +131,34 @@ primitive 'CON8_RJ45_CON1';
     '8':
       PIN_NUMBER='(8)';
       PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    '11':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    '12':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    '13':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    '14':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    '15':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    '16':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='CON8';
-    JEDEC_TYPE='RJ45';
+    PART_NAME='CON16';
+    JEDEC_TYPE='RJ45_2';
     VALUE='CON1';
   end_body;
 end_primitive;
@@ -378,7 +402,7 @@ primitive 'CON12_2_DIP16_3_CON12';
     VALUE='CON12';
   end_body;
 end_primitive;
-primitive 'ATMEGA88_0_DIP28_6_ATMEGA328';
+primitive 'ATMEGA88_0_DIP28_4_ATMEGA328';
   pin
     'PD3 (OC2B)':
       PIN_NUMBER='(5)';
@@ -523,7 +547,7 @@ primitive 'ATMEGA88_0_DIP28_6_ATMEGA328';
   end_pin;
   body
     PART_NAME='Atmega88_0';
-    JEDEC_TYPE='DIP28_6';
+    JEDEC_TYPE='DIP28_4';
     VALUE='Atmega328';
   end_body;
 end_primitive;
