@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Oct-24-2017 at 10:05:20}
+{ Using PSTWRITER 16.6.0 d001Oct-26-2017 at 14:04:50}
 primitive 'CAP NP_CAPCK06_22P';
   pin
     '1':
@@ -43,21 +43,6 @@ primitive 'CAP NP_CAPCK06_100N';
     PART_NAME='CAP NP';
     JEDEC_TYPE='CAPCK06';
     VALUE='100n';
-  end_body;
-end_primitive;
-primitive 'CAP NP_CAPCK06_1N';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP NP';
-    JEDEC_TYPE='CAPCK06';
-    VALUE='1n';
   end_body;
 end_primitive;
 primitive 'CAP NP_CAPCK06_10N';
@@ -345,63 +330,6 @@ primitive 'RESISTOR_RES400_2K7';
     VALUE='2k7';
   end_body;
 end_primitive;
-primitive 'CON12_2_DIP16_3_CON12';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '6':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-    '7':
-      PIN_NUMBER='(7)';
-      PINUSE='UNSPEC';
-    '8':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-    '9':
-      PIN_NUMBER='(9)';
-      PINUSE='UNSPEC';
-    '10':
-      PIN_NUMBER='(10)';
-      PINUSE='UNSPEC';
-    '11':
-      PIN_NUMBER='(11)';
-      PINUSE='UNSPEC';
-    '14':
-      PIN_NUMBER='(14)';
-      PINUSE='UNSPEC';
-    '15':
-      PIN_NUMBER='(15)';
-      PINUSE='UNSPEC';
-    '16':
-      PIN_NUMBER='(16)';
-      PINUSE='UNSPEC';
-    '4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    '5':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    '12':
-      PIN_NUMBER='(12)';
-      PINUSE='UNSPEC';
-    '13':
-      PIN_NUMBER='(13)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CON12_2';
-    JEDEC_TYPE='DIP16_3';
-    VALUE='CON12';
-  end_body;
-end_primitive;
 primitive 'ATMEGA88_0_DIP28_4_ATMEGA328';
   pin
     'PD3 (OC2B)':
@@ -551,38 +479,38 @@ primitive 'ATMEGA88_0_DIP28_4_ATMEGA328';
     VALUE='Atmega328';
   end_body;
 end_primitive;
-primitive 'LM7805/TO_0_TO220AB_LM7805/TO';
+primitive 'LM7805/TO_1_TO220AB_LM7805/TO';
   pin
     'VIN':
       PIN_NUMBER='(1)';
       INPUT_LOAD='(*)';
     'GND':
-      PIN_NUMBER='(3)';
+      PIN_NUMBER='(2)';
       PINUSE='POWER';
     'VOUT':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(3)';
       OUTPUT_LOAD='(*)';
   end_pin;
   body
-    PART_NAME='LM7805/TO_0';
+    PART_NAME='LM7805/TO_1';
     JEDEC_TYPE='TO220AB';
     VALUE='LM7805/TO';
   end_body;
 end_primitive;
-primitive 'LM7805/TO_0_TO220AB_LM7833/TO';
+primitive 'LM7805/TO_2_TO220AB_LM7833/TO';
   pin
     'VIN':
-      PIN_NUMBER='(1)';
+      PIN_NUMBER='(3)';
       INPUT_LOAD='(*)';
     'GND':
-      PIN_NUMBER='(3)';
+      PIN_NUMBER='(1)';
       PINUSE='POWER';
     'VOUT':
       PIN_NUMBER='(2)';
       OUTPUT_LOAD='(*)';
   end_pin;
   body
-    PART_NAME='LM7805/TO_0';
+    PART_NAME='LM7805/TO_2';
     JEDEC_TYPE='TO220AB';
     VALUE='LM7833/TO';
   end_body;

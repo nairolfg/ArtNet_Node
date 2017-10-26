@@ -1,639 +1,704 @@
-\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:02)     Journal start - Thu Oct 26 07:15:59 2017
-\t (00:00:02)         Host=DESKTOP-PHA2IGQ User=nairo Pid=6592 CPUs=4
-\t (00:00:02) 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Database opened: C:/CADENCE/PROJECTS/ARTNET_NODE/allegro/ADAPTER.brd
-\i (00:00:02) trapsize 1330
-\i (00:00:02) trapsize 1293
-\i (00:00:03) trapsize 1336
-\i (00:00:03) trapsize 1083
-\i (00:00:03) trapsize 1083
-\i (00:00:03) generaledit 
-\i (00:00:04) zoom out 1 
-\i (00:00:04) setwindow pcb
-\i (00:00:04) zoom out 10688.20 12784.26
-\i (00:00:04) trapsize 2165
-\i (00:00:04) zoom out 1 
-\i (00:00:04) setwindow pcb
-\i (00:00:04) zoom out 10688.20 12784.25
-\i (00:00:04) trapsize 4331
-\i (00:00:05) zoom in 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom in 10688.20 12784.26
-\i (00:00:05) trapsize 2165
-\i (00:00:05) zoom in 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom in 10688.20 12784.26
-\i (00:00:05) trapsize 1083
-\i (00:00:07) pick grid 10276.78 12751.79
-\t (00:00:07) last pick:  10300.00  12800.00
-\i (00:00:09) prepopup 10276.78 12751.79
-\i (00:00:11) pop dyn_option_select @:@Spin 
-\i (00:00:11) spin 
-\t (00:00:12) Element has no origin, using pick.
-\i (00:00:14) iangle 0.000
-\t (00:00:14) last angle:  0.000 Degrees
-\i (00:00:14) generaledit 
-\i (00:00:16) pick grid 9687.81 12974.82
-\t (00:00:16) last pick:  9700.00  13000.00
-\i (00:00:17) pick grid 9295.88 12918.52
-\t (00:00:17) last pick:  9300.00  12900.00
-\i (00:00:18) drag_start grid 9282.88 12918.52
-\i (00:00:19) drag_stop 10486.82 12416.16
-\i (00:00:36) prepopup 10226.98 12740.96
-\i (00:00:37) pop dyn_option_select @:@Spin 
-\i (00:00:37) spin 
-\t (00:00:37) Moving J1 / CON8_FGCON8_1_CON8 / FGCON8_1.
-\i (00:00:39) iangle 90.000
-\t (00:00:39) last angle:  90.000 Degrees
-\i (00:00:39) generaledit 
-\i (00:00:40) pick grid 10605.92 12704.15
-\t (00:00:40) last pick:  10600.00  12700.00
-\i (00:00:46) pick grid 10008.28 12149.82
-\t (00:00:46) last pick:  10000.00  12100.00
-\i (00:00:47) prepopup 9977.96 12149.82
-\i (00:00:49) pop dyn_option_select @:@Move 
-\i (00:00:49) move 
-\t (00:00:49) last pick:  10000.00  12100.00
-\t (00:00:49) last pick:  10000.00  12100.00
-\t (00:00:49) Element has no origin, using pick.
-\t (00:00:49) Pick new location for the element(s).
-\i (00:00:51) pick grid 9958.47 12149.82
-\t (00:00:51) last pick:  10000.00  12100.00
-\i (00:00:51) generaledit 
-\i (00:00:51) pick grid 10419.70 12195.29
-\t (00:00:51) last pick:  10400.00  12200.00
-\i (00:00:51) pick grid dbl 10419.70 12195.29
-\t (00:00:51) last pick:  10400.00  12200.00
-\i (00:00:55) drag_start grid 9900.01 12117.34
-\i (00:00:55) move 
-\t (00:00:55) last pick:  9900.00  12700.00
-\t (00:00:55) Moving J1 / CON8_FGCON8_1_CON8 / FGCON8_1.
-\t (00:00:55) Pick new location for the element(s).
-\i (00:00:56) drag_stop grid 9971.47 12227.77
-\i (00:00:56) generaledit 
-\i (00:00:59) drag_start grid 9945.48 12513.60
-\i (00:00:59) move 
-\t (00:00:59) last pick:  10000.00  12200.00
-\t (00:00:59) Moving J1 / CON8_FGCON8_1_CON8 / FGCON8_1.
-\t (00:00:59) Pick new location for the element(s).
-\i (00:01:03) drag_stop grid 9938.99 12725.80
-\i (00:01:04) generaledit 
-\i (00:01:05) pick grid 10406.70 12656.51
-\t (00:01:05) last pick:  10400.00  12700.00
-\i (00:01:10) place manual 
-\i (00:01:14) setwindow form.plc_manual
-\i (00:01:14) FORM plc_manual tree 'MULTISEL YES' TR 'Components by refdes' 
-\t (00:01:14) Placing TR / CON12_2_SOIC16_CON12 / SOIC16 on Top.
-\i (00:01:14) FORM plc_manual tree  TR 'Components by refdes' 
-\i (00:01:50) setwindow pcb
-\i (00:01:50) pick grid 10326.59 12647.85
-\t (00:01:50) last pick:  10300.00  12600.00
-\i (00:01:56) pick grid 10294.10 12255.92
-\t (00:01:56) last pick:  10300.00  12300.00
-\i (00:01:57) pick grid 10294.10 12255.92
-\t (00:01:57) last pick:  10300.00  12300.00
-\i (00:02:01) pick grid 9962.81 13089.58
-\t (00:02:01) last pick:  10000.00  13100.00
-\t (00:02:01) Moving J1 / CON8_FGCON8_1_CON8 / FGCON8_1.
-\t (00:02:01) last pick:  9900.00  12700.00
-\i (00:02:03) prepopup 9858.87 12842.73
-\i (00:02:05) pop mirror 
-\t (00:02:05) Placing J1 / CON8_FGCON8_1_CON8 / FGCON8_1 on Bottom.
-\i (00:02:09) prepopup 9793.91 12658.68
-\i (00:02:11) pop mirror 
-\t (00:02:11) Placing J1 / CON8_FGCON8_1_CON8 / FGCON8_1 on Top.
-\i (00:02:12) prepopup 9793.91 12658.68
-\i (00:02:20) rotate 
-\t (00:02:20) Spin the element(s).
-\i (00:02:22) iangle 0.000
-\t (00:02:22) last angle:  90.000 Degrees
-\i (00:02:25) pick grid 9850.21 12673.83
-\t (00:02:25) last pick:  9900.00  12700.00
-\i (00:02:26) pick grid 9659.66 12619.70
-\t (00:02:26) last pick:  9700.00  12600.00
-\i (00:03:10) prepopup 10328.75 12442.14
-\i (00:03:12) pick grid 10250.80 12236.43
-\t (00:03:12) last pick:  10300.00  12200.00
-\i (00:03:14) setwindow form.plc_manual
-\i (00:03:14) FORM plc_manual done  
-\i (00:03:15) setwindow pcb
-\i (00:03:15) generaledit 
-\i (00:03:16) drag_start grid 10103.55 12879.54
-\i (00:03:16) drag_stop 10666.55 12268.91
-\i (00:03:18) prepopup 10313.59 12598.05
-\i (00:03:22) pop dyn_option_select Symbol@:@Spin 
-\i (00:03:23) spin 
-\t (00:03:23) Moving TR / CON12_2_SOIC16_CON12 / SOIC16.
-\i (00:03:25) iangle 180.000
-\t (00:03:25) last angle:  180.000 Degrees
-\i (00:03:25) generaledit 
-\i (00:03:27) pick grid 10367.73 12922.85
-\t (00:03:27) last pick:  10400.00  12900.00
-\i (00:03:29) drag_start grid 9830.72 13059.27
-\i (00:03:29) move 
-\t (00:03:29) last pick:  9900.00  12700.00
-\t (00:03:29) Moving J1 / CON8_FGCON8_1_CON8 / FGCON8_1.
-\t (00:03:29) Pick new location for the element(s).
-\i (00:03:32) drag_stop grid 10681.70 12710.64
-\i (00:03:32) generaledit 
-\i (00:03:37) pick grid 11032.49 12533.09
-\t (00:03:37) last pick:  11000.00  12500.00
-\i (00:03:40) place manual 
-\i (00:03:42) setwindow form.plc_manual
-\i (00:03:42) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
-\t (00:03:42) Placing J2 / CON8_1_FGCON8_1_CON8 / FGCON8_1 on Top.
-\i (00:03:42) FORM plc_manual tree  J2 'Components by refdes' 
-\i (00:03:46) setwindow pcb
-\i (00:03:46) prepopup 9977.96 12184.46
-\i (00:03:49) rotate 
-\t (00:03:49) Spin the element(s).
-\i (00:03:50) iangle -90.000
-\t (00:03:50) last angle:  +270.000 Degrees
-\i (00:03:56) pick grid 9951.98 12483.28
-\t (00:03:56) last pick:  10000.00  12500.00
-\i (00:03:58) setwindow form.plc_manual
-\i (00:03:58) FORM plc_manual done  
-\i (00:03:58) setwindow pcb
-\i (00:03:58) generaledit 
-\i (00:04:01) drag_start grid 10746.66 12182.30
-\i (00:04:01) move 
-\t (00:04:01) last pick:  10700.00  12700.00
-\t (00:04:01) Moving J1 / CON8_FGCON8_1_CON8 / FGCON8_1.
-\t (00:04:01) Pick new location for the element(s).
-\i (00:04:02) drag_stop grid 10571.27 12541.75
-\i (00:04:02) generaledit 
-\i (00:04:04) prepopup 10683.87 12435.64
-\i (00:04:05) pick grid 11075.80 12102.18
-\t (00:04:05) last pick:  11100.00  12100.00
-\i (00:04:07) drag_start grid 10675.21 12375.01
-\i (00:04:07) move 
-\t (00:04:07) last pick:  10600.00  12500.00
-\t (00:04:07) Moving J1 / CON8_FGCON8_1_CON8 / FGCON8_1.
-\t (00:04:07) Pick new location for the element(s).
-\i (00:04:11) drag_stop grid 10536.62 12727.97
-\i (00:04:11) generaledit 
-\i (00:04:13) pick grid 10712.02 12632.69
-\t (00:04:13) last pick:  10700.00  12600.00
-\i (00:07:01) drag_start grid 10047.25 13039.78
-\i (00:07:01) move 
-\t (00:07:02) last pick:  10000.00  12500.00
-\t (00:07:02) Moving J2 / CON8_1_FGCON8_1_CON8 / FGCON8_1.
-\t (00:07:02) Pick new location for the element(s).
-\i (00:07:04) drag_stop grid 10116.55 12485.45
-\i (00:07:05) generaledit 
-\i (00:07:06) pick grid 10880.92 12554.74
-\t (00:07:06) last pick:  10900.00  12600.00
-\i (00:07:19) prepopup 10060.25 13085.25
-\i (00:07:22) pick grid 9722.45 13000.80
-\t (00:07:22) last pick:  9700.00  13000.00
-\i (00:07:23) pick grid 10034.26 13024.62
-\t (00:07:23) last pick:  10000.00  13000.00
-\i (00:07:23) prepopup 10034.26 13024.62
-\i (00:07:38) pick grid 9622.84 12866.55
-\t (00:07:38) last pick:  9600.00  12900.00
-\i (00:07:40) prepopup 10465.17 13009.46
-\i (00:07:46) pop dyn_option_select 'Change to layer@:@ASSEMBLY_BOTTOM' 
-\i (00:07:46) change layer 
-\t (00:07:46) No DRC errors detected.
-\t (00:07:46) Changed 1 items out of 1 items found.
-\i (00:07:46) generaledit 
-\i (00:07:47) pick grid 10954.54 12803.75
-\t (00:07:47) last pick:  11000.00  12800.00
-\i (00:07:49) prepopup 10426.19 13044.11
-\i (00:07:53) pop dyn_option_select 'Change to layer@:@ASSEMBLY_TOP' 
-\i (00:07:53) change layer 
-\t (00:07:53) No DRC errors detected.
-\t (00:07:53) Changed 1 items out of 1 items found.
-\i (00:07:53) generaledit 
-\i (00:07:54) pick grid 11010.84 12775.61
-\t (00:07:54) last pick:  11000.00  12800.00
-\i (00:08:28) zoom in 1 
-\i (00:08:28) setwindow pcb
-\i (00:08:28) zoom in 11010.84 12775.61
-\i (00:08:28) trapsize 541
-\i (00:08:28) zoom out 1 
-\i (00:08:28) setwindow pcb
-\i (00:08:28) zoom out 11010.84 12775.61
-\i (00:08:28) trapsize 1083
-\i (00:08:28) zoom out 1 
-\i (00:08:29) setwindow pcb
-\i (00:08:29) zoom out 11010.84 12775.61
-\i (00:08:29) trapsize 2165
-\i (00:08:29) zoom out 1 
-\i (00:08:29) setwindow pcb
-\i (00:08:29) zoom out 11010.83 12775.60
-\i (00:08:29) trapsize 4331
-\i (00:08:32) zoom in 1 
-\i (00:08:32) setwindow pcb
-\i (00:08:32) zoom in 10733.67 13407.88
-\i (00:08:32) trapsize 2165
-\i (00:08:32) zoom in 1 
-\i (00:08:32) setwindow pcb
-\i (00:08:32) zoom in 10733.67 13407.88
-\i (00:08:32) trapsize 1083
-\i (00:08:32) zoom in 1 
-\i (00:08:32) setwindow pcb
-\i (00:08:32) zoom in 10733.68 13407.89
-\i (00:08:32) trapsize 541
-\i (00:08:33) zoom out 1 
-\i (00:08:33) setwindow pcb
-\i (00:08:33) zoom out 10733.68 13407.89
-\i (00:08:33) trapsize 1083
-\i (00:08:33) zoom out 1 
-\i (00:08:33) setwindow pcb
-\i (00:08:33) zoom out 10733.69 13407.90
-\i (00:08:33) trapsize 2165
-\i (00:08:33) zoom out 1 
-\i (00:08:33) setwindow pcb
-\i (00:08:33) zoom out 10733.68 13407.89
-\i (00:08:33) trapsize 4331
-\i (00:08:33) zoom out 1 
-\i (00:08:33) setwindow pcb
-\i (00:08:33) zoom out 10733.68 13407.89
-\i (00:08:33) trapsize 8661
-\i (00:08:33) zoom out 1 
-\i (00:08:33) setwindow pcb
-\i (00:08:33) zoom out 13477.17 13407.90
-\t (00:08:33) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
-\i (00:08:33) trapsize 17323
-\i (00:08:34) zoom in 1 
-\i (00:08:34) setwindow pcb
-\i (00:08:34) zoom in 9666.14 11710.24
-\i (00:08:34) trapsize 8661
-\i (00:08:34) zoom in 1 
-\i (00:08:34) setwindow pcb
-\i (00:08:34) zoom in 9700.79 11623.62
-\i (00:08:34) trapsize 4331
-\i (00:08:34) zoom in 1 
-\i (00:08:34) setwindow pcb
-\i (00:08:34) zoom in 9726.77 11571.65
-\i (00:08:34) trapsize 2165
-\i (00:08:35) zoom in 1 
-\i (00:08:35) setwindow pcb
-\i (00:08:35) zoom in 9770.08 11511.02
-\i (00:08:35) trapsize 1083
-\i (00:08:35) zoom out 1 
-\i (00:08:35) setwindow pcb
-\i (00:08:35) zoom out 9767.92 11480.71
-\i (00:08:35) trapsize 2165
-\i (00:08:35) zoom out 1 
-\i (00:08:35) setwindow pcb
-\i (00:08:35) zoom out 9772.25 11472.05
-\i (00:08:35) trapsize 4331
-\i (00:08:35) zoom out 1 
-\i (00:08:35) setwindow pcb
-\i (00:08:35) zoom out 9798.23 11472.05
-\i (00:08:35) trapsize 8661
-\i (00:08:36) zoom in 1 
-\i (00:08:36) setwindow pcb
-\i (00:08:36) zoom in 8620.28 13758.67
-\i (00:08:36) trapsize 4331
-\i (00:08:36) zoom in 1 
-\i (00:08:36) setwindow pcb
-\i (00:08:36) zoom in 8637.61 13628.75
-\i (00:08:36) trapsize 2165
-\i (00:08:36) zoom in 1 
-\i (00:08:36) setwindow pcb
-\i (00:08:36) zoom in 8672.26 13550.80
-\i (00:08:36) trapsize 1083
-\i (00:08:36) zoom out 1 
-\i (00:08:36) setwindow pcb
-\i (00:08:36) zoom out 8689.58 13513.99
-\i (00:08:36) trapsize 2165
-\i (00:08:38) zoom out 1 
-\i (00:08:38) setwindow pcb
-\i (00:08:38) zoom out 10183.68 12652.18
-\i (00:08:38) trapsize 4331
-\i (00:08:39) zoom in 1 
-\i (00:08:39) setwindow pcb
-\i (00:08:39) zoom in 10521.47 12149.81
-\i (00:08:39) trapsize 2165
-\i (00:08:39) zoom in 1 
-\i (00:08:39) setwindow pcb
-\i (00:08:39) zoom in 10573.45 12175.80
-\i (00:08:39) trapsize 1083
-\i (00:08:43) drag_start grid 10086.25 13070.10
-\i (00:08:43) move 
-\t (00:08:44) last pick:  10100.00  12500.00
-\t (00:08:44) Moving J2 / CON8_1_FGCON8_1_CON8 / FGCON8_1.
-\t (00:08:44) Pick new location for the element(s).
-\i (00:08:53) drag_stop grid 10175.03 12509.27
-\i (00:08:53) generaledit 
-\i (00:08:55) pick grid 10831.13 12585.06
-\t (00:08:55) last pick:  10800.00  12600.00
-\i (00:08:56) zoom in 1 
-\i (00:08:57) setwindow pcb
-\i (00:08:57) zoom in 10837.63 12669.51
-\i (00:08:57) trapsize 541
-\i (00:09:01) prmed 
-\i (00:09:03) setwindow form.prmedit
-\i (00:09:03) FORM prmedit view_grids_button  
-\t (00:09:03) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:09:05) setwindow form.grid
-\i (00:09:05) FORM grid non_etch non_etch_x_grids 25 
-\i (00:09:09) FORM grid non_etch non_etch_y_grids 25 
-\i (00:09:09) FORM grid done  
-\i (00:09:10) setwindow form.prmedit
-\i (00:09:10) FORM prmedit done  
-\i (00:09:10) setwindow pcb
-\i (00:09:10) generaledit 
-\i (00:09:13) drag_start grid 10324.44 12797.27
-\i (00:09:13) move 
-\t (00:09:13) last pick:  10300.00  12600.00
-\t (00:09:13) Moving TR / CON12_2_SOIC16_CON12 / SOIC16.
-\t (00:09:13) Pick new location for the element(s).
-\i (00:09:25) drag_stop grid 10878.77 12629.45
-\i (00:09:25) generaledit 
-\i (00:11:46) exit 
-\e (00:11:46) Do you want to save the changes you made to ADAPTER.brd?
-\i (00:11:48) fillin yes 
-\t (00:11:48)     Journal end - Thu Oct 26 07:27:45 2017
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ) xhilite 
-\i (00:12:03) xname_flush 
-\i (00:12:03) done 
-\i (00:12:03) generaledit 
-\i (00:12:08) xhilite 
-\i (00:12:08) xname_flush 
-\i (00:12:08) done 
-\i (00:12:09) generaledit 
-\i (00:13:20) pick grid -11.3839 53.4786
-\t (00:13:20) last pick:  -11.4336  53.5156
-\i (00:16:45) zoom out 1 
-\i (00:16:45) setwindow pcb
-\i (00:16:45) zoom out -9.3274 56.4605
-\i (00:16:45) trapsize 3427
-\i (00:16:45) zoom out 1 
-\i (00:16:45) setwindow pcb
-\i (00:16:45) zoom out -8.9847 55.9806
-\i (00:16:45) trapsize 6855
-\i (00:16:45) zoom out 1 
-\i (00:16:45) setwindow pcb
-\i (00:16:45) zoom out -9.1217 54.8838
-\t (00:16:45) Grids are drawn 2.5408, 2.5408 apart for enhanced viewability.
-\i (00:16:45) trapsize 13710
-\i (00:16:46) zoom in 1 
-\i (00:16:46) setwindow pcb
-\i (00:16:46) zoom in 33.3783 9.0934
-\t (00:16:46) Grids are drawn 0.6352, 0.6352 apart for enhanced viewability.
-\i (00:16:46) trapsize 6855
-\i (00:16:46) zoom in 1 
-\i (00:16:46) setwindow pcb
-\i (00:16:46) zoom in 34.3380 10.6015
-\i (00:16:46) trapsize 3427
-\i (00:16:47) zoom in 1 
-\i (00:16:47) setwindow pcb
-\i (00:16:47) zoom in 34.8864 11.3556
-\i (00:16:47) trapsize 1714
-\i (00:16:48) zoom out 1 
-\i (00:16:48) setwindow pcb
-\i (00:16:48) zoom out 34.8179 11.1842
-\i (00:16:48) trapsize 3427
-\i (00:16:49) zoom out 1 
-\i (00:16:49) setwindow pcb
-\i (00:16:49) zoom out 34.8178 10.9786
-\i (00:16:49) trapsize 6855
-\i (00:16:49) zoom out 1 
-\i (00:16:49) setwindow pcb
-\i (00:16:49) zoom out 34.2695 9.3334
-\t (00:16:49) Grids are drawn 2.5408, 2.5408 apart for enhanced viewability.
-\i (00:16:49) trapsize 13710
-\i (00:16:50) zoom in 1 
-\i (00:16:50) setwindow pcb
-\i (00:16:50) zoom in 32.8984 8.7850
-\t (00:16:50) Grids are drawn 0.6352, 0.6352 apart for enhanced viewability.
-\i (00:16:50) trapsize 6855
-\i (00:16:50) zoom in 1 
-\i (00:16:50) setwindow pcb
-\i (00:16:50) zoom in 33.5840 10.4302
-\i (00:16:50) trapsize 3427
-\i (00:16:51) zoom in 1 
-\i (00:16:51) setwindow pcb
-\i (00:16:51) zoom in 34.1324 11.3213
-\i (00:16:51) trapsize 1714
-\i (00:18:11) prmed 
-\i (00:18:15) setwindow form.prmedit
-\i (00:18:15) FORM prmedit units Mils 
-\e (00:18:15) Change may cause round-off; run dbcheck.
-\i (00:18:17) FORM prmedit display  
-\i (00:18:19) FORM prmedit view_grids_button  
-\t (00:18:19) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:18:23) setwindow form.grid
-\i (00:18:23) FORM grid non_etch non_etch_x_grids 25 
-\i (00:18:25) FORM grid non_etch non_etch_y_grids 25 
-\i (00:18:29) FORM grid done  
-\i (00:18:32) setwindow form.prmedit
-\i (00:18:32) FORM prmedit view_grids_button  
-\t (00:18:32) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:18:36) setwindow form.grid
-\i (00:18:36) FORM grid top subclass_x_grids 25 
-\i (00:18:36) FORM grid top subclass_y_grids 25 
-\i (00:18:42) FORM grid bottom subclass_x_grids 25 
-\i (00:18:42) FORM grid bottom subclass_y_grids 25 
-\i (00:18:45) FORM grid done  
-\i (00:18:48) setwindow form.prmedit
-\i (00:18:48) FORM prmedit done  
-\i (00:18:49) fillin yes 
-\w (00:18:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:18:49) setwindow pcb
-\i (00:18:49) trapsize 6747
-\t (00:18:49) Performing DRC...
-\t (00:18:49) Multithreaded DRC update (4 threads).
-\t (00:18:50) No DRC errors detected.
-\i (00:18:51) generaledit 
-\i (00:18:53) zoom out 1 
-\i (00:18:53) setwindow pcb
-\i (00:18:53) zoom out 1520.566 702.102
-\i (00:18:53) trapsize 13494
-\i (00:18:53) zoom out 1 
-\i (00:18:53) setwindow pcb
-\i (00:18:53) zoom out 1520.566 702.103
-\i (00:18:53) trapsize 26988
-\i (00:19:00) prmed 
-\i (00:19:03) setwindow form.prmedit
-\i (00:19:03) FORM prmedit design  
-\i (00:19:04) FORM prmedit display  
-\i (00:19:06) FORM prmedit view_grids_button  
-\t (00:19:06) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:19:12) setwindow form.grid
-\i (00:19:12) FORM grid non_etch non_etch_x_grids 25 
-\i (00:19:12) FORM grid non_etch non_etch_y_grids 25 
-\i (00:19:15) FORM grid top subclass_x_grids 25 
-\i (00:19:15) FORM grid top subclass_y_grids 25 
-\i (00:19:16) FORM grid bottom subclass_x_grids 25 
-\i (00:19:18) FORM grid bottom subclass_y_grids 25 
-\i (00:19:20) FORM grid done  
-\i (00:19:22) setwindow form.prmedit
-\i (00:19:22) FORM prmedit done  
-\i (00:19:22) setwindow pcb
-\i (00:19:22) generaledit 
-\i (00:19:23) zoom in 1 
-\i (00:19:23) setwindow pcb
-\i (00:19:23) zoom in 435.666 162.352
-\i (00:19:23) trapsize 13494
-\i (00:19:24) zoom in 1 
-\i (00:19:24) setwindow pcb
-\i (00:19:24) zoom in 435.666 162.352
-\i (00:19:24) trapsize 6747
-\i (00:19:24) zoom in 1 
-\i (00:19:24) setwindow pcb
-\i (00:19:24) zoom in 435.666 162.353
-\i (00:19:24) trapsize 3373
-\i (00:19:26) zoom out 1 
-\i (00:19:26) setwindow pcb
-\i (00:19:26) zoom out 666.409 145.486
-\i (00:19:26) trapsize 6747
-\i (00:19:28) pick grid 1026.693 29.440
-\t (00:19:28) last pick:  1025.000  25.000
-\i (00:19:29) zoom in 1 
-\i (00:19:29) setwindow pcb
-\i (00:19:29) zoom in 1026.693 29.440
-\i (00:19:29) trapsize 3373
-\i (00:19:29) zoom in 1 
-\i (00:19:29) setwindow pcb
-\i (00:19:29) zoom in 1026.693 29.440
-\i (00:19:29) trapsize 1687
-\i (00:19:29) zoom in 1 
-\i (00:19:29) setwindow pcb
-\i (00:19:29) zoom in 1026.693 29.440
-\i (00:19:29) trapsize 843
-\i (00:19:29) zoom out 1 
-\i (00:19:29) setwindow pcb
-\i (00:19:29) zoom out 1026.693 29.441
-\i (00:19:29) trapsize 1687
-\i (00:19:29) zoom out 1 
-\i (00:19:29) setwindow pcb
-\i (00:19:29) zoom out 1026.693 29.440
-\i (00:19:29) trapsize 3373
-\i (00:19:29) zoom out 1 
-\i (00:19:29) setwindow pcb
-\i (00:19:29) zoom out 1026.694 29.441
-\i (00:19:29) trapsize 6747
-\i (00:19:29) zoom out 1 
-\i (00:19:29) setwindow pcb
-\i (00:19:29) zoom out 1026.694 29.441
-\i (00:19:29) trapsize 13494
-\i (00:19:29) zoom out 1 
-\i (00:19:29) setwindow pcb
-\i (00:19:29) zoom out 1026.693 29.441
-\i (00:19:29) trapsize 26988
-\i (00:19:31) zoom in 1 
-\i (00:19:31) setwindow pcb
-\i (00:19:31) zoom in 1382.930 29.441
-\i (00:19:31) trapsize 13494
-\i (00:19:31) zoom in 1 
-\i (00:19:31) setwindow pcb
-\i (00:19:31) zoom in 1382.930 29.441
-\i (00:19:31) trapsize 6747
-\i (00:19:31) zoom in 1 
-\i (00:19:31) setwindow pcb
-\i (00:19:31) zoom in 1382.930 29.441
-\i (00:19:31) trapsize 3373
-\i (00:19:31) zoom in 1 
-\i (00:19:31) setwindow pcb
-\i (00:19:31) zoom in 1382.930 29.441
-\i (00:19:31) trapsize 1687
-\i (00:19:32) zoom out 1 
-\i (00:19:32) setwindow pcb
-\i (00:19:32) zoom out 1382.930 29.441
-\i (00:19:32) trapsize 3373
-\i (00:19:32) zoom out 1 
-\i (00:19:32) setwindow pcb
-\i (00:19:32) zoom out 1382.931 29.442
-\i (00:19:32) trapsize 6747
-\i (00:19:32) zoom out 1 
-\i (00:19:32) setwindow pcb
-\i (00:19:32) zoom out 1382.930 29.442
-\i (00:19:32) trapsize 13494
-\i (00:19:32) zoom out 1 
-\i (00:19:32) setwindow pcb
-\i (00:19:32) zoom out 1382.930 29.442
-\i (00:19:32) trapsize 26988
-\i (00:19:34) zoom out 1 
-\i (00:19:34) setwindow pcb
-\i (00:19:34) zoom out 1021.295 579.990
-\t (00:19:34) Grids are drawn 100.000, 100.000 apart for enhanced viewability.
-\i (00:19:34) trapsize 53975
-\i (00:19:34) zoom out 1 
-\i (00:19:34) setwindow pcb
-\i (00:19:34) zoom out 4702.420 547.605
-\i (00:19:34) trapsize 107951
-\i (00:19:34) zoom out 1 
-\i (00:19:34) setwindow pcb
-\i (00:19:34) zoom out 15788.939 439.654
-\t (00:19:34) Grids are drawn 400.000, 400.000 apart for enhanced viewability.
-\i (00:19:34) trapsize 173228
-\i (00:19:35) zoom in 1 
-\i (00:19:35) setwindow pcb
-\i (00:19:35) zoom in 952.756 213.386
-\t (00:19:35) Grids are drawn 100.000, 100.000 apart for enhanced viewability.
-\i (00:19:35) trapsize 86614
-\i (00:19:35) zoom in 1 
-\i (00:19:35) setwindow pcb
-\i (00:19:35) zoom in 1022.047 282.677
-\i (00:19:35) trapsize 43307
-\i (00:19:35) zoom in 1 
-\i (00:19:35) setwindow pcb
-\i (00:19:35) zoom in 1056.693 178.740
-\i (00:19:35) trapsize 21654
-\i (00:19:36) zoom in 1 
-\i (00:19:36) setwindow pcb
-\i (00:19:36) zoom in 1061.024 139.764
-\i (00:19:36) trapsize 10827
-\i (00:19:36) zoom out 1 
-\i (00:19:36) setwindow pcb
-\i (00:19:36) zoom out 1071.851 148.426
-\i (00:19:36) trapsize 21654
-\i (00:19:37) zoom out 1 
-\i (00:19:37) setwindow pcb
-\i (00:19:37) zoom out 1084.844 165.749
-\i (00:19:37) trapsize 43307
-\i (00:19:37) zoom in 1 
-\i (00:19:37) setwindow pcb
-\i (00:19:37) zoom in 556.497 763.387
-\i (00:19:37) trapsize 21654
-\i (00:19:38) zoom in 1 
-\i (00:19:38) setwindow pcb
-\i (00:19:38) zoom in 617.127 702.757
-\i (00:19:38) trapsize 10827
-\i (00:19:41) zoom in 1 
-\i (00:19:41) setwindow pcb
-\i (00:19:41) zoom in 983.073 466.733
-\i (00:19:41) trapsize 5413
-\i (00:19:51) prmed 
-\i (00:19:53) setwindow form.prmedit
-\i (00:19:53) FORM prmedit view_grids_button  
-\t (00:19:53) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:19:54) setwindow form.grid
-\i (00:19:54) FORM grid non_etch non_etch_x_grids 100 
-\i (00:19:55) FORM grid non_etch non_etch_y_grids 100 
-\i (00:19:57) FORM grid top subclass_x_grids 25.000 
-\i (00:19:59) FORM grid top subclass_y_grids 100 
-\i (00:20:01) FORM grid bottom subclass_x_grids 100 
-\i (00:20:04) FORM grid bottom subclass_y_grids 100 
-\i (00:20:05) FORM grid top subclass_x_grids 100 
-\i (00:20:07) FORM grid top subclass_y_grids 100.000 
-\i (00:20:08) FORM grid done  
-\i (00:20:10) setwindow form.prmedit
-\i (00:20:10) FORM prmedit done  
-\i (00:20:10) setwindow pcb
-\i (00:20:10) generaledit 
-\i (00:20:28) place manual 
-\i (00:20:35) setwindow form.plc_manual
-\i (00:20:35) FORM plc_manual tree 'MULTISEL YES' SOIC16 'Package symbols' 
-\i (00:20:35) FORM plc_manual tree  SOIC16 'Package symbols' 
-\i (00:20:44) FORM plc_manual done  
-\i (00:20:44) setwindow pcb
-\i (00:20:44) generaledit 
-\i (00:25:35) xhilite 
-\i (00:25:35) xname_flush 
-\i (00:25:35) done 
-\i (00:25:35) generaledit 
-\i (00:25:40) save 
-\i (00:25:43) fillin yes 
-\i (00:25:43) generaledit 
-\i (00:25:44) pick grid 1578.545 658.368
-\t (00:25:44) last pick:  1600.000  700.000
-\i (00:25:47) exit 
-\t (00:25:48)     Journal end - Thu Oct 26 07:27:55 2017
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Thu Oct 26 14:09:52 2017
+\t (00:00:04)         Host=DESKTOP-PHA2IGQ User=nairo Pid=10124 CPUs=4
+\t (00:00:04) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Database opened: C:/CADENCE/PROJECTS/ARTNET_NODE/allegro/ARTNET_NODE_2.brd
+\i (00:00:06) trapsize 26591
+\i (00:00:06) trapsize 25857
+\i (00:00:06) trapsize 26717
+\i (00:00:07) trapsize 21654
+\i (00:00:07) trapsize 21654
+\i (00:00:07) generaledit 
+\i (00:00:09) place manual 
+\i (00:00:11) setwindow form.plc_manual
+\i (00:00:11) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\w (00:00:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:11) Placing J1 / CON16_RJ45_CON1 / RJ45 on Top.
+\i (00:00:11) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) pick grid 704.825 545.769
+\t (00:00:15) last pick:  700.000  500.000
+\i (00:00:16) setwindow form.plc_manual
+\i (00:00:16) FORM plc_manual done  
+\i (00:00:16) setwindow pcb
+\i (00:00:16) generaledit 
+\i (00:00:17) prepopup 795.770 511.124
+\i (00:00:19) pop dyn_option_select @:@Spin 
+\i (00:00:19) spin 
+\t (00:00:19) Element has no origin, using pick.
+\i (00:00:21) iangle 0.000
+\t (00:00:21) last angle:  0.000 Degrees
+\i (00:00:21) generaledit 
+\i (00:00:22) drag_start grid 211.125 1009.155
+\i (00:00:23) drag_stop 1207.188 17.423
+\i (00:00:25) prepopup 613.880 788.289
+\i (00:00:30) pop dyn_option_select Symbol@:@Spin 
+\i (00:00:30) spin 
+\t (00:00:30) Moving J1 / CON16_RJ45_CON1 / RJ45.
+\i (00:00:32) iangle 90.000
+\t (00:00:32) last angle:  90.000 Degrees
+\i (00:00:32) generaledit 
+\i (00:00:33) pick grid 193.802 991.832
+\t (00:00:33) last pick:  200.000  1000.000
+\i (00:00:35) drag_start grid 336.715 723.328
+\i (00:00:35) move 
+\t (00:00:35) last pick:  700.000  500.000
+\t (00:00:35) Moving J1 / CON16_RJ45_CON1 / RJ45.
+\t (00:00:35) Pick new location for the element(s).
+\i (00:00:35) roam x -32
+\i (00:00:35) roam y 320
+\i (00:00:35) roam x -80
+\i (00:00:35) roam y 32
+\i (00:00:35) roam x -80
+\i (00:00:35) roam y 320
+\i (00:00:35) roam y -80
+\i (00:00:36) drag_stop grid -909.448 -1527.559
+\i (00:00:36) generaledit 
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 679.922 -1804.724
+\i (00:00:37) trapsize 43307
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 376.772 -1969.291
+\i (00:00:37) trapsize 86614
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 1645.670 -2333.071
+\t (00:00:37) Grids are drawn 400.000, 400.000 apart for enhanced viewability.
+\i (00:00:37) trapsize 173228
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 9337.008 -3424.409
+\i (00:00:37) trapsize 173228
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 9163.780 -3597.638
+\i (00:00:37) trapsize 173228
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 9233.071 -3736.220
+\i (00:00:38) trapsize 173228
+\i (00:00:40) undo 
+\i (00:00:40) trapsize 21654
+\i (00:00:40) generaledit 
+\i (00:00:46) drag_start grid 306.400 593.407
+\i (00:00:46) move 
+\t (00:00:46) last pick:  700.000  500.000
+\t (00:00:46) Moving J1 / CON16_RJ45_CON1 / RJ45.
+\t (00:00:46) Pick new location for the element(s).
+\i (00:00:49) drag_stop grid 947.345 537.108
+\i (00:00:49) generaledit 
+\i (00:01:09) drag_start grid 722.148 1294.982
+\i (00:01:09) move 
+\t (00:01:09) last pick:  700.220  1337.921
+\t (00:01:09) Pick new location for the element(s).
+\i (00:01:10) drag_stop grid 319.392 2048.525
+\i (00:01:10) generaledit 
+\i (00:01:14) drag_start grid 397.345 1546.163
+\i (00:01:14) move 
+\t (00:01:14) last pick:  300.000  1550.000
+\t (00:01:14) Moving J3 / CON2_FGCON2_1_CON3 / FGCON2_1.
+\t (00:01:14) Pick new location for the element(s).
+\i (00:01:16) drag_stop grid 397.345 1191.045
+\i (00:01:16) generaledit 
+\i (00:01:19) pick grid -278.246 1844.982
+\t (00:01:19) last pick:  -300.000  1800.000
+\i (00:01:20) delete 
+\i (00:01:22) pick grid 371.361 1580.809
+\t (00:01:22) last pick:  400.000  1600.000
+\t (00:01:22) Connect Line "N28731, Etch/Bottom"
+\i (00:01:23) pick grid 648.526 1870.966
+\t (00:01:23) last pick:  600.000  1900.000
+\i (00:01:24) pick grid 1072.936 1598.132
+\t (00:01:24) last pick:  1100.000  1600.000
+\t (00:01:24) Connect Line "N27240, Etch/Bottom"
+\i (00:01:25) pick grid 981.991 1922.935
+\t (00:01:25) last pick:  1000.000  1900.000
+\i (00:01:27) prepopup 981.991 1922.935
+\i (00:01:28) done 
+\i (00:01:28) generaledit 
+\i (00:01:33) drag_start grid 722.148 1645.769
+\i (00:01:33) move 
+\t (00:01:33) last pick:  900.000  1600.000
+\t (00:01:33) Moving D1 / DIODE_DIO400_1N4004 / DIO400.
+\t (00:01:33) Pick new location for the element(s).
+\i (00:01:35) drag_stop grid 856.400 1598.132
+\i (00:01:35) generaledit 
+\i (00:01:36) prepopup 856.400 1598.132
+\i (00:01:39) pop dyn_option_select @:@Spin 
+\i (00:01:39) spin 
+\t (00:01:39) Element has no origin, using pick.
+\i (00:01:41) iangle 0.000
+\t (00:01:41) last angle:  90.000 Degrees
+\i (00:01:41) generaledit 
+\i (00:01:42) drag_start grid 358.369 1680.415
+\i (00:01:44) drag_stop 977.660 1498.525
+\i (00:01:45) prepopup 804.432 1602.462
+\i (00:01:48) pop dyn_option_select Symbol@:@Spin 
+\i (00:01:48) spin 
+\t (00:01:48) Moving D1 / DIODE_DIO400_1N4004 / DIO400.
+\i (00:01:50) iangle 90.000
+\t (00:01:50) last angle:  180.000 Degrees
+\i (00:01:50) generaledit 
+\i (00:01:55) drag_start grid 882.384 1411.911
+\i (00:01:55) move 
+\t (00:01:55) last pick:  900.000  1600.000
+\t (00:01:55) Moving D1 / DIODE_DIO400_1N4004 / DIO400.
+\t (00:01:55) Pick new location for the element(s).
+\i (00:01:55) drag_stop grid 899.707 1554.825
+\i (00:01:55) generaledit 
+\i (00:01:57) drag_start grid 886.715 1446.557
+\i (00:01:57) move 
+\t (00:01:57) last pick:  900.000  1600.000
+\t (00:01:57) Moving D1 / DIODE_DIO400_1N4004 / DIO400.
+\t (00:01:57) Pick new location for the element(s).
+\i (00:02:03) drag_stop grid 856.400 1602.462
+\i (00:02:03) generaledit 
+\i (00:02:06) drag_start grid 492.621 1299.313
+\i (00:02:06) move 
+\t (00:02:06) last pick:  400.000  1200.000
+\t (00:02:06) Moving J3 / CON2_FGCON2_1_CON3 / FGCON2_1.
+\t (00:02:06) Pick new location for the element(s).
+\i (00:02:11) drag_stop grid 631.203 1139.076
+\i (00:02:11) generaledit 
+\i (00:02:12) pick grid 570.573 1416.242
+\t (00:02:12) last pick:  600.000  1400.000
+\i (00:02:13) pick grid 570.573 1416.242
+\t (00:02:13) last pick:  600.000  1400.000
+\i (00:02:36) add connect 
+\t (00:02:36) Pick first element.
+\i (00:02:37) pick grid 947.345 1619.785
+\t (00:02:37) last pick:  900.000  1600.000
+\t (00:02:37) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:02:37) last pick:  900.000  1600.000
+\i (00:02:37) mouse_pos 1168.211 1589.470
+\i (00:02:38) mouse_pos 1146.558 1615.454
+\i (00:02:39) mouse_pos 1150.888 1615.454
+\i (00:02:40) mouse_pos 1146.558 1567.817
+\i (00:02:41) prepopup 1020.967 1589.470
+\i (00:02:51) pop dyn_option_select 'Options@:@Corner@:@45 degree' 
+\i (00:02:51) mouse_pos 1272.148 1645.769
+\i (00:02:53) pick grid 1246.164 1637.108
+\t (00:02:53) last pick:  1200.000  1600.000
+\t (00:02:53) No DRC errors detected.
+\t (00:02:53) Pick first element.
+\i (00:03:05) prmed 
+\i (00:03:08) setwindow form.prmedit
+\i (00:03:08) FORM prmedit design  
+\i (00:03:09) FORM prmedit display  
+\i (00:03:10) FORM prmedit view_grids_button  
+\t (00:03:10) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:03:12) setwindow form.grid
+\i (00:03:12) FORM grid non_etch non_etch_x_grids 25 
+\i (00:03:14) FORM grid non_etch non_etch_y_grids 25 
+\i (00:03:17) FORM grid top subclass_x_grids 25 
+\i (00:03:18) FORM grid top subclass_y_grids 25 
+\i (00:03:18) FORM grid bottom subclass_x_grids 100.000 
+\i (00:03:21) FORM grid bottom subclass_y_grids 25 
+\i (00:03:25) FORM grid bottom subclass_x_grids 25 
+\i (00:03:25) FORM grid done  
+\i (00:03:28) setwindow form.prmedit
+\i (00:03:28) FORM prmedit done  
+\i (00:03:28) setwindow pcb
+\i (00:03:28) generaledit 
+\i (00:03:31) delete 
+\i (00:03:33) pick grid 986.321 1585.139
+\t (00:03:33) last pick:  975.000  1575.000
+\t (00:03:33) Connect Line "N27240, Etch/Bottom"
+\i (00:03:34) pick grid 981.991 1827.659
+\t (00:03:34) last pick:  975.000  1825.000
+\i (00:03:34) prepopup 981.991 1827.659
+\i (00:03:36) done 
+\i (00:03:36) generaledit 
+\i (00:03:37) drag_start grid 852.069 1437.895
+\i (00:03:37) move 
+\t (00:03:37) last pick:  900.000  1600.000
+\t (00:03:37) Moving D1 / DIODE_DIO400_1N4004 / DIO400.
+\t (00:03:37) Pick new location for the element(s).
+\i (00:03:40) drag_stop grid 869.392 1628.447
+\i (00:03:40) generaledit 
+\i (00:03:43) drag_start grid 492.621 1225.691
+\i (00:03:43) move 
+\t (00:03:43) last pick:  600.000  1100.000
+\t (00:03:43) Moving J3 / CON2_FGCON2_1_CON3 / FGCON2_1.
+\t (00:03:43) Pick new location for the element(s).
+\i (00:03:47) drag_stop grid 622.542 1165.061
+\i (00:03:47) generaledit 
+\i (00:03:49) pick grid 505.613 1515.848
+\t (00:03:49) last pick:  500.000  1525.000
+\i (00:03:51) add connect 
+\t (00:03:51) Pick first element.
+\i (00:03:52) pick grid 873.723 1585.139
+\t (00:03:52) last pick:  875.000  1575.000
+\t (00:03:52) last pick:  875.000  1625.000
+\t (00:03:52) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:03:52) last pick:  875.000  1625.000
+\i (00:03:53) mouse_pos 1146.558 1572.147
+\i (00:03:54) pick grid 1263.487 1567.817
+\t (00:03:54) last pick:  1275.000  1575.000
+\t (00:03:54) No DRC errors detected.
+\t (00:03:54) Pick first element.
+\i (00:03:56) pick grid 648.526 1243.014
+\t (00:03:56) last pick:  650.000  1250.000
+\t (00:03:56) Pick first element.
+\t (00:03:56) last pick:  625.000  1225.000
+\t (00:03:56) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:03:56) last pick:  625.000  1225.000
+\i (00:03:56) mouse_pos 821.754 1230.021
+\i (00:03:57) pick grid 891.046 1221.360
+\t (00:03:57) last pick:  900.000  1225.000
+\t (00:03:57) No DRC errors detected.
+\t (00:03:57) Pick first element.
+\i (00:03:58) prepopup 1103.251 1048.132
+\i (00:03:59) done 
+\i (00:03:59) generaledit 
+\i (00:04:03) zoom in 1 
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom in 1514.668 394.195
+\i (00:04:03) trapsize 10827
+\i (00:04:07) add connect 
+\t (00:04:07) Pick first element.
+\i (00:04:08) pick grid 1161.716 686.518
+\t (00:04:08) last pick:  1150.000  675.000
+\t (00:04:08) last pick:  1150.000  675.197
+\t (00:04:08) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:04:08) last pick:  1150.000  675.197
+\i (00:04:12) Esc 
+\i (00:04:13) Esc 
+\i (00:04:13) Esc 
+\i (00:04:13) Esc 
+\i (00:04:13) Esc 
+\i (00:04:14) prepopup 1137.897 993.998
+\i (00:04:16) cancel 
+\i (00:04:16) generaledit 
+\i (00:04:18) cmgr 
+\i (00:04:18) setwindow cmgr
+\i (00:04:18) cm newView ( worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:04:18) cm newView ( worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:04:18) cm newView ( worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 81:Line )
+\i (00:04:19) cm newView ( worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" 116:Shape )
+\i (00:04:19) cm newView ( worksheet 78:Spacing 126:Region "127:All Layers" 134:Shape )
+\i (00:04:19) cm newView ( worksheet "171:Same Net Spacing" 189:Net "190:All Layers" 194:Shape )
+\i (00:04:19) cm newView ( worksheet 78:Spacing 94:Net "95:All Layers" 99:Shape )
+\i (00:04:20) setwindow pcb
+\i (00:04:20) generaledit 
+\i (00:04:22) setwindow cmgr
+\i (00:04:22) cm select ( worksheet 78:Spacing 94:Net "95:All Layers" 99:Shape )
+\i (00:04:22) cm select ( worksheet 78:Spacing 94:Net "95:All Layers" 99:Shape )
+\i (00:04:22) cm select ( worksheet 78:Spacing 94:Net "95:All Layers" 99:Shape )
+\i (00:04:25) cm select ( frame ( workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:04:38) cm scope Design "ARTNET_NODE_2"
+\i (00:04:38) cm putValue ( Net "TPOUT+" ) MIN_LINE_WIDTH 20 7
+\i (00:04:38) cm putValue ( Net "TPOUT-" ) MIN_LINE_WIDTH 20 7
+\i (00:04:38) cm putValue ( Net "TPOUT+" ) MAX_LINE_WIDTH 20 7
+\i (00:04:38) cm putValue ( Net "TPOUT-" ) MAX_LINE_WIDTH 20 7
+\i (00:04:38) cm endUndoBlock
+\i (00:04:48) cm exit
+\i (00:04:49) setwindow pcb
+\i (00:04:49) pick grid 1263.487 1000.494
+\t (00:04:49) last pick:  1275.000  1000.000
+\i (00:04:51) add connect 
+\t (00:04:51) Pick first element.
+\i (00:04:53) pick grid 1142.227 703.840
+\t (00:04:53) last pick:  1150.000  700.000
+\t (00:04:53) last pick:  1150.000  675.197
+\t (00:04:53) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:04:53) last pick:  1150.000  675.197
+\i (00:04:55) pick grid 1213.684 736.321
+\t (00:04:55) last pick:  1225.000  725.000
+\t (00:04:55) No DRC errors detected.
+\i (00:04:55) mouse_pos 1213.684 734.155
+\i (00:04:55) mouse_pos 1248.330 721.163
+\i (00:04:57) mouse_pos 1588.290 550.100
+\i (00:04:58) pick grid 1664.078 508.959
+\t (00:04:58) last pick:  1675.000  500.000
+\t (00:04:58) No DRC errors detected.
+\t (00:04:58) Pick first element.
+\i (00:05:00) pick grid 1280.810 625.888
+\t (00:05:00) last pick:  1275.000  625.000
+\t (00:05:00) Pick first element.
+\t (00:05:00) last pick:  1250.000  625.197
+\t (00:05:00) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:05:00) last pick:  1250.000  625.197
+\i (00:05:02) pick grid 1514.668 511.124
+\t (00:05:02) last pick:  1525.000  500.000
+\t (00:05:02) No DRC errors detected.
+\i (00:05:04) mouse_pos 1588.290 370.376
+\i (00:05:05) mouse_pos 1583.960 381.203
+\i (00:05:09) pick grid 1555.810 361.714
+\t (00:05:09) last pick:  1550.000  350.000
+\t (00:05:09) No DRC errors detected.
+\i (00:05:09) mouse_pos 1594.787 353.053
+\i (00:05:10) pick grid 1664.078 346.557
+\t (00:05:10) last pick:  1675.000  350.000
+\t (00:05:10) No DRC errors detected.
+\t (00:05:10) Pick first element.
+\i (00:05:14) pick grid 1157.385 565.258
+\t (00:05:14) last pick:  1150.000  575.000
+\t (00:05:14) Pick first element.
+\t (00:05:14) last pick:  1150.000  575.197
+\t (00:05:14) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:05:14) last pick:  1150.000  575.197
+\i (00:05:15) pick grid 1062.109 623.722
+\t (00:05:15) last pick:  1050.000  625.000
+\t (00:05:15) No DRC errors detected.
+\i (00:05:17) pick grid 1072.936 740.651
+\t (00:05:17) last pick:  1075.000  750.000
+\t (00:05:17) No DRC errors detected.
+\i (00:05:17) mouse_pos 1068.605 742.817
+\i (00:05:17) mouse_pos 1094.590 768.801
+\i (00:05:22) pick grid 1135.731 796.951
+\t (00:05:22) last pick:  1125.000  800.000
+\t (00:05:22) No DRC errors detected.
+\i (00:05:28) mouse_pos 1657.582 963.683
+\i (00:05:30) pick grid 1661.913 1002.659
+\t (00:05:30) last pick:  1650.000  1000.000
+\t (00:05:30) No DRC errors detected.
+\t (00:05:30) Pick first element.
+\i (00:05:31) prepopup 1315.456 1065.455
+\i (00:05:32) done 
+\i (00:05:32) generaledit 
+\i (00:05:33) pick grid 1233.172 1041.636
+\t (00:05:33) last pick:  1225.000  1050.000
+\i (00:05:40) pick grid 1259.157 428.840
+\t (00:05:40) last pick:  1250.000  425.000
+\i (00:05:42) add connect 
+\t (00:05:42) Pick first element.
+\t (00:05:42) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:05:42) last pick:  1250.000  425.197
+\i (00:05:44) pick grid 1412.897 424.510
+\t (00:05:44) last pick:  1425.000  425.000
+\t (00:05:44) No DRC errors detected.
+\t (00:05:44) last pick:  1424.803  425.197
+\i (00:05:44) pick grid dbl 1417.227 422.344
+\t (00:05:44) last pick:  1425.000  425.000
+\t (00:05:44) VIA used for drill.
+\t (00:05:44) No DRC errors detected.
+\i (00:05:46) mouse_pos 1599.117 738.486
+\i (00:05:47) pick grid 1638.094 775.297
+\t (00:05:47) last pick:  1650.000  775.000
+\t (00:05:47) No DRC errors detected.
+\t (00:05:47) Pick first element.
+\i (00:05:47) generaledit 
+\i (00:05:48) prepopup 1547.149 768.801
+\i (00:05:50) pick grid 1287.306 1037.305
+\t (00:05:50) last pick:  1275.000  1025.000
+\i (00:05:53) pick grid 1428.054 418.014
+\t (00:05:53) last pick:  1425.000  425.000
+\i (00:05:53) prepopup 1428.054 418.014
+\i (00:05:57) pop dyn_option_select 'Replace padstack@:@Selected instance(s)' 
+\i (00:05:57) rep padstack 
+\i (00:06:02) fillin "Pad93cir58d"
+\t (00:06:02) Performing DRC...
+\t (00:06:02) Multithreaded DRC update (4 threads).
+\t (00:06:03) No DRC errors detected.
+\i (00:06:03) generaledit 
+\i (00:06:04) pick grid 1376.086 950.691
+\t (00:06:04) last pick:  1375.000  950.000
+\i (00:06:07) prepopup 1376.086 950.691
+\i (00:06:11) pop dyn_option_select 'Quick Utilities@:@Change active subclass@:@BOTTOM' 
+\i (00:06:11) active subclass 
+\i (00:06:11) generaledit 
+\i (00:08:26) zoom out 1 
+\i (00:08:26) setwindow pcb
+\i (00:08:26) zoom out 1735.535 569.588
+\i (00:08:26) trapsize 21654
+\i (00:08:34) add connect 
+\t (00:08:34) Pick first element.
+\i (00:08:35) prepopup 3913.881 175.494
+\i (00:08:38) pop dyn_option_select 'Change Active Layer@:@BOTTOM' 
+\t (00:08:38) Pick first element.
+\i (00:08:39) pick grid 3900.889 201.479
+\t (00:08:39) last pick:  3900.000  200.000
+\t (00:08:39) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:08:39) last pick:  3900.000  200.000
+\i (00:08:42) pick grid 3736.322 93.211
+\t (00:08:42) last pick:  3725.000  100.000
+\t (00:08:42) No DRC errors detected.
+\i (00:08:46) pick grid 518.605 262.109
+\t (00:08:46) last pick:  525.000  250.000
+\t (00:08:46) No DRC errors detected.
+\i (00:08:47) mouse_pos 639.865 699.510
+\i (00:08:48) pick grid 687.503 777.463
+\t (00:08:48) last pick:  700.000  775.000
+\t (00:08:48) No DRC errors detected.
+\t (00:08:48) Pick first element.
+\i (00:08:51) pick grid 224.117 197.148
+\t (00:08:51) last pick:  225.000  200.000
+\t (00:08:51) Pick first element.
+\t (00:08:51) last pick:  225.000  200.000
+\i (00:08:53) prepopup 315.062 184.156
+\i (00:08:54) cancel 
+\i (00:08:54) generaledit 
+\i (00:08:57) drag_start grid 869.392 106.203
+\i (00:08:57) slide 
+\t (00:08:57) Waiting for the destination pick.
+\i (00:08:58) drag_stop grid 869.392 41.243
+\t (00:08:58) No DRC errors detected.
+\i (00:08:58) generaledit 
+\i (00:09:00) add connect 
+\t (00:09:00) Pick first element.
+\i (00:09:02) pick grid 3866.243 357.384
+\t (00:09:02) last pick:  3875.000  350.000
+\t (00:09:02) last pick:  3900.000  350.000
+\t (00:09:02) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:09:02) last pick:  3900.000  350.000
+\i (00:09:05) pick grid 3576.085 97.542
+\t (00:09:05) last pick:  3575.000  100.000
+\t (00:09:05) No DRC errors detected.
+\i (00:09:07) mouse_pos 726.479 179.825
+\i (00:09:08) pick grid 687.503 205.809
+\t (00:09:08) last pick:  700.000  200.000
+\t (00:09:08) No DRC errors detected.
+\t (00:09:08) Pick first element.
+\i (00:09:09) pick grid 167.818 422.345
+\t (00:09:09) last pick:  175.000  425.000
+\t (00:09:09) Pick first element.
+\t (00:09:09) last pick:  175.000  425.000
+\i (00:09:10) prepopup 167.818 422.345
+\i (00:09:12) done 
+\i (00:09:12) generaledit 
+\i (00:09:14) zoom in 1 
+\i (00:09:14) setwindow pcb
+\i (00:09:14) zoom in 1991.046 2.266
+\i (00:09:14) trapsize 10827
+\i (00:09:16) zoom out 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom out 2372.149 275.101
+\i (00:09:16) trapsize 21654
+\i (00:09:16) zoom out 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom out 2324.511 236.124
+\t (00:09:16) Grids are drawn 100.000, 100.000 apart for enhanced viewability.
+\i (00:09:16) trapsize 43307
+\i (00:09:17) zoom in 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom in 3805.613 314.077
+\i (00:09:17) trapsize 21654
+\i (00:09:17) zoom in 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom in 3788.290 305.416
+\i (00:09:17) trapsize 10827
+\i (00:09:23) drag_start grid 3407.188 106.203
+\i (00:09:23) slide 
+\t (00:09:23) Waiting for the destination pick.
+\i (00:09:26) drag_stop grid 3452.660 97.542
+\t (00:09:26) No DRC errors detected.
+\i (00:09:26) generaledit 
+\i (00:09:28) pick grid 3887.896 47.739
+\t (00:09:28) last pick:  3900.000  50.000
+\i (00:09:34) prmed 
+\i (00:09:37) setwindow form.prmedit
+\i (00:09:37) FORM prmedit view_grids_button  
+\t (00:09:37) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:09:40) setwindow form.grid
+\i (00:09:40) FORM grid non_etch non_etch_x_grids 1 
+\i (00:09:40) FORM grid done  
+\i (00:09:42) setwindow form.prmedit
+\i (00:09:42) FORM prmedit view_grids_button  
+\t (00:09:42) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:09:45) setwindow form.grid
+\i (00:09:45) FORM grid top subclass_x_grids 1 
+\i (00:09:45) FORM grid top subclass_y_grids 1 
+\i (00:09:47) FORM grid bottom subclass_x_grids 1 
+\i (00:09:47) FORM grid bottom subclass_y_grids 1 
+\i (00:09:48) FORM grid done  
+\t (00:09:48) Grids are drawn 16.000, 16.000 apart for enhanced viewability.
+\i (00:09:52) setwindow form.prmedit
+\i (00:09:52) FORM prmedit done  
+\i (00:09:52) setwindow pcb
+\i (00:09:52) generaledit 
+\i (00:09:53) zoom in 1 
+\i (00:09:53) setwindow pcb
+\i (00:09:53) zoom in 3290.259 130.022
+\i (00:09:53) trapsize 5413
+\i (00:09:56) drag_start grid 3274.019 42.325
+\i (00:09:56) slide 
+\t (00:09:56) Waiting for the destination pick.
+\i (00:09:58) drag_stop grid 3272.936 62.896
+\t (00:09:58) No DRC errors detected.
+\i (00:09:58) generaledit 
+\i (00:10:00) pick grid 3096.460 151.676
+\t (00:10:00) last pick:  3096.000  152.000
+\i (00:10:03) zoom out 1 
+\i (00:10:03) setwindow pcb
+\i (00:10:03) zoom out 3399.609 281.597
+\i (00:10:03) trapsize 10827
+\i (00:10:05) zoom in 1 
+\i (00:10:05) setwindow pcb
+\i (00:10:05) zoom in 3958.271 223.132
+\i (00:10:05) trapsize 5413
+\i (00:10:07) drag_start grid 3776.381 145.180
+\i (00:10:07) slide 
+\t (00:10:07) Waiting for the destination pick.
+\i (00:10:08) drag_stop grid 3677.858 148.428
+\t (00:10:08) No DRC errors detected.
+\i (00:10:09) generaledit 
+\i (00:10:10) pick grid 3667.031 58.566
+\t (00:10:10) last pick:  3667.000  59.000
+\i (00:10:11) zoom out 1 
+\i (00:10:11) setwindow pcb
+\i (00:10:11) zoom out 3369.295 125.692
+\i (00:10:11) trapsize 10827
+\i (00:10:12) zoom out 1 
+\i (00:10:12) setwindow pcb
+\i (00:10:12) zoom out 3356.302 112.699
+\t (00:10:12) Grids are drawn 64.000, 64.000 apart for enhanced viewability.
+\i (00:10:12) trapsize 21654
+\i (00:10:12) zoom out 1 
+\i (00:10:12) setwindow pcb
+\i (00:10:12) zoom out 3325.987 69.393
+\i (00:10:12) trapsize 43307
+\i (00:10:14) drag_start grid 770.869 935.534
+\i (00:10:14) drag_stop 1108.664 1333.959
+\i (00:10:15) zoom in 1 
+\i (00:10:15) setwindow pcb
+\i (00:10:15) zoom in 831.499 147.345
+\i (00:10:15) trapsize 21654
+\i (00:10:15) zoom in 1 
+\i (00:10:15) setwindow pcb
+\i (00:10:15) zoom in 870.475 173.329
+\t (00:10:15) Grids are drawn 16.000, 16.000 apart for enhanced viewability.
+\i (00:10:15) trapsize 10827
+\i (00:10:16) zoom in 1 
+\i (00:10:16) setwindow pcb
+\i (00:10:16) zoom in 879.137 186.321
+\i (00:10:16) trapsize 5413
+\i (00:10:17) zoom out 1 
+\i (00:10:17) setwindow pcb
+\i (00:10:17) zoom out 866.145 171.164
+\i (00:10:17) trapsize 10827
+\i (00:10:21) drag_start grid 521.854 431.006
+\i (00:10:21) slide 
+\t (00:10:21) Waiting for the destination pick.
+\i (00:10:24) drag_stop grid 614.965 428.840
+\t (00:10:24) No DRC errors detected.
+\i (00:10:24) generaledit 
+\i (00:10:26) pick grid 409.256 690.848
+\t (00:10:26) last pick:  409.000  691.000
+\i (00:10:37) pick grid 892.130 744.982
+\t (00:10:37) last pick:  892.000  745.000
+\i (00:10:39) pick grid ext 905.122 264.274
+\t (00:10:39) last pick:  905.000  264.000
+\i (00:10:40) prepopup 905.122 264.274
+\i (00:10:42) pop dyn_option_select 'Replace padstack@:@Selected instance(s)' 
+\i (00:10:42) rep padstack 
+\i (00:10:53) fillin "Pad93cir58d"
+\t (00:10:53) Performing DRC...
+\t (00:10:53) Multithreaded DRC update (4 threads).
+\t (00:10:54) No DRC errors detected.
+\i (00:10:54) generaledit 
+\i (00:10:56) pick grid 1108.665 959.352
+\t (00:10:56) last pick:  1109.000  959.000
+\i (00:11:02) drag_start grid 1089.177 909.549
+\i (00:11:03) drag_stop 1333.862 78.053
+\i (00:11:05) pick grid 1517.917 805.612
+\t (00:11:05) last pick:  1518.000  806.000
+\i (00:11:07) pick grid 1138.980 699.510
+\t (00:11:07) last pick:  1139.000  700.000
+\i (00:11:11) pick grid ext 1255.910 621.557
+\t (00:11:11) last pick:  1256.000  622.000
+\i (00:11:12) pick grid ext 1141.146 565.258
+\t (00:11:12) last pick:  1141.000  565.000
+\i (00:11:13) pick grid ext 1245.083 513.289
+\t (00:11:13) last pick:  1245.000  513.000
+\i (00:11:14) pick grid ext 1154.138 467.817
+\t (00:11:14) last pick:  1154.000  468.000
+\i (00:11:15) pick grid ext 1260.240 418.014
+\t (00:11:15) last pick:  1260.000  418.000
+\i (00:11:16) pick grid ext 1143.311 361.714
+\t (00:11:16) last pick:  1143.000  362.000
+\i (00:11:17) pick grid ext 1264.571 316.242
+\t (00:11:17) last pick:  1265.000  316.000
+\i (00:11:18) prepopup 1264.571 316.242
+\i (00:11:21) pop dyn_option_select 'Replace padstack@:@Selected instance(s)' 
+\i (00:11:21) rep padstack 
+\i (00:11:28) fillin "Pad80cir65d"
+\t (00:11:28) Performing DRC...
+\t (00:11:28) Multithreaded DRC update (4 threads).
+\t (00:11:29) No DRC errors detected.
+\i (00:11:30) generaledit 
+\i (00:11:32) prepopup 1214.768 628.053
+\i (00:11:36) pop dyn_option_select 'Replace padstack@:@Selected instance(s)' 
+\i (00:11:36) rep padstack 
+\i (00:11:43) fillin "Pad90cir70d"
+\t (00:11:43) Performing DRC...
+\t (00:11:43) Multithreaded DRC update (4 threads).
+\t (00:11:44) No DRC errors detected.
+\i (00:11:44) generaledit 
+\i (00:11:46) undo 
+\i (00:11:46) trapsize 10827
+\i (00:11:46) generaledit 
+\i (00:11:50) drag_start grid 625.791 911.714
+\i (00:11:51) drag_stop 796.854 84.549
+\i (00:11:53) prepopup 727.563 742.817
+\i (00:11:57) pop dyn_option_select 'Symbol Pin@:@Replace padstack@:@Selected instance(s)' 
+\i (00:11:57) rep padstack 
+\i (00:12:10) fillin "Pad80cir65d"
+\t (00:12:10) Performing DRC...
+\t (00:12:10) Multithreaded DRC update (4 threads).
+\t (00:12:11) No DRC errors detected.
+\i (00:12:11) generaledit 
+\i (00:12:16) zoom in 1 
+\i (00:12:16) setwindow pcb
+\i (00:12:16) zoom in 621.461 757.974
+\i (00:12:16) trapsize 5413
+\i (00:12:18) pick grid 411.421 813.191
+\t (00:12:18) last pick:  411.000  813.000
+\i (00:12:20) drag_start grid 643.114 689.765
+\i (00:12:20) slide 
+\t (00:12:20) Waiting for the destination pick.
+\i (00:12:21) drag_stop grid 608.469 701.675
+\t (00:12:21) No DRC errors detected.
+\i (00:12:21) generaledit 
+\i (00:12:25) zoom out 1 
+\i (00:12:25) setwindow pcb
+\i (00:12:25) zoom out 975.496 918.210
+\i (00:12:25) trapsize 10827
+\i (00:12:25) zoom out 1 
+\i (00:12:25) setwindow pcb
+\i (00:12:25) zoom out 975.497 918.211
+\t (00:12:25) Grids are drawn 64.000, 64.000 apart for enhanced viewability.
+\i (00:12:25) trapsize 21654
+\i (00:12:28) zoom in 1 
+\i (00:12:28) setwindow pcb
+\i (00:12:28) zoom in 958.173 602.069
+\t (00:12:28) Grids are drawn 16.000, 16.000 apart for enhanced viewability.
+\i (00:12:28) trapsize 10827
+\i (00:12:29) zoom out 1 
+\i (00:12:29) setwindow pcb
+\i (00:12:29) zoom out 953.842 504.628
+\t (00:12:29) Grids are drawn 64.000, 64.000 apart for enhanced viewability.
+\i (00:12:29) trapsize 21654
+\i (00:12:30) zoom in 1 
+\i (00:12:30) setwindow pcb
+\i (00:12:30) zoom in 1179.040 803.447
+\t (00:12:30) Grids are drawn 16.000, 16.000 apart for enhanced viewability.
+\i (00:12:30) trapsize 10827
+\i (00:12:33) pick grid 1025.300 829.432
+\t (00:12:33) last pick:  1025.000  829.000
+\i (00:12:36) pick grid ext 1029.630 203.644
+\t (00:12:36) last pick:  1030.000  204.000
+\i (00:12:37) prepopup 1029.630 203.644
+\i (00:12:45) pop dyn_option_select 'Replace padstack@:@Selected instance(s)' 
+\i (00:12:45) rep padstack 
+\i (00:12:55) fillin "Pad93cir58d"
+\t (00:12:55) Performing DRC...
+\t (00:12:55) Multithreaded DRC update (4 threads).
+\t (00:12:56) No DRC errors detected.
+\i (00:12:56) generaledit 
+\i (00:12:58) drag_start grid 1070.772 738.487
+\i (00:12:58) slide 
+\t (00:12:58) Waiting for the destination pick.
+\i (00:12:59) drag_stop grid 1085.930 736.321
+\t (00:12:59) No DRC errors detected.
+\i (00:12:59) generaledit 
+\i (00:13:01) pick grid 1166.048 861.912
+\t (00:13:01) last pick:  1166.000  862.000
+\i (00:13:04) save 
+\i (00:13:05) fillin yes 
+\i (00:13:06) generaledit 
+\i (00:13:11) exit 
+\t (00:13:11)     Journal end - Thu Oct 26 14:22:58 2017

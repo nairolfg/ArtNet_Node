@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Oct-24-2017 at 10:05:20 }
+{ Using PSTWRITER 16.6.0 d001Oct-26-2017 at 14:04:50 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='ARTNET_NODE_2';
@@ -78,32 +78,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C19 'CAP NP_CAPCK06_1N':;
-
-SECTION_NUMBER 1
- '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS25533@DISCRETE.CAP NP.NORMAL(CHIPS)':
- C_PATH='@artnet_node_2.schematic1(sch_1):ins25533@discrete.\cap np.normal\(chips)',
- P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins25533@discrete.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  C2 'CAP NP_CAPCK06_22P':;
 
 SECTION_NUMBER 1
  '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS23213@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@artnet_node_2.schematic1(sch_1):ins23213@discrete.\cap np.normal\(chips)',
  P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins23213@discrete.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C20 'CAP NP_CAPCK06_1N':;
-
-SECTION_NUMBER 1
- '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS25559@DISCRETE.CAP NP.NORMAL(CHIPS)':
- C_PATH='@artnet_node_2.schematic1(sch_1):ins25559@discrete.\cap np.normal\(chips)',
- P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins25559@discrete.\cap np.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -398,16 +378,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- TR 'CON12_2_DIP16_3_CON12':;
-
-SECTION_NUMBER 1
- '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS25202@ARTNET_NODE_2.CON12_2.NORMAL(CHIPS)':
- C_PATH='@artnet_node_2.schematic1(sch_1):ins25202@artnet_node_2.\con12_2.normal\(chips)',
- P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins25202@artnet_node_2.\con12_2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  U1 'ATMEGA88_0_DIP28_4_ATMEGA328':;
 
 SECTION_NUMBER 1
@@ -418,22 +388,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U2 'LM7805/TO_0_TO220AB_LM7805/TO':;
+ U2 'LM7805/TO_1_TO220AB_LM7805/TO':;
 
 SECTION_NUMBER 1
- '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS26558@ARTNET_NODE_2.LM7805/TO_0.NORMAL(CHIPS)':
- C_PATH='@artnet_node_2.schematic1(sch_1):ins26558@artnet_node_2.\lm7805/to_0.normal\(chips)',
- P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins26558@artnet_node_2.\lm7805/to_0.normal\(chips)',
+ '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS26558@ARTNET_NODE_2.LM7805/TO_1.NORMAL(CHIPS)':
+ C_PATH='@artnet_node_2.schematic1(sch_1):ins26558@artnet_node_2.\lm7805/to_1.normal\(chips)',
+ P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins26558@artnet_node_2.\lm7805/to_1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- U3 'LM7805/TO_0_TO220AB_LM7833/TO':;
+ U3 'LM7805/TO_2_TO220AB_LM7833/TO':;
 
 SECTION_NUMBER 1
- '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS26932@ARTNET_NODE_2.LM7805/TO_0.NORMAL(CHIPS)':
- C_PATH='@artnet_node_2.schematic1(sch_1):ins26932@artnet_node_2.\lm7805/to_0.normal\(chips)',
- P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins26932@artnet_node_2.\lm7805/to_0.normal\(chips)',
+ '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS26932@ARTNET_NODE_2.LM7805/TO_2.NORMAL(CHIPS)':
+ C_PATH='@artnet_node_2.schematic1(sch_1):ins26932@artnet_node_2.\lm7805/to_2.normal\(chips)',
+ P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins26932@artnet_node_2.\lm7805/to_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

@@ -42,11 +42,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "C:\Cadence\Projects\ArtNet_Node\adapter.dsn")
-      (Path "Design Resources" "C:\Cadence\Projects\ArtNet_Node\adapter.dsn"
-         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" "C:\Cadence\Projects\ArtNet_Node\adapter.dsn"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -56,9 +53,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -13 -58 196 2493 196 1123")
-        (Scroll "-471 -4")
-        (Zoom "175")
+        (Placement "44 0 1 -1 -1 -13 -58 196 2493 196 1123")
+        (Scroll "2569 1778")
+        (Zoom "700")
         (Occurrence "/"))
       (Path "C:\CADENCE\PROJECTS\ARTNET_NODE\ADAPTER.DSN")
       (Schematic "SCHEMATIC1")

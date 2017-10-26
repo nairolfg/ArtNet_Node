@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Oct-25-2017 at 20:50:53}
+{ Using PSTWRITER 16.6.0 d001Oct-26-2017 at 14:09:22}
 primitive 'CAP NP_CAPCK06_22P';
   pin
     '1':
@@ -43,21 +43,6 @@ primitive 'CAP NP_CAPCK06_100N';
     PART_NAME='CAP NP';
     JEDEC_TYPE='CAPCK06';
     VALUE='100n';
-  end_body;
-end_primitive;
-primitive 'CAP NP_CAPCK06_1N';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP NP';
-    JEDEC_TYPE='CAPCK06';
-    VALUE='1n';
   end_body;
 end_primitive;
 primitive 'CAP NP_CAPCK06_10N';
@@ -105,7 +90,7 @@ primitive 'DIODE_DIO400_1N4004';
     VALUE='1N4004';
   end_body;
 end_primitive;
-primitive 'CON16_RJ45_2_CON1';
+primitive 'CON16_RJ45_CON1';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -158,7 +143,7 @@ primitive 'CON16_RJ45_2_CON1';
   end_pin;
   body
     PART_NAME='CON16';
-    JEDEC_TYPE='RJ45_2';
+    JEDEC_TYPE='RJ45';
     VALUE='CON1';
   end_body;
 end_primitive;
@@ -343,63 +328,6 @@ primitive 'RESISTOR_RES400_2K7';
     PART_NAME='RESISTOR';
     JEDEC_TYPE='RES400';
     VALUE='2k7';
-  end_body;
-end_primitive;
-primitive 'CON12_2_DIP16_3_CON12';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '6':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-    '7':
-      PIN_NUMBER='(7)';
-      PINUSE='UNSPEC';
-    '8':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-    '9':
-      PIN_NUMBER='(9)';
-      PINUSE='UNSPEC';
-    '10':
-      PIN_NUMBER='(10)';
-      PINUSE='UNSPEC';
-    '11':
-      PIN_NUMBER='(11)';
-      PINUSE='UNSPEC';
-    '14':
-      PIN_NUMBER='(14)';
-      PINUSE='UNSPEC';
-    '15':
-      PIN_NUMBER='(15)';
-      PINUSE='UNSPEC';
-    '16':
-      PIN_NUMBER='(16)';
-      PINUSE='UNSPEC';
-    '4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    '5':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    '12':
-      PIN_NUMBER='(12)';
-      PINUSE='UNSPEC';
-    '13':
-      PIN_NUMBER='(13)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CON12_2';
-    JEDEC_TYPE='DIP16_3';
-    VALUE='CON12';
   end_body;
 end_primitive;
 primitive 'ATMEGA88_0_DIP28_4_ATMEGA328';
