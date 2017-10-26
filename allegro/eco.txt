@@ -2,66 +2,66 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:/Cadence/Projects/ArtNet_Node/allegro/ARTNET_NODE_2.brd                   |
-|                                                    Tue Oct 24 10:05:20 2017  |
+|  C:/Cadence/Projects/ArtNet_Node/allegro/ADAPTER.brd                         |
+|                                                    Thu Oct 26 07:15:56 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  GND          pins ADDED TO this existing net (pins not previously on any net)
-                                 J1.13                          
-                                 J1.14                          
+  N25575       pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.1                           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25465       pins ADDED TO this existing net (pins not previously on any net)
-                                 J1.2                           
+  N25587       pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.2                           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25483       pins ADDED TO this existing net (pins not previously on any net)
-                                 J1.1                           
+  N25599       pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.3                           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25506       pins MOVED FROM this net (to net name listed on right)
-                                 J1.6                           
-                                                                         N25519
+  N25603       pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.8                           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N25519       pins MOVED FROM this net (to net name listed on right)
-                                 J1.3                           
-                                                                         N25506
+  N25615       pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.7                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25627       pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.6                           
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:/Cadence/Projects/ArtNet_Node/allegro/ARTNET_NODE_2.brd                   |
-|                                                    Tue Oct 24 10:05:20 2017  |
+|  C:/Cadence/Projects/ArtNet_Node/allegro/ADAPTER.brd                         |
+|                                                    Thu Oct 26 07:15:56 2017  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to board drawing                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- CON16_RJ45_2_CON1
+ CON8_1_FGCON8_1_CON8
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  C:/Cadence/Projects/ArtNet_Node/allegro/ARTNET_NODE_2.brd                   |
-|                                                    Tue Oct 24 10:05:20 2017  |
+|  C:/Cadence/Projects/ArtNet_Node/allegro/ADAPTER.brd                         |
+|                                                    Thu Oct 26 07:15:56 2017  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in board drawing          |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J1                  CON16_RJ45_2_CON1                     CON8_RJ45_2_CON1
+ J2                  CON8_1_FGCON8_1_CON8                  CON8_0_FGCON8_1_CON8
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|  C:/Cadence/Projects/ArtNet_Node/allegro/ARTNET_NODE_2.brd                   |
-|                                                    Tue Oct 24 10:05:20 2017  |
+|  C:/Cadence/Projects/ArtNet_Node/allegro/ADAPTER.brd                         |
+|                                                    Thu Oct 26 07:15:56 2017  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to board drawing                                       |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J1.9                           PRIM_FILE      .\pstchip.dat
+ J2.8                           PRIM_FILE      .\pstchip.dat
 |------------------------------------------------------------------------------|
 |   total ECO changes reported  9                                              |
 |------------------------------------------------------------------------------|

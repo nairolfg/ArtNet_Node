@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Oct-24-2017 at 09:54:57 }
+{ Using PSTWRITER 16.6.0 d001Oct-25-2017 at 20:50:53 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='ARTNET_NODE_2';
@@ -228,12 +228,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J1 'CON8_RJ45_CON1':;
+ J1 'CON16_RJ45_2_CON1':;
 
 SECTION_NUMBER 1
- '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS36364@CONNECTOR.CON8.NORMAL(CHIPS)':
- C_PATH='@artnet_node_2.schematic1(sch_1):ins36364@connector.\con8.normal\(chips)',
- P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins36364@connector.\con8.normal\(chips)',
+ '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS37833@CONNECTOR.CON16.NORMAL(CHIPS)':
+ C_PATH='@artnet_node_2.schematic1(sch_1):ins37833@connector.\con16.normal\(chips)',
+ P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins37833@connector.\con16.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -418,22 +418,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U2 'LM7805/TO_0_TO220AB_LM7805/TO':;
+ U2 'LM7805/TO_1_TO220AB_LM7805/TO':;
 
 SECTION_NUMBER 1
- '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS26558@ARTNET_NODE_2.LM7805/TO_0.NORMAL(CHIPS)':
- C_PATH='@artnet_node_2.schematic1(sch_1):ins26558@artnet_node_2.\lm7805/to_0.normal\(chips)',
- P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins26558@artnet_node_2.\lm7805/to_0.normal\(chips)',
+ '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS26558@ARTNET_NODE_2.LM7805/TO_1.NORMAL(CHIPS)':
+ C_PATH='@artnet_node_2.schematic1(sch_1):ins26558@artnet_node_2.\lm7805/to_1.normal\(chips)',
+ P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins26558@artnet_node_2.\lm7805/to_1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- U3 'LM7805/TO_0_TO220AB_LM7833/TO':;
+ U3 'LM7805/TO_2_TO220AB_LM7833/TO':;
 
 SECTION_NUMBER 1
- '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS26932@ARTNET_NODE_2.LM7805/TO_0.NORMAL(CHIPS)':
- C_PATH='@artnet_node_2.schematic1(sch_1):ins26932@artnet_node_2.\lm7805/to_0.normal\(chips)',
- P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins26932@artnet_node_2.\lm7805/to_0.normal\(chips)',
+ '@ARTNET_NODE_2.SCHEMATIC1(SCH_1):INS26932@ARTNET_NODE_2.LM7805/TO_2.NORMAL(CHIPS)':
+ C_PATH='@artnet_node_2.schematic1(sch_1):ins26932@artnet_node_2.\lm7805/to_2.normal\(chips)',
+ P_PATH='@artnet_node_2.schematic1(sch_1):page1_ins26932@artnet_node_2.\lm7805/to_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

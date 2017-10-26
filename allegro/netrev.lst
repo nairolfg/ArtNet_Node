@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : ARTNET_NODE_2.brd                             )
+(    Drawing          : ADAPTER.brd                                   )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue Oct 24 10:05:20 2017                      )
+(    Date/Time        : Thu Oct 26 07:15:56 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,10 +18,10 @@ RIPUP_SYMBOLS ALWAYS;
 Missing symbol has error FALSE;
 SCHEMATIC_DIRECTORY 'C:\CADENCE\PROJECTS\ARTNET_NODE\allegro';
 BOARD_DIRECTORY '';
-OLD_BOARD_NAME 'C:/Cadence/Projects/ArtNet_Node/allegro/ARTNET_NODE_2.brd';
-NEW_BOARD_NAME 'ARTNET_NODE_2.brd';
+OLD_BOARD_NAME 'C:/Cadence/Projects/ArtNet_Node/allegro/ADAPTER.brd';
+NEW_BOARD_NAME 'ADAPTER.brd';
 
-CmdLine: netrev.exe -y 1 -i C:\CADENCE\PROJECTS\ARTNET_NODE\allegro C:\Cadence\Projects\ArtNet_Node\allegro\ARTNET_NODE_2.brd C:\CADENCE\PROJECTS\ARTNET_NODE\allegro\ARTNET_NODE_2.brd
+CmdLine: netrev.exe -y 1 -i C:\CADENCE\PROJECTS\ARTNET_NODE\allegro C:\Cadence\Projects\ArtNet_Node\allegro\ADAPTER.brd C:\CADENCE\PROJECTS\ARTNET_NODE\allegro\ADAPTER.brd
 
 ------ Preparing to read pst files ------
 
@@ -59,8 +59,8 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Oct 24 10:05:20 2017
-   DESIGN NAME : 'ARTNET_NODE_2'
+netrev run on Oct 26 7:15:56 2017
+   DESIGN NAME : 'ADAPTER'
    PACKAGING ON Sep 10 2012 04:46:09
 
    COMPILE 'logic'
@@ -84,6 +84,6 @@ netrev run on Oct 24 10:05:20 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:28
+cpu time      0:00:25
 elapsed time  0:00:00
 

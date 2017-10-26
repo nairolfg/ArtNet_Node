@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : RJ45.dra                                      )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Thu Oct 26 13:56:30 2017                      )
+(    Date/Time        : Mon Oct 23 17:47:07 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -12,8 +12,8 @@
 Create Symbol of type: PACKAGE
     Directory = C:/Cadence/Projects/ArtNet_Node
     Name      = rj45.psm
-    User      = nairo
-    Machine   = DESKTOP-PHA2IGQ
+    User      = MGZ
+    Machine   = FLOPC
 
 
 Create symbol started.

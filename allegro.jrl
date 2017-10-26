@@ -1,37 +1,862 @@
 \t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:02)     Journal start - Mon Oct 23 17:47:45 2017
-\t (00:00:02)         Host=FLOPC User=MGZ Pid=7656 CPUs=4
+\t (00:00:02)     Journal start - Thu Oct 26 08:39:35 2017
+\t (00:00:02)         Host=DESKTOP-PHA2IGQ User=nairo Pid=1224 CPUs=4
 \t (00:00:02) 
-\t (00:00:04) Opening existing design...
-\d (00:00:04) Database opened: C:/Cadence/Projects/ArtNet_Node/RJ45.dra
-\i (00:00:04) trapsize 3
-\i (00:00:04) trapsize 3
-\i (00:00:05) generaledit 
-\i (00:00:13) save_as 
-\i (00:00:30) fillin "C:\Cadence\SPB_16.6\share\pcb\pcb_lib\symbols\RJ45.dra"
-\i (00:00:30) cd "C:\Cadence\SPB_16.6\share\pcb\pcb_lib\symbols"
-\t (00:00:31) Symbol 'rj45.psm' created.
-\i (00:00:31) generaledit 
-\i (00:00:37) add pin 
-\i (00:00:42) add pin 
-\t (00:00:42) Exiting from Add Pin.
-\i (00:00:44) pick grid -119 72
-\t (00:00:44) last pick:  -120  70
-\e (00:00:44) ERROR(SPMHAP-2): No padstack specified.
-\i (00:00:47) add pin 
-\t (00:00:47) Exiting from Add Pin.
-\i (00:00:49) pick grid 3 89
-\t (00:00:49) last pick:  0  90
-\e (00:00:49) ERROR(SPMHAP-2): No padstack specified.
-\i (00:00:52) add pin 
-\t (00:00:52) Exiting from Add Pin.
-\i (00:00:52) prepopup -25 142
-\i (00:00:55) pick grid 74 20
-\t (00:00:55) last pick:  70  20
-\e (00:00:55) ERROR(SPMHAP-2): No padstack specified.
-\i (00:01:03) exit 
-\t (00:01:03) Exiting from Add Pin.
-\e (00:01:04) Do you want to save the changes you made to C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/RJ45.dra?
-\i (00:01:07) fillin yes 
-\t (00:01:07) Symbol 'rj45.psm' created.
-\t (00:01:07)     Journal end - Mon Oct 23 17:48:51 2017
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Database opened: C:/Cadence/Projects/ArtNet_Node/RJ45.dra
+\i (00:00:05) trapsize 8
+\i (00:00:06) trapsize 6
+\i (00:00:06) trapsize 8
+\i (00:00:06) generaledit 
+\i (00:50:04) trapsize 12
+\i (04:50:47) trapsize 8
+\i (04:50:50) pick grid 805 -253
+\t (04:50:50) last pick:  810  -250
+\i (04:50:55) trapsize 12
+\i (04:50:57) trapsize 8
+\i (04:51:00) zoom out 1 
+\i (04:51:00) setwindow pcb
+\i (04:51:00) zoom out -659 10
+\t (04:51:00) Grids are drawn 40, 40 apart for enhanced viewability.
+\i (04:51:00) trapsize 16
+\i (04:51:00) zoom in 1 
+\i (04:51:00) setwindow pcb
+\i (04:51:00) zoom in -652 682
+\i (04:51:00) trapsize 8
+\i (04:51:00) zoom in 1 
+\i (04:51:00) setwindow pcb
+\i (04:51:00) zoom in -652 682
+\i (04:51:00) trapsize 4
+\i (04:51:00) zoom in 1 
+\i (04:51:00) setwindow pcb
+\i (04:51:00) zoom in -652 682
+\i (04:51:00) trapsize 2
+\i (04:51:01) zoom out 1 
+\i (04:51:01) setwindow pcb
+\i (04:51:01) zoom out -651 682
+\i (04:51:01) trapsize 4
+\i (04:51:01) zoom out 1 
+\i (04:51:01) setwindow pcb
+\i (04:51:01) zoom out -652 682
+\i (04:51:01) trapsize 8
+\i (04:51:01) zoom out 1 
+\i (04:51:01) setwindow pcb
+\i (04:51:01) zoom out -652 683
+\i (04:51:01) trapsize 16
+\i (04:51:01) zoom out 1 
+\i (04:51:01) setwindow pcb
+\i (04:51:01) zoom out -652 682
+\i (04:51:01) trapsize 16
+\i (04:51:01) zoom out 1 
+\i (04:51:01) setwindow pcb
+\i (04:51:01) zoom out -652 682
+\i (04:51:01) trapsize 16
+\i (04:51:01) zoom out 1 
+\i (04:51:01) setwindow pcb
+\i (04:51:01) zoom out -652 682
+\i (04:51:01) trapsize 16
+\i (04:51:02) zoom in 1 
+\i (04:51:02) setwindow pcb
+\i (04:51:02) zoom in 235 192
+\i (04:51:02) trapsize 8
+\i (04:52:57) zoom in 1 
+\i (04:52:57) setwindow pcb
+\i (04:52:57) zoom in 228 92
+\i (04:52:57) trapsize 4
+\i (04:53:00) pick grid 223 36
+\t (04:53:00) last pick:  220  40
+\i (04:53:02) pick grid 632 237
+\t (04:53:02) last pick:  630  240
+\i (04:53:08) chg origin 
+\t (04:53:08) Pick new location for drawing origin.
+\i (04:53:13) pick grid 251 266
+\t (04:53:13) last pick:  250  270
+\i (04:53:13) trapsize 4
+\t (04:53:13) Pick point (250 270) changed to origin (0, 0)
+\i (04:53:13) generaledit 
+\i (04:53:16) prmed 
+\i (04:53:38) setwindow form.prmedit
+\i (04:53:38) FORM prmedit text  
+\i (04:53:39) FORM prmedit display  
+\i (04:53:40) FORM prmedit design  
+\i (04:53:43) FORM prmedit units Millimeter 
+\e (04:53:43) Change may cause round-off; run dbcheck.
+\i (04:53:56) FORM prmedit apply  
+\w (04:53:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (04:53:56) setwindow pcb
+\i (04:53:56) trapsize 100
+\t (04:53:56) Performing DRC...
+\t (04:53:56) No DRC errors detected.
+\i (04:53:59) setwindow form.prmedit
+\i (04:53:59) FORM prmedit done  
+\i (04:53:59) setwindow pcb
+\i (04:53:59) generaledit 
+\i (04:54:05) prmed 
+\i (04:54:07) setwindow form.prmedit
+\i (04:54:07) FORM prmedit display  
+\i (04:54:09) FORM prmedit view_grids_button  
+\t (04:54:09) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (04:54:11) setwindow form.grid
+\i (04:54:11) FORM grid non_etch non_etch_x_grids 1 
+\i (04:54:12) FORM grid non_etch non_etch_y_grids 1 
+\i (04:54:14) FORM grid top subclass_x_grids 1 
+\i (04:54:15) FORM grid top subclass_y_grids 1 
+\i (04:54:17) FORM grid bottom subclass_x_grids 1 
+\i (04:54:18) FORM grid bottom subclass_y_grids 1 
+\i (04:54:20) FORM grid done  
+\i (04:54:21) setwindow form.prmedit
+\i (04:54:21) FORM prmedit done  
+\i (04:54:21) setwindow pcb
+\i (04:54:21) generaledit 
+\i (04:54:49) drag_start grid -8.083 -3.448
+\i (04:54:50) drag_stop -8.561 -2.671
+\i (04:54:50) drag_start grid -8.561 -2.671
+\i (04:54:51) drag_stop -9.916 -1.934
+\i (04:54:54) pick grid -8.800 0.218
+\t (04:54:54) last pick:  -9.000  0.000
+\i (04:54:55) zoom out 1 
+\i (04:54:55) setwindow pcb
+\i (04:54:55) zoom out -8.462 0.238
+\i (04:54:55) trapsize 199
+\i (04:54:55) zoom out 1 
+\i (04:54:55) setwindow pcb
+\i (04:54:55) zoom out -16.365 0.238
+\i (04:54:55) trapsize 398
+\i (04:54:58) pick grid -8.500 0.260
+\t (04:54:58) last pick:  -8.000  0.000
+\i (04:55:00) prepopup -7.783 -0.457
+\i (04:55:02) pop dyn_option_select @:@Move 
+\i (04:55:02) move 
+\t (04:55:02) last pick:  -8.000  0.000
+\t (04:55:02) last pick:  -8.000  0.000
+\t (04:55:02) Element has no origin, using pick.
+\t (04:55:02) Pick new location for the element(s).
+\i (04:55:03) pick grid 3.452 18.985
+\t (04:55:03) last pick:  3.000  19.000
+\i (04:55:04) generaledit 
+\i (04:55:05) pick grid -6.508 13.327
+\t (04:55:05) last pick:  -7.000  13.000
+\i (04:55:06) zoom in 1 
+\i (04:55:06) setwindow pcb
+\i (04:55:06) zoom in -2.843 -1.493
+\i (04:55:06) trapsize 199
+\i (04:55:15) prepopup -8.035 -3.285
+\i (04:55:17) pick grid -11.701 -1.373
+\t (04:55:17) last pick:  -12.000  -1.000
+\i (04:55:18) pick grid -8.394 -2.847
+\t (04:55:18) last pick:  -8.000  -3.000
+\i (04:55:18) prepopup -8.394 -2.847
+\i (04:55:20) pop dyn_option_select @:@Move 
+\i (04:55:20) move 
+\t (04:55:20) last pick:  -8.000  -3.000
+\t (04:55:20) last pick:  -8.128  -3.429
+\t (04:55:20) Pick new location for the element(s).
+\i (04:55:25) subclass -- 
+\e (04:55:33) Command not found: 10
+\i (04:55:35) subclass -- 
+\e (04:55:42) Command not found: -10 10
+\i (04:55:52) pick grid -7.796 -0.417
+\t (04:55:52) last pick:  -8.000  0.000
+\i (04:55:52) generaledit 
+\i (04:55:54) pick grid -6.003 -2.688
+\t (04:55:54) last pick:  -6.000  -3.000
+\i (04:56:16) drag_start grid -10.505 4.882
+\i (04:56:17) drag_stop 13.438 -10.058
+\i (04:56:18) prepopup -0.625 -2.090
+\i (04:56:19) pop dyn_option_select @:@Move 
+\i (04:56:19) move 
+\t (04:56:19) last pick:  -1.000  -2.000
+\t (04:56:19) Pick new location for the element(s).
+\i (04:56:22) pick grid -13.772 7.511
+\t (04:56:22) last pick:  -14.000  8.000
+\i (04:56:22) generaledit 
+\i (04:56:23) pick grid -11.740 1.615
+\t (04:56:23) last pick:  -12.000  2.000
+\i (04:56:53) prmed 
+\i (04:56:56) setwindow form.prmedit
+\i (04:56:56) FORM prmedit view_grids_button  
+\t (04:56:56) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (04:57:02) setwindow form.grid
+\i (04:57:02) FORM grid non_etch non_etch_x_grids 5.715 
+\i (04:57:05) FORM grid non_etch non_etch_y_grids 5.715 
+\i (04:57:05) FORM grid done  
+\i (04:57:08) setwindow form.prmedit
+\i (04:57:08) FORM prmedit done  
+\i (04:57:08) setwindow pcb
+\i (04:57:08) generaledit 
+\i (04:57:11) pick grid -20.545 9.463
+\t (04:57:11) last pick:  -22.860  11.430
+\i (04:57:12) prepopup -20.545 9.463
+\i (04:57:13) pop dyn_option_select @:@Move 
+\i (04:57:13) move 
+\t (04:57:14) last pick:  -22.860  11.430
+\t (04:57:14) last pick:  -21.000  10.000
+\t (04:57:14) Pick new location for the element(s).
+\i (04:57:15) pick grid -8.434 2.013
+\t (04:57:15) last pick:  -5.715  0.000
+\i (04:57:15) generaledit 
+\i (04:57:17) pick grid -5.446 6.794
+\t (04:57:17) last pick:  -5.715  5.715
+\i (04:57:17) prepopup -5.446 6.794
+\i (04:57:19) pop dyn_option_select @:@Move 
+\i (04:57:19) move 
+\t (04:57:19) last pick:  -5.715  5.715
+\t (04:57:19) last pick:  -4.872  6.571
+\t (04:57:19) Pick new location for the element(s).
+\i (04:57:20) pick grid 2.960 1.177
+\t (04:57:20) last pick:  5.715  0.000
+\i (04:57:21) generaledit 
+\i (04:57:22) pick grid 10.729 -2.608
+\t (04:57:22) last pick:  11.430  0.000
+\i (04:57:29) undo 
+\i (04:57:29) trapsize 199
+\i (04:57:29) generaledit 
+\i (04:57:30) undo 
+\i (04:57:30) trapsize 199
+\i (04:57:30) generaledit 
+\i (04:57:32) pick grid -19.230 2.451
+\t (04:57:32) last pick:  -17.145  0.000
+\i (04:57:33) prepopup -19.230 2.451
+\i (04:57:34) pop dyn_option_select @:@Move 
+\i (04:57:34) move 
+\t (04:57:34) last pick:  -17.145  0.000
+\t (04:57:34) last pick:  -19.350  3.142
+\t (04:57:34) Pick new location for the element(s).
+\i (04:57:35) pick grid -8.474 1.894
+\t (04:57:35) last pick:  -5.715  0.000
+\i (04:57:35) generaledit 
+\i (04:57:37) pick grid -6.521 3.686
+\t (04:57:37) last pick:  -5.715  5.715
+\i (04:57:37) prepopup -6.521 3.686
+\i (04:57:38) pop dyn_option_select @:@Move 
+\i (04:57:38) move 
+\t (04:57:38) last pick:  -5.715  5.715
+\t (04:57:38) last pick:  -6.650  3.142
+\t (04:57:38) Pick new location for the element(s).
+\i (04:57:39) pick grid 3.120 0.181
+\t (04:57:39) last pick:  5.715  0.000
+\i (04:57:40) generaledit 
+\i (04:57:40) pick grid 0.968 -4.242
+\t (04:57:40) last pick:  0.000  -5.715
+\i (04:57:49) prmed 
+\i (04:57:52) setwindow form.prmedit
+\i (04:57:52) FORM prmedit view_grids_button  
+\t (04:57:52) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (04:58:03) setwindow form.grid
+\i (04:58:03) FORM grid non_etch non_etch_x_grids 8 
+\i (04:58:12) FORM grid non_etch non_etch_y_grids 3.05 
+\i (04:58:12) FORM grid done  
+\i (04:58:15) setwindow form.prmedit
+\i (04:58:15) FORM prmedit done  
+\i (04:58:15) setwindow pcb
+\i (04:58:15) generaledit 
+\i (04:58:17) pick grid -5.127 7.033
+\t (04:58:17) last pick:  -8.000  6.100
+\i (04:58:18) prepopup -5.127 7.033
+\i (04:58:20) pop dyn_option_select @:@Move 
+\i (04:58:20) move 
+\t (04:58:20) last pick:  -8.000  6.100
+\t (04:58:20) last pick:  -4.872  6.571
+\t (04:58:20) Pick new location for the element(s).
+\i (04:58:22) pick grid 6.267 -1.533
+\t (04:58:22) last pick:  8.000  -3.050
+\i (04:58:22) generaledit 
+\i (04:58:26) pick grid -20.386 9.423
+\t (04:58:26) last pick:  -24.000  9.150
+\i (04:58:26) prepopup -20.386 9.423
+\i (04:58:28) pop dyn_option_select @:@Move 
+\i (04:58:28) move 
+\t (04:58:28) last pick:  -24.000  9.150
+\t (04:58:28) last pick:  -21.000  10.000
+\t (04:58:28) Pick new location for the element(s).
+\i (04:58:30) pick grid -9.430 -1.572
+\t (04:58:30) last pick:  -8.000  -3.050
+\i (04:58:30) generaledit 
+\i (04:58:32) pick grid -14.370 0.220
+\t (04:58:32) last pick:  -16.000  0.000
+\i (04:58:36) prepopup -14.330 1.376
+\i (04:58:39) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (04:58:39) define grid 
+\t (04:58:39) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (04:58:39) generaledit 
+\i (05:03:27) setwindow form.grid
+\i (05:03:27) FORM grid done  
+\i (05:03:31) setwindow pcb
+\i (05:03:31) zoom out 1 
+\i (05:03:31) setwindow pcb
+\i (05:03:31) zoom out -4.529 4.005
+\i (05:03:31) trapsize 398
+\i (05:03:37) zoom in 1 
+\i (05:03:37) setwindow pcb
+\i (05:03:37) zoom in -15.034 -3.804
+\i (05:03:37) trapsize 199
+\i (05:03:37) zoom in 1 
+\i (05:03:37) setwindow pcb
+\i (05:03:37) zoom in -17.637 -3.804
+\i (05:03:37) trapsize 100
+\i (05:03:38) zoom out 1 
+\i (05:03:38) setwindow pcb
+\i (05:03:38) zoom out -17.636 -3.804
+\i (05:03:38) trapsize 199
+\i (05:04:53) prepopup -15.485 -0.139
+\i (05:04:55) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (05:04:55) define grid 
+\t (05:04:55) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (05:04:56) generaledit 
+\i (05:05:05) setwindow form.grid
+\i (05:05:05) FORM grid non_etch non_etch_y_grids 8.89 
+\i (05:05:22) FORM grid non_etch non_etch_x_grids 0.64 
+\i (05:05:22) FORM grid done  
+\i (05:05:32) setwindow pcb
+\i (05:05:32) prepopup -12.418 7.192
+\i (05:05:34) pop dyn_option_select @:@Move 
+\i (05:05:34) move 
+\t (05:05:34) last pick:  -12.160  8.890
+\t (05:05:34) last pick:  -12.492  7.460
+\t (05:05:34) Pick new location for the element(s).
+\i (05:05:38) pick grid 0.929 -8.186
+\t (05:05:38) last pick:  0.640  -8.890
+\i (05:05:38) generaledit 
+\i (05:05:50) chg origin 
+\t (05:05:50) Pick new location for drawing origin.
+\i (05:05:52) pick grid 0.570 -8.943
+\t (05:05:52) last pick:  0.640  -8.890
+\i (05:05:52) trapsize 199
+\t (05:05:52) Pick point (0.640 -8.890) changed to origin (0.000, 0.000)
+\i (05:05:52) generaledit 
+\i (05:05:59) pick grid -13.655 6.520
+\t (05:05:59) last pick:  -13.440  8.890
+\i (05:06:00) zoom out 1 
+\i (05:06:00) setwindow pcb
+\i (05:06:00) zoom out -13.655 6.520
+\i (05:06:00) trapsize 398
+\i (05:06:00) zoom out 1 
+\i (05:06:00) setwindow pcb
+\i (05:06:00) zoom out -6.431 7.955
+\i (05:06:00) trapsize 398
+\i (05:06:01) zoom in 1 
+\i (05:06:01) setwindow pcb
+\i (05:06:01) zoom in -10.973 2.058
+\i (05:06:01) trapsize 199
+\i (05:06:03) prepopup 0.408 4.727
+\i (05:06:06) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (05:06:06) define grid 
+\t (05:06:06) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (05:06:06) generaledit 
+\i (05:06:15) setwindow form.grid
+\i (05:06:15) FORM grid non_etch non_etch_x_grids 2.54 
+\i (05:06:15) FORM grid done  
+\i (05:06:20) setwindow pcb
+\i (05:06:20) prepopup -11.185 16.360
+\i (05:06:21) pop dyn_option_select @:@Move 
+\i (05:06:21) move 
+\t (05:06:21) last pick:  -10.160  17.780
+\t (05:06:21) last pick:  -11.100  16.350
+\t (05:06:21) Pick new location for the element(s).
+\i (05:06:23) pick grid 1.444 3.612
+\t (05:06:23) last pick:  2.540  0.000
+\i (05:06:23) generaledit 
+\i (05:06:24) prepopup -14.651 16.201
+\i (05:06:26) pop dyn_option_select @:@Move 
+\i (05:06:26) move 
+\t (05:06:26) last pick:  -15.240  17.780
+\t (05:06:26) last pick:  -15.164  16.350
+\t (05:06:26) Pick new location for the element(s).
+\i (05:06:27) pick grid -3.775 -0.731
+\t (05:06:27) last pick:  -2.540  0.000
+\i (05:06:27) generaledit 
+\i (05:06:28) prepopup -17.400 16.719
+\i (05:06:30) pop dyn_option_select @:@Move 
+\i (05:06:30) move 
+\t (05:06:30) last pick:  -17.780  17.780
+\t (05:06:30) last pick:  -17.196  16.350
+\t (05:06:30) Pick new location for the element(s).
+\i (05:06:32) pick grid -6.086 1.500
+\t (05:06:32) last pick:  -5.080  0.000
+\i (05:06:32) generaledit 
+\i (05:06:33) pick grid -2.022 2.855
+\t (05:06:33) last pick:  -2.540  0.000
+\i (05:06:38) prepopup -2.022 2.855
+\i (05:06:40) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (05:06:40) define grid 
+\t (05:06:40) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (05:06:40) generaledit 
+\i (05:06:46) setwindow form.grid
+\i (05:06:46) FORM grid non_etch non_etch_y_grids 2.54 
+\i (05:06:46) FORM grid done  
+\i (05:06:58) setwindow pcb
+\i (05:06:58) prepopup -0.508 6.719
+\i (05:07:00) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (05:07:00) define grid 
+\t (05:07:00) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (05:07:00) generaledit 
+\i (05:07:18) setwindow form.grid
+\i (05:07:18) FORM grid non_etch non_etch_x_grids 1.27 
+\i (05:07:18) FORM grid done  
+\i (05:07:23) setwindow pcb
+\i (05:07:23) prepopup -9.592 14.408
+\i (05:07:25) pop dyn_option_select @:@Move 
+\i (05:07:25) move 
+\t (05:07:25) last pick:  -10.160  15.240
+\t (05:07:25) last pick:  -10.084  14.572
+\t (05:07:25) Pick new location for the element(s).
+\i (05:07:38) pick grid 4.552 2.456
+\t (05:07:38) last pick:  5.080  2.540
+\i (05:07:38) generaledit 
+\i (05:07:41) prepopup -11.584 14.129
+\i (05:07:42) pop dyn_option_select @:@Move 
+\i (05:07:42) move 
+\t (05:07:42) last pick:  -11.430  15.240
+\t (05:07:42) last pick:  -12.116  14.572
+\t (05:07:42) Pick new location for the element(s).
+\i (05:07:43) pick grid 1.324 3.771
+\t (05:07:43) last pick:  1.270  2.540
+\i (05:07:43) generaledit 
+\i (05:07:45) pick grid -13.297 14.329
+\t (05:07:45) last pick:  -12.700  15.240
+\i (05:07:46) pick grid -9.791 15.325
+\t (05:07:46) last pick:  -10.160  15.240
+\i (05:07:47) prepopup -14.133 14.647
+\i (05:07:49) pop dyn_option_select @:@Move 
+\i (05:07:49) move 
+\t (05:07:49) last pick:  -13.970  15.240
+\t (05:07:49) last pick:  -14.148  14.572
+\t (05:07:49) Pick new location for the element(s).
+\i (05:07:50) pick grid -1.903 3.413
+\t (05:07:50) last pick:  -1.270  2.540
+\i (05:07:50) generaledit 
+\i (05:07:52) pick grid -15.966 14.727
+\t (05:07:52) last pick:  -16.510  15.240
+\i (05:07:53) prepopup -15.966 14.727
+\i (05:07:54) pop dyn_option_select @:@Move 
+\i (05:07:54) move 
+\t (05:07:54) last pick:  -16.510  15.240
+\t (05:07:54) last pick:  -16.180  14.572
+\t (05:07:54) Pick new location for the element(s).
+\i (05:07:55) pick grid -3.974 3.771
+\t (05:07:55) last pick:  -3.810  2.540
+\i (05:07:55) generaledit 
+\i (05:07:57) pick grid 5.189 2.576
+\t (05:07:57) last pick:  5.080  2.540
+\i (05:07:57) prepopup 5.189 2.576
+\i (05:07:58) pop dyn_option_select @:@Move 
+\i (05:07:58) move 
+\t (05:07:58) last pick:  5.080  2.540
+\t (05:07:58) last pick:  5.080  2.540
+\t (05:07:58) Pick new location for the element(s).
+\i (05:07:59) pick grid 4.432 2.536
+\t (05:07:59) last pick:  3.810  2.540
+\i (05:07:59) generaledit 
+\i (05:08:00) pick grid 7.500 -1.249
+\t (05:08:00) last pick:  7.620  0.000
+\i (05:09:00) pick grid -0.628 5.245
+\t (05:09:00) last pick:  0.000  5.080
+\i (05:09:12) prepopup -3.217 8.990
+\i (05:09:16) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (05:09:16) define grid 
+\t (05:09:16) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (05:09:16) generaledit 
+\i (05:09:24) setwindow form.grid
+\i (05:09:24) FORM grid non_etch non_etch_x_grids 0.64 
+\i (05:09:24) FORM grid done  
+\i (05:09:32) setwindow pcb
+\i (05:09:32) chg origin 
+\t (05:09:32) Pick new location for drawing origin.
+\i (05:09:37) pick grid -0.747 5.166
+\t (05:09:37) last pick:  -0.640  5.080
+\i (05:09:37) trapsize 199
+\t (05:09:37) Pick point (-0.640 5.080) changed to origin (0.000, 0.000)
+\i (05:09:37) generaledit 
+\i (05:09:59) prepopup 1.048 7.057
+\i (05:10:04) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (05:10:04) define grid 
+\t (05:10:04) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (05:10:04) generaledit 
+\i (05:10:10) setwindow form.grid
+\i (05:10:10) FORM grid non_etch non_etch_y_grids 1.27 
+\i (05:10:10) FORM grid done  
+\i (05:10:22) setwindow pcb
+\i (05:10:22) chg origin 
+\t (05:10:22) Pick new location for drawing origin.
+\i (05:10:24) pick grid -0.028 3.910
+\t (05:10:24) last pick:  0.000  3.810
+\i (05:10:24) trapsize 199
+\t (05:10:24) Pick point (0.000 3.810) changed to origin (0.000, 0.000)
+\i (05:10:24) generaledit 
+\i (05:10:32) zoom in 1 
+\i (05:10:32) setwindow pcb
+\i (05:10:32) zoom in -4.888 2.331
+\i (05:10:32) trapsize 100
+\i (05:10:32) zoom in 1 
+\i (05:10:32) setwindow pcb
+\i (05:10:32) zoom in -4.888 2.332
+\i (05:10:32) trapsize 50
+\i (05:10:32) zoom in 1 
+\i (05:10:32) setwindow pcb
+\i (05:10:32) zoom in -4.889 2.333
+\i (05:10:32) trapsize 25
+\i (05:10:33) zoom out 1 
+\i (05:10:33) setwindow pcb
+\i (05:10:33) zoom out -4.888 2.333
+\i (05:10:33) trapsize 50
+\i (05:10:33) zoom out 1 
+\i (05:10:33) setwindow pcb
+\i (05:10:33) zoom out -4.890 2.334
+\i (05:10:33) trapsize 100
+\i (05:10:34) zoom in 1 
+\i (05:10:34) setwindow pcb
+\i (05:10:34) zoom in -5.248 0.162
+\i (05:10:34) trapsize 50
+\i (05:10:34) zoom in 1 
+\i (05:10:34) setwindow pcb
+\i (05:10:34) zoom in -5.248 0.162
+\i (05:10:34) trapsize 25
+\i (05:10:35) zoom in 1 
+\i (05:10:35) setwindow pcb
+\i (05:10:35) zoom in -5.248 0.162
+\i (05:10:35) trapsize 12
+\i (05:10:37) zoom out 1 
+\i (05:10:37) setwindow pcb
+\i (05:10:37) zoom out -5.248 0.162
+\i (05:10:37) trapsize 25
+\i (05:10:37) zoom out 1 
+\i (05:10:37) setwindow pcb
+\i (05:10:37) zoom out -5.247 0.162
+\i (05:10:37) trapsize 50
+\i (05:10:37) zoom out 1 
+\i (05:10:37) setwindow pcb
+\i (05:10:37) zoom out -5.248 0.163
+\i (05:10:37) trapsize 100
+\i (05:10:37) zoom out 1 
+\i (05:10:37) setwindow pcb
+\i (05:10:37) zoom out -5.248 0.163
+\i (05:10:37) trapsize 199
+\i (05:11:00) prepopup -0.070 -2.865
+\i (05:11:01) prepopup -1.225 -2.069
+\i (05:11:05) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (05:11:05) define grid 
+\t (05:11:05) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (05:11:05) generaledit 
+\i (05:11:57) setwindow form.grid
+\i (05:11:57) FORM grid non_etch non_etch_x_grids 6.625 
+\i (05:12:04) FORM grid non_etch non_etch_y_grids 4.9 
+\i (05:12:11) FORM grid done  
+\i (05:12:25) setwindow pcb
+\i (05:12:25) zoom out 1 
+\i (05:12:25) setwindow pcb
+\i (05:12:25) zoom out -1.225 3.988
+\i (05:12:25) trapsize 398
+\i (05:12:27) zoom in 1 
+\i (05:12:27) setwindow pcb
+\i (05:12:27) zoom in -11.050 6.555
+\i (05:12:27) trapsize 199
+\i (05:12:31) prepopup -6.442 12.491
+\i (05:12:32) pop dyn_option_select @:@Move 
+\i (05:12:32) move 
+\t (05:12:33) last pick:  -6.625  14.700
+\t (05:12:33) last pick:  -6.142  12.286
+\t (05:12:33) Pick new location for the element(s).
+\i (05:12:34) pick grid 5.351 7.232
+\t (05:12:34) last pick:  6.625  4.900
+\i (05:12:34) generaledit 
+\i (05:12:36) pick grid -19.270 11.854
+\t (05:12:36) last pick:  -19.875  9.800
+\i (05:12:37) prepopup -19.270 11.854
+\i (05:12:38) pop dyn_option_select @:@Move 
+\i (05:12:38) move 
+\t (05:12:38) last pick:  -19.875  9.800
+\t (05:12:38) last pick:  -19.858  12.286
+\t (05:12:38) Pick new location for the element(s).
+\i (05:12:39) pick grid -9.828 6.236
+\t (05:12:39) last pick:  -6.625  4.900
+\i (05:12:39) generaledit 
+\i (05:12:45) pick grid -3.015 2.691
+\t (05:12:45) last pick:  0.000  4.900
+\i (05:13:14) prepopup -11.621 9.902
+\i (05:13:17) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (05:13:17) define grid 
+\t (05:13:17) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (05:13:17) generaledit 
+\i (05:13:22) setwindow form.grid
+\i (05:13:22) FORM grid non_etch non_etch_x_grids 4.085 
+\i (05:13:22) FORM grid done  
+\i (05:13:24) setwindow pcb
+\i (05:13:24) prepopup -7.876 11.894
+\i (05:13:26) pop dyn_option_select @:@Move 
+\i (05:13:26) move 
+\t (05:13:26) last pick:  -8.170  9.800
+\t (05:13:26) last pick:  -8.428  12.286
+\t (05:13:26) Pick new location for the element(s).
+\i (05:13:27) pick grid 2.204 5.240
+\t (05:13:27) last pick:  4.085  4.900
+\i (05:13:27) generaledit 
+\i (05:13:29) prepopup -17.398 11.694
+\i (05:13:30) pop dyn_option_select @:@Move 
+\i (05:13:30) move 
+\t (05:13:30) last pick:  -16.340  9.800
+\t (05:13:30) last pick:  -17.572  12.286
+\t (05:13:30) Pick new location for the element(s).
+\i (05:13:31) pick grid -6.043 6.236
+\t (05:13:31) last pick:  -4.085  4.900
+\i (05:13:31) generaledit 
+\i (05:13:32) pick grid -11.023 2.332
+\t (05:13:32) last pick:  -12.255  0.000
+\i (05:13:37) pick grid -5.007 11.495
+\t (05:13:37) last pick:  -4.085  9.800
+\i (05:13:38) prepopup -5.007 11.495
+\i (05:13:40) pop dyn_option_select @:@Move 
+\i (05:13:40) move 
+\t (05:13:40) last pick:  -4.085  9.800
+\t (05:13:40) last pick:  -5.736  11.575
+\t (05:13:40) Pick new location for the element(s).
+\i (05:13:41) pick grid 6.187 1.495
+\t (05:13:41) last pick:  8.170  0.000
+\i (05:13:41) generaledit 
+\i (05:13:42) pick grid -14.808 11.894
+\t (05:13:42) last pick:  -16.340  9.800
+\i (05:13:42) prepopup -14.808 11.894
+\i (05:13:44) pop dyn_option_select @:@Move 
+\i (05:13:44) move 
+\t (05:13:44) last pick:  -16.340  9.800
+\t (05:13:44) last pick:  -15.159  11.575
+\t (05:13:44) Pick new location for the element(s).
+\i (05:13:46) pick grid -10.067 2.372
+\t (05:13:46) last pick:  -8.170  0.000
+\i (05:13:46) generaledit 
+\i (05:13:50) pick grid -12.019 4.045
+\t (05:13:50) last pick:  -12.255  4.900
+\i (05:13:52) pick grid -1.940 7.352
+\t (05:13:52) last pick:  0.000  9.800
+\i (05:13:53) zoom in 1 
+\i (05:13:53) setwindow pcb
+\i (05:13:53) zoom in 1.845 16.356
+\i (05:13:53) trapsize 100
+\i (05:13:53) zoom out 1 
+\i (05:13:53) setwindow pcb
+\i (05:13:53) zoom out 1.845 16.356
+\i (05:13:53) trapsize 199
+\i (05:13:53) zoom out 1 
+\i (05:13:53) setwindow pcb
+\i (05:13:53) zoom out 1.845 16.356
+\i (05:13:53) trapsize 398
+\i (05:13:53) zoom out 1 
+\i (05:13:53) setwindow pcb
+\i (05:13:53) zoom out 23.929 26.156
+\i (05:13:53) trapsize 398
+\i (05:13:53) zoom out 1 
+\i (05:13:53) setwindow pcb
+\i (05:13:53) zoom out 23.929 26.156
+\i (05:13:53) trapsize 398
+\i (05:13:53) zoom out 1 
+\i (05:13:53) setwindow pcb
+\i (05:13:53) zoom out 23.929 26.156
+\i (05:13:53) trapsize 398
+\i (05:13:53) zoom out 1 
+\i (05:13:53) setwindow pcb
+\i (05:13:53) zoom out 23.929 26.156
+\i (05:13:53) trapsize 398
+\i (05:13:55) zoom in 1 
+\i (05:13:55) setwindow pcb
+\i (05:13:55) zoom in -1.409 0.499
+\i (05:13:55) trapsize 199
+\i (05:14:22) prepopup -0.625 2.173
+\i (05:14:25) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (05:14:25) prmed 
+\i (05:14:27) setwindow form.prmedit
+\i (05:14:27) FORM prmedit cancel  
+\i (05:14:27) setwindow pcb
+\i (05:14:27) generaledit 
+\i (05:14:29) prepopup 0.052 -0.298
+\i (05:14:32) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (05:14:32) define grid 
+\t (05:14:32) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (05:14:32) generaledit 
+\i (05:15:00) setwindow form.grid
+\i (05:15:00) FORM grid non_etch non_etch_x_grids 7.745 
+\i (05:15:08) FORM grid non_etch non_etch_y_grids 3.05 
+\i (05:15:09) FORM grid done  
+\i (05:15:12) setwindow pcb
+\i (05:15:12) zoom in 1 
+\i (05:15:12) setwindow pcb
+\i (05:15:12) zoom in -8.553 -3.046
+\i (05:15:12) trapsize 100
+\i (05:15:12) zoom in 1 
+\i (05:15:12) setwindow pcb
+\i (05:15:12) zoom in -8.553 -3.046
+\i (05:15:12) trapsize 50
+\i (05:15:13) zoom in 1 
+\i (05:15:13) setwindow pcb
+\i (05:15:13) zoom in -8.553 -3.045
+\i (05:15:13) trapsize 25
+\i (05:15:13) zoom in 1 
+\i (05:15:13) setwindow pcb
+\i (05:15:13) zoom in -8.553 -3.045
+\i (05:15:13) trapsize 12
+\i (05:15:15) prepopup -8.012 -3.055
+\i (05:15:17) pop dyn_option_select @:@Move 
+\i (05:15:17) move 
+\t (05:15:17) last pick:  -7.745  -3.050
+\t (05:15:17) last pick:  -8.000  -3.050
+\t (05:15:17) Pick new location for the element(s).
+\i (05:15:18) pick grid -8.012 -3.055
+\t (05:15:18) last pick:  -7.745  -3.050
+\i (05:15:18) generaledit 
+\i (05:15:19) zoom out 1 
+\i (05:15:19) setwindow pcb
+\i (05:15:19) zoom out -7.754 -3.065
+\i (05:15:19) trapsize 25
+\i (05:15:19) zoom out 1 
+\i (05:15:19) setwindow pcb
+\i (05:15:19) zoom out -7.753 -3.064
+\i (05:15:19) trapsize 50
+\i (05:15:19) zoom out 1 
+\i (05:15:19) setwindow pcb
+\i (05:15:19) zoom out -7.754 -3.064
+\i (05:15:19) trapsize 100
+\i (05:15:20) zoom out 1 
+\i (05:15:20) setwindow pcb
+\i (05:15:20) zoom out -7.753 -3.064
+\i (05:15:20) trapsize 199
+\i (05:15:20) zoom out 1 
+\i (05:15:20) setwindow pcb
+\i (05:15:20) zoom out 0.705 -3.065
+\i (05:15:20) trapsize 398
+\i (05:15:23) zoom in 1 
+\i (05:15:23) setwindow pcb
+\i (05:15:23) zoom in 7.675 -2.927
+\i (05:15:23) trapsize 199
+\i (05:15:23) zoom in 1 
+\i (05:15:23) setwindow pcb
+\i (05:15:23) zoom in -6.282 -2.927
+\i (05:15:23) trapsize 100
+\i (05:15:23) zoom in 1 
+\i (05:15:23) setwindow pcb
+\i (05:15:23) zoom in -6.282 -2.927
+\i (05:15:23) trapsize 50
+\i (05:15:24) zoom out 1 
+\i (05:15:24) setwindow pcb
+\i (05:15:24) zoom out -6.282 -2.926
+\i (05:15:24) trapsize 100
+\i (05:15:24) zoom out 1 
+\i (05:15:24) setwindow pcb
+\i (05:15:24) zoom out -6.282 -2.927
+\i (05:15:24) trapsize 199
+\i (05:15:24) zoom out 1 
+\i (05:15:24) setwindow pcb
+\i (05:15:24) zoom out -6.285 -2.926
+\i (05:15:24) trapsize 398
+\i (05:15:24) zoom out 1 
+\i (05:15:24) setwindow pcb
+\i (05:15:24) zoom out 7.675 -2.927
+\i (05:15:24) trapsize 398
+\i (05:15:25) zoom in 1 
+\i (05:15:25) setwindow pcb
+\i (05:15:25) zoom in 7.754 -2.449
+\i (05:15:25) trapsize 199
+\i (05:15:25) zoom in 1 
+\i (05:15:25) setwindow pcb
+\i (05:15:25) zoom in -5.804 -2.329
+\i (05:15:25) trapsize 100
+\i (05:15:28) prepopup 7.024 -2.827
+\i (05:15:29) pop dyn_option_select @:@Move 
+\i (05:15:29) move 
+\t (05:15:29) last pick:  7.745  -3.050
+\t (05:15:29) last pick:  8.000  -3.050
+\t (05:15:29) Pick new location for the element(s).
+\i (05:15:31) pick grid 7.024 -2.827
+\t (05:15:31) last pick:  7.745  -3.050
+\i (05:15:31) generaledit 
+\i (05:15:32) pick grid 2.582 -2.926
+\t (05:15:32) last pick:  0.000  -3.050
+\i (05:15:34) zoom out 1 
+\i (05:15:34) setwindow pcb
+\i (05:15:34) zoom out 2.582 -2.926
+\i (05:15:34) trapsize 199
+\i (05:15:34) zoom out 1 
+\i (05:15:34) setwindow pcb
+\i (05:15:34) zoom out 7.435 -2.926
+\i (05:15:34) trapsize 398
+\i (05:15:34) zoom out 1 
+\i (05:15:34) setwindow pcb
+\i (05:15:34) zoom out 42.176 -4.601
+\i (05:15:34) trapsize 398
+\i (05:15:36) zoom in 1 
+\i (05:15:36) setwindow pcb
+\i (05:15:36) zoom in -10.413 -6.991
+\i (05:15:36) trapsize 199
+\i (05:15:41) prepopup -15.326 -6.991
+\i (05:15:43) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (05:15:44) define grid 
+\t (05:15:44) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (05:15:44) generaledit 
+\i (05:15:48) setwindow form.grid
+\i (05:15:48) FORM grid non_etch non_etch_x_grids 8 
+\i (05:15:58) FORM grid non_etch non_etch_y_grids 10.92 
+\i (05:15:58) FORM grid done  
+\i (05:16:05) setwindow pcb
+\i (05:16:05) zoom out 1 
+\i (05:16:05) setwindow pcb
+\i (05:16:05) zoom out -15.326 -6.991
+\i (05:16:05) trapsize 398
+\i (05:16:05) zoom out 1 
+\i (05:16:05) setwindow pcb
+\i (05:16:05) zoom out -10.413 -6.991
+\i (05:16:05) trapsize 398
+\i (05:16:13) delete 
+\i (05:16:15) pick grid 3.133 18.666
+\t (05:16:15) last pick:  0.000  21.840
+\t (05:16:15) Shape "Ref Des/Assembly_Top"
+\i (05:16:16) pick grid 1.858 18.746
+\t (05:16:16) last pick:  0.000  21.840
+\i (05:16:18) prepopup -8.739 21.375
+\i (05:16:19) done 
+\i (05:16:19) generaledit 
+\i (05:16:20) shape add rect 
+\i (05:16:24) pick grid -8.182 -10.975
+\t (05:16:24) last pick:  -8.000  -10.920
+\i (05:16:27) pick grid 5.762 5.678
+\t (05:16:27) last pick:  8.000  10.920
+\i (05:16:30) undo 
+\i (05:16:30) trapsize 398
+\i (05:16:30) generaledit 
+\i (05:16:32) shape add rect 
+\i (05:16:42) setwindow form.mini
+\i (05:16:42) FORM mini subclass ASSEMBLY_TOP 
+\i (05:16:44) setwindow pcb
+\i (05:16:44) pick grid -8.182 -10.975
+\t (05:16:44) last pick:  -8.000  -10.920
+\i (05:16:46) pick grid 4.886 5.678
+\t (05:16:46) last pick:  8.000  10.920
+\i (05:16:47) prepopup 15.005 9.343
+\i (05:16:48) done 
+\i (05:16:48) generaledit 
+\i (05:16:49) pick grid 15.005 9.343
+\t (05:16:49) last pick:  16.000  10.920
+\i (05:16:50) pick grid -0.373 20.817
+\t (05:16:50) last pick:  0.000  21.840
+\i (05:16:52) save 
+\i (05:16:56) fillin yes 
+\t (05:16:57) Symbol 'rj45.psm' created.
+\i (05:16:57) generaledit 
+\i (05:16:57) zoom in 1 
+\i (05:16:57) setwindow pcb
+\i (05:16:57) zoom in 1.858 -9.780
+\i (05:16:57) trapsize 199
+\i (05:16:57) zoom in 1 
+\i (05:16:57) setwindow pcb
+\i (05:16:57) zoom in -9.191 -9.780
+\i (05:16:57) trapsize 100
+\i (05:17:06) zoom out 1 
+\i (05:17:06) setwindow pcb
+\i (05:17:06) zoom out 0.531 -6.633
+\i (05:17:06) trapsize 199
+\i (05:17:09) zoom out 1 
+\i (05:17:09) setwindow pcb
+\i (05:17:09) zoom out 10.822 -9.501
+\i (05:17:09) trapsize 398
+\i (05:17:10) zoom in 1 
+\i (05:17:10) setwindow pcb
+\i (05:17:10) zoom in -6.190 1.853
+\i (05:17:10) trapsize 199
+\i (05:17:27) exit 
+\t (05:17:28)     Journal end - Thu Oct 26 13:57:01 2017

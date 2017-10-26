@@ -1,23 +1,14 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    CREATE SYMBOL                                                    )
+(    PDF Export                                                       )
 (                                                                     )
-(    Drawing          : RJ45.dra                                      )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Thu Oct 26 13:56:30 2017                      )
+(    Date/Time        : Wed Oct 25 21:52:49 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Create Symbol of type: PACKAGE
-    Directory = C:/Cadence/Projects/ArtNet_Node
-    Name      = rj45.psm
-    User      = nairo
-    Machine   = DESKTOP-PHA2IGQ
 
-
-Create symbol started.
- 
-
-Create symbol completed.
-
+Output file: C:/CADENCE/PROJECTS/ARTNET_NODE/allegro/ARTNET_NODE_2.pdf
+Design file: C:/CADENCE/PROJECTS/ARTNET_NODE/allegro/ARTNET_NODE_2.brd
+pdf_out complete.
